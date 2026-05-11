@@ -1,0 +1,641 @@
+complaint_id,created_date,district,channel,customer_type,complaint_text,outage_minutes_recent,priority,category,target_team
+CP00001,2025-06-28,Thon Buri,Call Center,Industrial,แรงดันไฟไม่นิ่งช่วงกลางคืน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,18,High,Voltage,Power Quality
+CP00002,2025-05-15,Thon Buri,Mobile App,Mixed,ขอให้ตรวจสอบเลขมิเตอร์. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,12,Low,Meter,Meter Service
+CP00003,2025-05-05,Bang Kho Laem,Website,Industrial,อ่านมิเตอร์ไม่ตรงกับใบแจ้งค่าไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,Low,Meter,Meter Service
+CP00004,2025-05-13,Phaya Thai,Call Center,Industrial,มิเตอร์หมุนเร็วผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,Low,Meter,Meter Service
+CP00005,2025-05-07,Phaya Thai,Call Center,Commercial,ชำระแล้วแต่ระบบยังขึ้นค้างชำระ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,Medium,Billing,Billing Service
+CP00006,2025-06-27,Phaya Thai,Call Center,Residential,ต้องการตรวจสอบใบแจ้งค่าไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,12,High,Billing,Billing Service
+CP00007,2025-06-21,Thon Buri,Website,Government,ชำระแล้วแต่ระบบยังขึ้นค้างชำระ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,25,Medium,Billing,Billing Service
+CP00008,2025-04-19,Khlong Toei,Field Office,Residential,อ่านมิเตอร์ไม่ตรงกับใบแจ้งค่าไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,2,High,Meter,Meter Service
+CP00009,2025-04-04,Din Daeng,Website,Industrial,หม้อแปลงมีเสียงดังแล้วไฟดับ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,147,High,Outage,Field Operation
+CP00010,2025-06-15,Lat Phrao,Field Office,Industrial,ต้องการตรวจสอบใบแจ้งค่าไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Billing,Billing Service
+CP00011,2025-06-17,Bang Kho Laem,Call Center,Residential,ขอให้ตรวจสอบเลขมิเตอร์. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,38,High,Meter,Meter Service
+CP00012,2025-04-24,Khlong Toei,Website,Industrial,ค่าไฟเดือนนี้สูงผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,26,Medium,Billing,Billing Service
+CP00013,2025-05-21,Lat Phrao,Call Center,Industrial,มีสายไฟหย่อนใกล้ทางเดิน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,20,High,Safety,Emergency Safety
+CP00014,2025-05-15,Phaya Thai,Field Office,Mixed,ต้องการตรวจสอบใบแจ้งค่าไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,Low,Billing,Billing Service
+CP00015,2025-06-21,Bang Kho Laem,Field Office,Mixed,ไฟดับเฉพาะอาคารและเบรกเกอร์หลักไม่ตัด. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,144,High,Outage,Field Operation
+CP00016,2025-04-30,Phaya Thai,Call Center,Government,ต้องการตรวจสอบใบแจ้งค่าไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Billing,Billing Service
+CP00017,2025-04-07,Din Daeng,Mobile App,Residential,ต้องการตรวจสอบใบแจ้งค่าไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Billing,Billing Service
+CP00018,2025-05-03,Bang Kho Laem,Call Center,Mixed,แรงดันไฟไม่นิ่งช่วงกลางคืน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,11,Medium,Voltage,Power Quality
+CP00019,2025-06-13,Bang Kapi,Call Center,Commercial,ต้องการตรวจสอบใบแจ้งค่าไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,63,Medium,Billing,Billing Service
+CP00020,2025-05-18,Bang Khen,Line OA,Government,เสาไฟมีประกายไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Safety,Emergency Safety
+CP00021,2025-06-23,Lat Phrao,Call Center,Commercial,ไฟดับเฉพาะอาคารและเบรกเกอร์หลักไม่ตัด. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,136,High,Outage,Field Operation
+CP00022,2025-06-29,Din Daeng,Mobile App,Residential,ไฟดับเฉพาะอาคารและเบรกเกอร์หลักไม่ตัด. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,136,High,Outage,Field Operation
+CP00023,2025-06-21,Phaya Thai,Line OA,Government,ไฟดับเฉพาะอาคารและเบรกเกอร์หลักไม่ตัด. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,113,High,Outage,Field Operation
+CP00024,2025-05-26,Khlong Toei,Line OA,Industrial,ชำระแล้วแต่ระบบยังขึ้นค้างชำระ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,31,Low,Billing,Billing Service
+CP00025,2025-05-28,Phaya Thai,Field Office,Commercial,กล่องไฟมีกลิ่นไหม้และมีควัน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,19,High,Safety,Emergency Safety
+CP00026,2025-06-11,Bang Khen,Line OA,Mixed,กล่องไฟมีกลิ่นไหม้และมีควัน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Safety,Emergency Safety
+CP00027,2025-04-01,Phaya Thai,Field Office,Mixed,ค่าไฟเดือนนี้สูงผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,24,Low,Billing,Billing Service
+CP00028,2025-04-24,Phaya Thai,Mobile App,Commercial,ไฟตกบ่อย เครื่องใช้ไฟฟ้าดับ ๆ ติด ๆ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,20,Low,Voltage,Power Quality
+CP00029,2025-06-19,Din Daeng,Call Center,Residential,หม้อแปลงมีเสียงดังแล้วไฟดับ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,91,High,Outage,Field Operation
+CP00030,2025-05-13,Bang Kho Laem,Mobile App,Commercial,หม้อแปลงมีเสียงดังแล้วไฟดับ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,53,High,Outage,Field Operation
+CP00031,2025-04-22,Bang Kapi,Line OA,Industrial,เสาไฟมีประกายไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,27,High,Safety,Emergency Safety
+CP00032,2025-04-30,Din Daeng,Website,Residential,ค่าไฟเดือนนี้สูงผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,41,Medium,Billing,Billing Service
+CP00033,2025-04-07,Phaya Thai,Field Office,Industrial,ไฟดับเฉพาะอาคารและเบรกเกอร์หลักไม่ตัด. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,29,High,Outage,Field Operation
+CP00034,2025-04-27,Bang Kho Laem,Call Center,Mixed,ไฟตกบ่อย เครื่องใช้ไฟฟ้าดับ ๆ ติด ๆ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,16,Medium,Voltage,Power Quality
+CP00035,2025-04-18,Lat Phrao,Field Office,Government,ค่าไฟเดือนนี้สูงผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,11,Low,Billing,Billing Service
+CP00036,2025-04-29,Bang Kapi,Field Office,Industrial,ไฟดับทั้งซอยตั้งแต่ช่วงเย็น. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,202,High,Outage,Field Operation
+CP00037,2025-05-19,Bang Kho Laem,Field Office,Residential,ไฟตกบ่อย เครื่องใช้ไฟฟ้าดับ ๆ ติด ๆ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,29,High,Voltage,Power Quality
+CP00038,2025-05-11,Bang Khen,Call Center,Mixed,หม้อแปลงมีเสียงดังแล้วไฟดับ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,146,High,Outage,Field Operation
+CP00039,2025-04-22,Bang Khen,Field Office,Residential,ค่าไฟเดือนนี้สูงผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,17,Medium,Billing,Billing Service
+CP00040,2025-04-10,Bang Khen,Call Center,Government,ไฟตกบ่อย เครื่องใช้ไฟฟ้าดับ ๆ ติด ๆ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,9,Medium,Voltage,Power Quality
+CP00041,2025-05-15,Thon Buri,Field Office,Residential,มิเตอร์หมุนเร็วผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,47,High,Meter,Meter Service
+CP00042,2025-06-21,Bang Kho Laem,Line OA,Mixed,ค่าไฟเดือนนี้สูงผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Billing,Billing Service
+CP00043,2025-06-14,Bang Khen,Mobile App,Industrial,แรงดันไฟไม่นิ่งช่วงกลางคืน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,12,High,Voltage,Power Quality
+CP00044,2025-06-13,Lat Phrao,Website,Mixed,ขอให้ตรวจสอบเลขมิเตอร์. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,29,Low,Meter,Meter Service
+CP00045,2025-06-28,Lat Phrao,Mobile App,Industrial,ค่าไฟเดือนนี้สูงผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,25,Medium,Billing,Billing Service
+CP00046,2025-05-26,Bang Khen,Field Office,Government,ค่าไฟเดือนนี้สูงผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,35,Medium,Billing,Billing Service
+CP00047,2025-06-27,Din Daeng,Mobile App,Government,กล่องไฟมีกลิ่นไหม้และมีควัน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Safety,Emergency Safety
+CP00048,2025-06-16,Din Daeng,Mobile App,Commercial,ไฟตกบ่อย เครื่องใช้ไฟฟ้าดับ ๆ ติด ๆ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Voltage,Power Quality
+CP00049,2025-04-22,Lat Phrao,Website,Commercial,ต้องการตรวจสอบใบแจ้งค่าไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,Medium,Billing,Billing Service
+CP00050,2025-06-22,Phaya Thai,Mobile App,Commercial,อ่านมิเตอร์ไม่ตรงกับใบแจ้งค่าไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,8,Medium,Meter,Meter Service
+CP00051,2025-05-21,Din Daeng,Field Office,Commercial,แรงดันไฟไม่นิ่งช่วงกลางคืน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,Medium,Voltage,Power Quality
+CP00052,2025-06-02,Phaya Thai,Line OA,Government,ต้องการตรวจสอบใบแจ้งค่าไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,12,Medium,Billing,Billing Service
+CP00053,2025-06-26,Bang Khen,Line OA,Mixed,เสาไฟมีประกายไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,6,High,Safety,Emergency Safety
+CP00054,2025-05-30,Phaya Thai,Line OA,Commercial,เสาไฟมีประกายไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,2,High,Safety,Emergency Safety
+CP00055,2025-04-18,Bang Kapi,Mobile App,Commercial,แรงดันไฟไม่นิ่งช่วงกลางคืน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,3,High,Voltage,Power Quality
+CP00056,2025-05-26,Bang Kho Laem,Field Office,Mixed,ชำระแล้วแต่ระบบยังขึ้นค้างชำระ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Billing,Billing Service
+CP00057,2025-04-18,Thon Buri,Call Center,Government,หม้อแปลงมีเสียงดังแล้วไฟดับ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,145,Low,Outage,Field Operation
+CP00058,2025-05-30,Din Daeng,Call Center,Industrial,ค่าไฟเดือนนี้สูงผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,50,Low,Billing,Billing Service
+CP00059,2025-05-24,Thon Buri,Line OA,Government,ค่าไฟเดือนนี้สูงผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,36,Low,Billing,Billing Service
+CP00060,2025-05-15,Bang Kho Laem,Call Center,Mixed,ขอให้ตรวจสอบเลขมิเตอร์. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,9,Medium,Meter,Meter Service
+CP00061,2025-06-06,Phaya Thai,Website,Government,ต้องการตรวจสอบใบแจ้งค่าไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,46,Low,Billing,Billing Service
+CP00062,2025-05-17,Lat Phrao,Mobile App,Industrial,ไฟดับเฉพาะอาคารและเบรกเกอร์หลักไม่ตัด. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,51,High,Outage,Field Operation
+CP00063,2025-06-04,Phaya Thai,Field Office,Industrial,กล่องไฟมีกลิ่นไหม้และมีควัน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,57,High,Safety,Emergency Safety
+CP00064,2025-06-17,Khlong Toei,Call Center,Residential,ขอให้ตรวจสอบเลขมิเตอร์. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,Medium,Meter,Meter Service
+CP00065,2025-04-30,Khlong Toei,Line OA,Government,เสาไฟมีประกายไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Safety,Emergency Safety
+CP00066,2025-06-08,Thon Buri,Mobile App,Mixed,ค่าไฟเดือนนี้สูงผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,5,High,Billing,Billing Service
+CP00067,2025-05-23,Bang Kho Laem,Line OA,Commercial,ไฟดับทั้งซอยตั้งแต่ช่วงเย็น. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,6,Medium,Outage,Field Operation
+CP00068,2025-06-09,Khlong Toei,Website,Industrial,เสาไฟมีประกายไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,10,High,Safety,Emergency Safety
+CP00069,2025-04-28,Thon Buri,Website,Government,แรงดันไฟไม่นิ่งช่วงกลางคืน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,25,Medium,Voltage,Power Quality
+CP00070,2025-06-08,Thon Buri,Line OA,Industrial,แรงดันไฟไม่นิ่งช่วงกลางคืน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,8,High,Voltage,Power Quality
+CP00071,2025-04-01,Din Daeng,Field Office,Mixed,ไฟกระพริบต่อเนื่องหลังฝนตก. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,Medium,Voltage,Power Quality
+CP00072,2025-06-08,Lat Phrao,Website,Industrial,กล่องไฟมีกลิ่นไหม้และมีควัน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,17,High,Safety,Emergency Safety
+CP00073,2025-05-14,Phaya Thai,Website,Government,มีสายไฟหย่อนใกล้ทางเดิน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,26,High,Safety,Emergency Safety
+CP00074,2025-05-26,Phaya Thai,Website,Government,ไฟตกบ่อย เครื่องใช้ไฟฟ้าดับ ๆ ติด ๆ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,10,Medium,Voltage,Power Quality
+CP00075,2025-05-28,Bang Kapi,Line OA,Industrial,ค่าไฟเดือนนี้สูงผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,52,High,Billing,Billing Service
+CP00076,2025-06-25,Bang Kho Laem,Mobile App,Mixed,ไฟดับทั้งซอยตั้งแต่ช่วงเย็น. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,27,Medium,Outage,Field Operation
+CP00077,2025-05-27,Thon Buri,Website,Industrial,แรงดันไฟไม่นิ่งช่วงกลางคืน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,13,Medium,Voltage,Power Quality
+CP00078,2025-05-16,Khlong Toei,Website,Government,ชำระแล้วแต่ระบบยังขึ้นค้างชำระ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Billing,Billing Service
+CP00079,2025-06-22,Phaya Thai,Mobile App,Government,มิเตอร์หมุนเร็วผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,3,Medium,Meter,Meter Service
+CP00080,2025-06-13,Thon Buri,Line OA,Government,เสาไฟมีประกายไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Safety,Emergency Safety
+CP00081,2025-06-02,Bang Khen,Website,Government,แรงดันไฟไม่นิ่งช่วงกลางคืน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,Low,Voltage,Power Quality
+CP00082,2025-04-20,Lat Phrao,Mobile App,Commercial,อ่านมิเตอร์ไม่ตรงกับใบแจ้งค่าไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,Low,Meter,Meter Service
+CP00083,2025-06-09,Lat Phrao,Line OA,Industrial,มีสายไฟหย่อนใกล้ทางเดิน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Safety,Emergency Safety
+CP00084,2025-06-03,Bang Kho Laem,Line OA,Industrial,ไฟตกบ่อย เครื่องใช้ไฟฟ้าดับ ๆ ติด ๆ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,22,Medium,Voltage,Power Quality
+CP00085,2025-04-16,Bang Khen,Call Center,Residential,ไฟดับทั้งซอยตั้งแต่ช่วงเย็น. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Outage,Field Operation
+CP00086,2025-04-06,Lat Phrao,Field Office,Industrial,ค่าไฟเดือนนี้สูงผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,33,Medium,Billing,Billing Service
+CP00087,2025-04-29,Bang Khen,Website,Industrial,ไฟดับทั้งซอยตั้งแต่ช่วงเย็น. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,188,Medium,Outage,Field Operation
+CP00088,2025-04-24,Khlong Toei,Mobile App,Residential,ไฟกระพริบต่อเนื่องหลังฝนตก. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,16,Medium,Voltage,Power Quality
+CP00089,2025-04-26,Khlong Toei,Call Center,Mixed,หม้อแปลงมีเสียงดังแล้วไฟดับ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,60,High,Outage,Field Operation
+CP00090,2025-04-07,Bang Kapi,Mobile App,Commercial,แรงดันไฟไม่นิ่งช่วงกลางคืน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,35,Medium,Voltage,Power Quality
+CP00091,2025-06-29,Bang Kho Laem,Line OA,Government,ไฟกระพริบต่อเนื่องหลังฝนตก. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,46,High,Voltage,Power Quality
+CP00092,2025-06-09,Khlong Toei,Mobile App,Residential,เสาไฟมีประกายไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,16,High,Safety,Emergency Safety
+CP00093,2025-05-20,Bang Kho Laem,Call Center,Government,มิเตอร์หมุนเร็วผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Meter,Meter Service
+CP00094,2025-04-02,Khlong Toei,Call Center,Commercial,ต้องการตรวจสอบใบแจ้งค่าไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,30,High,Billing,Billing Service
+CP00095,2025-05-13,Thon Buri,Call Center,Government,แรงดันไฟไม่นิ่งช่วงกลางคืน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,Medium,Voltage,Power Quality
+CP00096,2025-05-13,Bang Kapi,Mobile App,Mixed,แรงดันไฟไม่นิ่งช่วงกลางคืน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,11,Medium,Voltage,Power Quality
+CP00097,2025-04-29,Lat Phrao,Website,Industrial,ขอให้ตรวจสอบเลขมิเตอร์. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,30,Medium,Meter,Meter Service
+CP00098,2025-05-11,Din Daeng,Line OA,Mixed,ไฟดับทั้งซอยตั้งแต่ช่วงเย็น. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,36,Medium,Outage,Field Operation
+CP00099,2025-05-25,Phaya Thai,Line OA,Mixed,เสาไฟมีประกายไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,2,High,Safety,Emergency Safety
+CP00100,2025-05-04,Din Daeng,Website,Mixed,อ่านมิเตอร์ไม่ตรงกับใบแจ้งค่าไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,Medium,Meter,Meter Service
+CP00101,2025-05-12,Phaya Thai,Field Office,Residential,ขอให้ตรวจสอบเลขมิเตอร์. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,14,Low,Meter,Meter Service
+CP00102,2025-06-22,Khlong Toei,Mobile App,Commercial,เสาไฟมีประกายไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Safety,Emergency Safety
+CP00103,2025-04-06,Khlong Toei,Website,Residential,ไฟดับทั้งซอยตั้งแต่ช่วงเย็น. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,119,High,Outage,Field Operation
+CP00104,2025-06-22,Thon Buri,Mobile App,Government,กล่องไฟมีกลิ่นไหม้และมีควัน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Safety,Emergency Safety
+CP00105,2025-05-12,Bang Kapi,Mobile App,Industrial,กล่องไฟมีกลิ่นไหม้และมีควัน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,49,High,Safety,Emergency Safety
+CP00106,2025-05-17,Din Daeng,Line OA,Mixed,ต้องการตรวจสอบใบแจ้งค่าไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,25,High,Billing,Billing Service
+CP00107,2025-04-06,Bang Kapi,Website,Government,ต้องการตรวจสอบใบแจ้งค่าไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Billing,Billing Service
+CP00108,2025-06-04,Bang Kapi,Website,Residential,เสาไฟมีประกายไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,5,High,Safety,Emergency Safety
+CP00109,2025-05-20,Khlong Toei,Call Center,Residential,กล่องไฟมีกลิ่นไหม้และมีควัน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,1,High,Safety,Emergency Safety
+CP00110,2025-05-21,Bang Khen,Line OA,Commercial,หม้อแปลงมีเสียงดังแล้วไฟดับ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,98,Low,Outage,Field Operation
+CP00111,2025-05-01,Phaya Thai,Website,Mixed,อ่านมิเตอร์ไม่ตรงกับใบแจ้งค่าไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Meter,Meter Service
+CP00112,2025-05-15,Khlong Toei,Line OA,Residential,ต้องการตรวจสอบใบแจ้งค่าไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,65,Medium,Billing,Billing Service
+CP00113,2025-05-16,Din Daeng,Website,Residential,มีสายไฟหย่อนใกล้ทางเดิน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Safety,Emergency Safety
+CP00114,2025-05-26,Bang Kho Laem,Mobile App,Government,ไฟดับทั้งซอยตั้งแต่ช่วงเย็น. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,87,Low,Outage,Field Operation
+CP00115,2025-04-10,Bang Kapi,Website,Commercial,ไฟกระพริบต่อเนื่องหลังฝนตก. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,39,Medium,Voltage,Power Quality
+CP00116,2025-06-06,Phaya Thai,Call Center,Residential,เสาไฟมีประกายไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,21,High,Safety,Emergency Safety
+CP00117,2025-06-17,Lat Phrao,Website,Residential,ไฟกระพริบต่อเนื่องหลังฝนตก. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,4,Medium,Voltage,Power Quality
+CP00118,2025-04-23,Thon Buri,Mobile App,Mixed,ชำระแล้วแต่ระบบยังขึ้นค้างชำระ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,Medium,Billing,Billing Service
+CP00119,2025-04-16,Khlong Toei,Line OA,Government,แรงดันไฟไม่นิ่งช่วงกลางคืน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,3,Medium,Voltage,Power Quality
+CP00120,2025-04-13,Khlong Toei,Call Center,Commercial,ไฟดับเฉพาะอาคารและเบรกเกอร์หลักไม่ตัด. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,108,Low,Outage,Field Operation
+CP00121,2025-05-06,Lat Phrao,Field Office,Government,กล่องไฟมีกลิ่นไหม้และมีควัน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Safety,Emergency Safety
+CP00122,2025-04-10,Bang Khen,Call Center,Industrial,มิเตอร์หมุนเร็วผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,19,Medium,Meter,Meter Service
+CP00123,2025-04-06,Din Daeng,Line OA,Government,ไฟดับเฉพาะอาคารและเบรกเกอร์หลักไม่ตัด. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,99,Low,Outage,Field Operation
+CP00124,2025-04-03,Bang Kapi,Website,Mixed,ไฟดับเฉพาะอาคารและเบรกเกอร์หลักไม่ตัด. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,87,High,Outage,Field Operation
+CP00125,2025-04-15,Khlong Toei,Call Center,Industrial,กล่องไฟมีกลิ่นไหม้และมีควัน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Safety,Emergency Safety
+CP00126,2025-06-24,Din Daeng,Mobile App,Industrial,เสาไฟมีประกายไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,12,High,Safety,Emergency Safety
+CP00127,2025-05-06,Lat Phrao,Website,Residential,อ่านมิเตอร์ไม่ตรงกับใบแจ้งค่าไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,24,Medium,Meter,Meter Service
+CP00128,2025-04-20,Lat Phrao,Mobile App,Residential,มีสายไฟหย่อนใกล้ทางเดิน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,18,High,Safety,Emergency Safety
+CP00129,2025-06-22,Din Daeng,Mobile App,Mixed,ไฟดับทั้งซอยตั้งแต่ช่วงเย็น. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,33,Medium,Outage,Field Operation
+CP00130,2025-05-12,Khlong Toei,Website,Residential,แรงดันไฟไม่นิ่งช่วงกลางคืน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,Medium,Voltage,Power Quality
+CP00131,2025-05-24,Khlong Toei,Mobile App,Mixed,ต้องการตรวจสอบใบแจ้งค่าไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,11,Medium,Billing,Billing Service
+CP00132,2025-06-27,Bang Kho Laem,Mobile App,Industrial,แรงดันไฟไม่นิ่งช่วงกลางคืน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,Medium,Voltage,Power Quality
+CP00133,2025-05-31,Khlong Toei,Website,Residential,ต้องการตรวจสอบใบแจ้งค่าไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,Medium,Billing,Billing Service
+CP00134,2025-04-24,Lat Phrao,Mobile App,Mixed,ต้องการตรวจสอบใบแจ้งค่าไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,20,High,Billing,Billing Service
+CP00135,2025-06-24,Thon Buri,Call Center,Government,ชำระแล้วแต่ระบบยังขึ้นค้างชำระ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,Medium,Billing,Billing Service
+CP00136,2025-04-19,Thon Buri,Field Office,Residential,ไฟกระพริบต่อเนื่องหลังฝนตก. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Voltage,Power Quality
+CP00137,2025-06-13,Din Daeng,Call Center,Commercial,ต้องการตรวจสอบใบแจ้งค่าไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,39,High,Billing,Billing Service
+CP00138,2025-06-28,Din Daeng,Mobile App,Government,อ่านมิเตอร์ไม่ตรงกับใบแจ้งค่าไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,Medium,Meter,Meter Service
+CP00139,2025-06-09,Khlong Toei,Mobile App,Commercial,ต้องการตรวจสอบใบแจ้งค่าไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,1,Medium,Billing,Billing Service
+CP00140,2025-06-27,Lat Phrao,Mobile App,Government,เสาไฟมีประกายไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,4,High,Safety,Emergency Safety
+CP00141,2025-05-07,Lat Phrao,Website,Industrial,ไฟดับทั้งซอยตั้งแต่ช่วงเย็น. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,88,High,Outage,Field Operation
+CP00142,2025-06-05,Lat Phrao,Field Office,Government,ต้องการตรวจสอบใบแจ้งค่าไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,69,Medium,Billing,Billing Service
+CP00143,2025-05-21,Din Daeng,Call Center,Government,ต้องการตรวจสอบใบแจ้งค่าไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,Medium,Billing,Billing Service
+CP00144,2025-06-20,Bang Kapi,Field Office,Mixed,มีสายไฟหย่อนใกล้ทางเดิน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Safety,Emergency Safety
+CP00145,2025-06-24,Lat Phrao,Line OA,Commercial,ไฟดับทั้งซอยตั้งแต่ช่วงเย็น. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,165,Medium,Outage,Field Operation
+CP00146,2025-04-19,Thon Buri,Website,Commercial,ไฟตกบ่อย เครื่องใช้ไฟฟ้าดับ ๆ ติด ๆ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,14,Medium,Voltage,Power Quality
+CP00147,2025-05-23,Thon Buri,Mobile App,Industrial,หม้อแปลงมีเสียงดังแล้วไฟดับ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,51,High,Outage,Field Operation
+CP00148,2025-06-05,Bang Khen,Line OA,Residential,หม้อแปลงมีเสียงดังแล้วไฟดับ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,33,Low,Outage,Field Operation
+CP00149,2025-05-04,Khlong Toei,Line OA,Residential,เสาไฟมีประกายไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,41,High,Safety,Emergency Safety
+CP00150,2025-04-20,Bang Kho Laem,Website,Commercial,ไฟตกบ่อย เครื่องใช้ไฟฟ้าดับ ๆ ติด ๆ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Voltage,Power Quality
+CP00151,2025-05-06,Thon Buri,Call Center,Commercial,ค่าไฟเดือนนี้สูงผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,Low,Billing,Billing Service
+CP00152,2025-06-03,Bang Kho Laem,Call Center,Mixed,ขอให้ตรวจสอบเลขมิเตอร์. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,25,High,Meter,Meter Service
+CP00153,2025-04-11,Din Daeng,Call Center,Government,หม้อแปลงมีเสียงดังแล้วไฟดับ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,42,Low,Outage,Field Operation
+CP00154,2025-05-25,Khlong Toei,Field Office,Industrial,ขอให้ตรวจสอบเลขมิเตอร์. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,21,Low,Meter,Meter Service
+CP00155,2025-05-09,Phaya Thai,Website,Commercial,หม้อแปลงมีเสียงดังแล้วไฟดับ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,89,High,Outage,Field Operation
+CP00156,2025-04-18,Thon Buri,Line OA,Industrial,หม้อแปลงมีเสียงดังแล้วไฟดับ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,50,High,Outage,Field Operation
+CP00157,2025-05-05,Thon Buri,Website,Government,ค่าไฟเดือนนี้สูงผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,12,High,Billing,Billing Service
+CP00158,2025-04-06,Bang Kho Laem,Call Center,Government,ไฟดับเฉพาะอาคารและเบรกเกอร์หลักไม่ตัด. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,148,Medium,Outage,Field Operation
+CP00159,2025-06-18,Lat Phrao,Website,Mixed,หม้อแปลงมีเสียงดังแล้วไฟดับ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,147,Medium,Outage,Field Operation
+CP00160,2025-04-25,Thon Buri,Field Office,Residential,อ่านมิเตอร์ไม่ตรงกับใบแจ้งค่าไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,Medium,Meter,Meter Service
+CP00161,2025-05-21,Phaya Thai,Field Office,Mixed,ต้องการตรวจสอบใบแจ้งค่าไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,8,Medium,Billing,Billing Service
+CP00162,2025-05-16,Bang Kapi,Line OA,Mixed,ค่าไฟเดือนนี้สูงผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,24,Medium,Billing,Billing Service
+CP00163,2025-05-25,Din Daeng,Website,Commercial,ชำระแล้วแต่ระบบยังขึ้นค้างชำระ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,16,Low,Billing,Billing Service
+CP00164,2025-05-10,Thon Buri,Call Center,Residential,ไฟกระพริบต่อเนื่องหลังฝนตก. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,60,Low,Voltage,Power Quality
+CP00165,2025-04-24,Bang Kho Laem,Line OA,Industrial,ไฟตกบ่อย เครื่องใช้ไฟฟ้าดับ ๆ ติด ๆ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,9,Medium,Voltage,Power Quality
+CP00166,2025-04-18,Phaya Thai,Mobile App,Industrial,หม้อแปลงมีเสียงดังแล้วไฟดับ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,47,High,Outage,Field Operation
+CP00167,2025-05-26,Bang Khen,Line OA,Commercial,ไฟตกบ่อย เครื่องใช้ไฟฟ้าดับ ๆ ติด ๆ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,48,High,Voltage,Power Quality
+CP00168,2025-04-20,Thon Buri,Line OA,Residential,กล่องไฟมีกลิ่นไหม้และมีควัน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,30,High,Safety,Emergency Safety
+CP00169,2025-04-06,Phaya Thai,Line OA,Industrial,ต้องการตรวจสอบใบแจ้งค่าไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,2,High,Billing,Billing Service
+CP00170,2025-04-21,Thon Buri,Call Center,Commercial,มิเตอร์หมุนเร็วผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,37,Medium,Meter,Meter Service
+CP00171,2025-05-01,Lat Phrao,Mobile App,Mixed,กล่องไฟมีกลิ่นไหม้และมีควัน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,40,High,Safety,Emergency Safety
+CP00172,2025-04-19,Khlong Toei,Mobile App,Industrial,ไฟดับเฉพาะอาคารและเบรกเกอร์หลักไม่ตัด. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,97,Medium,Outage,Field Operation
+CP00173,2025-04-17,Bang Khen,Mobile App,Residential,ไฟตกบ่อย เครื่องใช้ไฟฟ้าดับ ๆ ติด ๆ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,21,Medium,Voltage,Power Quality
+CP00174,2025-05-21,Bang Kho Laem,Call Center,Residential,ไฟตกบ่อย เครื่องใช้ไฟฟ้าดับ ๆ ติด ๆ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,20,High,Voltage,Power Quality
+CP00175,2025-04-13,Din Daeng,Mobile App,Residential,ไฟดับทั้งซอยตั้งแต่ช่วงเย็น. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,175,High,Outage,Field Operation
+CP00176,2025-04-13,Bang Khen,Line OA,Mixed,ไฟดับเฉพาะอาคารและเบรกเกอร์หลักไม่ตัด. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,162,Low,Outage,Field Operation
+CP00177,2025-05-08,Bang Khen,Call Center,Industrial,หม้อแปลงมีเสียงดังแล้วไฟดับ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,75,High,Outage,Field Operation
+CP00178,2025-05-08,Lat Phrao,Mobile App,Commercial,ไฟตกบ่อย เครื่องใช้ไฟฟ้าดับ ๆ ติด ๆ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,14,High,Voltage,Power Quality
+CP00179,2025-06-19,Bang Khen,Line OA,Industrial,ขอให้ตรวจสอบเลขมิเตอร์. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,25,High,Meter,Meter Service
+CP00180,2025-05-05,Phaya Thai,Line OA,Residential,มีสายไฟหย่อนใกล้ทางเดิน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,18,High,Safety,Emergency Safety
+CP00181,2025-06-05,Khlong Toei,Call Center,Commercial,หม้อแปลงมีเสียงดังแล้วไฟดับ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,109,High,Outage,Field Operation
+CP00182,2025-05-09,Bang Kapi,Line OA,Government,ไฟดับทั้งซอยตั้งแต่ช่วงเย็น. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,84,High,Outage,Field Operation
+CP00183,2025-06-24,Thon Buri,Line OA,Residential,ค่าไฟเดือนนี้สูงผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,5,Medium,Billing,Billing Service
+CP00184,2025-06-23,Bang Khen,Mobile App,Industrial,ชำระแล้วแต่ระบบยังขึ้นค้างชำระ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,29,Medium,Billing,Billing Service
+CP00185,2025-05-09,Lat Phrao,Mobile App,Industrial,มิเตอร์หมุนเร็วผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,20,Medium,Meter,Meter Service
+CP00186,2025-05-13,Bang Kapi,Mobile App,Industrial,ชำระแล้วแต่ระบบยังขึ้นค้างชำระ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,3,Medium,Billing,Billing Service
+CP00187,2025-05-24,Din Daeng,Call Center,Mixed,ค่าไฟเดือนนี้สูงผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Billing,Billing Service
+CP00188,2025-06-24,Bang Khen,Call Center,Mixed,ไฟตกบ่อย เครื่องใช้ไฟฟ้าดับ ๆ ติด ๆ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,7,High,Voltage,Power Quality
+CP00189,2025-05-10,Bang Kho Laem,Mobile App,Industrial,เสาไฟมีประกายไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,12,High,Safety,Emergency Safety
+CP00190,2025-06-22,Khlong Toei,Call Center,Government,ค่าไฟเดือนนี้สูงผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,39,High,Billing,Billing Service
+CP00191,2025-06-16,Bang Kapi,Field Office,Residential,ขอให้ตรวจสอบเลขมิเตอร์. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,10,Medium,Meter,Meter Service
+CP00192,2025-04-03,Din Daeng,Website,Government,ไฟดับเฉพาะอาคารและเบรกเกอร์หลักไม่ตัด. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,68,High,Outage,Field Operation
+CP00193,2025-04-09,Phaya Thai,Line OA,Commercial,แรงดันไฟไม่นิ่งช่วงกลางคืน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,21,Medium,Voltage,Power Quality
+CP00194,2025-05-23,Bang Kapi,Field Office,Industrial,ต้องการตรวจสอบใบแจ้งค่าไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,11,Medium,Billing,Billing Service
+CP00195,2025-05-06,Khlong Toei,Website,Government,กล่องไฟมีกลิ่นไหม้และมีควัน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Safety,Emergency Safety
+CP00196,2025-05-10,Lat Phrao,Call Center,Commercial,มิเตอร์หมุนเร็วผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,19,High,Meter,Meter Service
+CP00197,2025-04-27,Phaya Thai,Line OA,Commercial,ขอให้ตรวจสอบเลขมิเตอร์. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,Low,Meter,Meter Service
+CP00198,2025-06-04,Phaya Thai,Line OA,Industrial,ค่าไฟเดือนนี้สูงผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,18,Low,Billing,Billing Service
+CP00199,2025-04-02,Bang Khen,Website,Mixed,ค่าไฟเดือนนี้สูงผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,33,Medium,Billing,Billing Service
+CP00200,2025-06-25,Thon Buri,Line OA,Commercial,แรงดันไฟไม่นิ่งช่วงกลางคืน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,24,High,Voltage,Power Quality
+CP00201,2025-04-21,Bang Kho Laem,Website,Commercial,เสาไฟมีประกายไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,5,High,Safety,Emergency Safety
+CP00202,2025-05-13,Bang Khen,Website,Residential,ชำระแล้วแต่ระบบยังขึ้นค้างชำระ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,39,Medium,Billing,Billing Service
+CP00203,2025-04-12,Bang Kapi,Website,Government,ค่าไฟเดือนนี้สูงผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,34,Medium,Billing,Billing Service
+CP00204,2025-06-09,Thon Buri,Mobile App,Industrial,ไฟดับทั้งซอยตั้งแต่ช่วงเย็น. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,91,High,Outage,Field Operation
+CP00205,2025-04-27,Khlong Toei,Line OA,Commercial,กล่องไฟมีกลิ่นไหม้และมีควัน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Safety,Emergency Safety
+CP00206,2025-05-29,Khlong Toei,Website,Commercial,ชำระแล้วแต่ระบบยังขึ้นค้างชำระ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Billing,Billing Service
+CP00207,2025-06-04,Lat Phrao,Website,Mixed,แรงดันไฟไม่นิ่งช่วงกลางคืน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,12,Medium,Voltage,Power Quality
+CP00208,2025-05-16,Bang Kho Laem,Website,Commercial,ไฟกระพริบต่อเนื่องหลังฝนตก. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,3,Medium,Voltage,Power Quality
+CP00209,2025-04-02,Lat Phrao,Mobile App,Commercial,ไฟตกบ่อย เครื่องใช้ไฟฟ้าดับ ๆ ติด ๆ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,Medium,Voltage,Power Quality
+CP00210,2025-05-03,Bang Kho Laem,Line OA,Residential,ขอให้ตรวจสอบเลขมิเตอร์. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,Medium,Meter,Meter Service
+CP00211,2025-06-23,Lat Phrao,Website,Residential,หม้อแปลงมีเสียงดังแล้วไฟดับ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,90,High,Outage,Field Operation
+CP00212,2025-05-04,Bang Kho Laem,Mobile App,Mixed,เสาไฟมีประกายไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,28,High,Safety,Emergency Safety
+CP00213,2025-05-24,Bang Kapi,Field Office,Commercial,มีสายไฟหย่อนใกล้ทางเดิน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,18,High,Safety,Emergency Safety
+CP00214,2025-05-26,Din Daeng,Call Center,Commercial,มิเตอร์หมุนเร็วผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,67,High,Meter,Meter Service
+CP00215,2025-06-01,Bang Khen,Website,Industrial,อ่านมิเตอร์ไม่ตรงกับใบแจ้งค่าไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,Medium,Meter,Meter Service
+CP00216,2025-04-14,Bang Kapi,Call Center,Industrial,ขอให้ตรวจสอบเลขมิเตอร์. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,9,Medium,Meter,Meter Service
+CP00217,2025-05-30,Thon Buri,Website,Mixed,เสาไฟมีประกายไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Safety,Emergency Safety
+CP00218,2025-04-04,Din Daeng,Website,Industrial,ต้องการตรวจสอบใบแจ้งค่าไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,Medium,Billing,Billing Service
+CP00219,2025-05-11,Din Daeng,Call Center,Commercial,ไฟตกบ่อย เครื่องใช้ไฟฟ้าดับ ๆ ติด ๆ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,15,Medium,Voltage,Power Quality
+CP00220,2025-04-15,Thon Buri,Field Office,Government,อ่านมิเตอร์ไม่ตรงกับใบแจ้งค่าไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,Low,Meter,Meter Service
+CP00221,2025-05-28,Lat Phrao,Call Center,Mixed,ชำระแล้วแต่ระบบยังขึ้นค้างชำระ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,16,High,Billing,Billing Service
+CP00222,2025-06-23,Thon Buri,Website,Government,ขอให้ตรวจสอบเลขมิเตอร์. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,Medium,Meter,Meter Service
+CP00223,2025-04-19,Lat Phrao,Call Center,Government,ค่าไฟเดือนนี้สูงผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,8,High,Billing,Billing Service
+CP00224,2025-04-18,Bang Kho Laem,Line OA,Industrial,ไฟตกบ่อย เครื่องใช้ไฟฟ้าดับ ๆ ติด ๆ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,7,High,Voltage,Power Quality
+CP00225,2025-04-09,Din Daeng,Field Office,Government,แรงดันไฟไม่นิ่งช่วงกลางคืน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,10,Medium,Voltage,Power Quality
+CP00226,2025-06-05,Phaya Thai,Call Center,Mixed,ไฟตกบ่อย เครื่องใช้ไฟฟ้าดับ ๆ ติด ๆ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,3,Low,Voltage,Power Quality
+CP00227,2025-05-19,Bang Kapi,Line OA,Commercial,ค่าไฟเดือนนี้สูงผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,23,Medium,Billing,Billing Service
+CP00228,2025-05-26,Khlong Toei,Line OA,Government,กล่องไฟมีกลิ่นไหม้และมีควัน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Safety,Emergency Safety
+CP00229,2025-05-13,Khlong Toei,Website,Industrial,ไฟดับเฉพาะอาคารและเบรกเกอร์หลักไม่ตัด. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,83,Medium,Outage,Field Operation
+CP00230,2025-06-20,Din Daeng,Website,Mixed,มีสายไฟหย่อนใกล้ทางเดิน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,8,High,Safety,Emergency Safety
+CP00231,2025-04-29,Khlong Toei,Website,Government,ต้องการตรวจสอบใบแจ้งค่าไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,Medium,Billing,Billing Service
+CP00232,2025-06-18,Khlong Toei,Website,Government,ไฟดับเฉพาะอาคารและเบรกเกอร์หลักไม่ตัด. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,147,Medium,Outage,Field Operation
+CP00233,2025-06-09,Bang Khen,Mobile App,Industrial,กล่องไฟมีกลิ่นไหม้และมีควัน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,8,High,Safety,Emergency Safety
+CP00234,2025-04-03,Lat Phrao,Call Center,Government,ต้องการตรวจสอบใบแจ้งค่าไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Billing,Billing Service
+CP00235,2025-05-06,Khlong Toei,Line OA,Commercial,หม้อแปลงมีเสียงดังแล้วไฟดับ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,84,Medium,Outage,Field Operation
+CP00236,2025-05-11,Khlong Toei,Call Center,Mixed,แรงดันไฟไม่นิ่งช่วงกลางคืน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,29,Medium,Voltage,Power Quality
+CP00237,2025-04-12,Phaya Thai,Website,Residential,ไฟกระพริบต่อเนื่องหลังฝนตก. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,19,Medium,Voltage,Power Quality
+CP00238,2025-04-26,Phaya Thai,Field Office,Commercial,ขอให้ตรวจสอบเลขมิเตอร์. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,23,Medium,Meter,Meter Service
+CP00239,2025-04-29,Khlong Toei,Mobile App,Commercial,ค่าไฟเดือนนี้สูงผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,25,High,Billing,Billing Service
+CP00240,2025-04-11,Bang Kho Laem,Line OA,Mixed,ไฟตกบ่อย เครื่องใช้ไฟฟ้าดับ ๆ ติด ๆ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Voltage,Power Quality
+CP00241,2025-06-08,Phaya Thai,Mobile App,Government,ไฟดับทั้งซอยตั้งแต่ช่วงเย็น. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,79,Medium,Outage,Field Operation
+CP00242,2025-05-22,Lat Phrao,Call Center,Industrial,ค่าไฟเดือนนี้สูงผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,Medium,Billing,Billing Service
+CP00243,2025-06-11,Bang Kapi,Website,Mixed,ไฟดับทั้งซอยตั้งแต่ช่วงเย็น. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,74,High,Outage,Field Operation
+CP00244,2025-04-07,Lat Phrao,Call Center,Mixed,ไฟตกบ่อย เครื่องใช้ไฟฟ้าดับ ๆ ติด ๆ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,43,Medium,Voltage,Power Quality
+CP00245,2025-05-04,Khlong Toei,Line OA,Government,แรงดันไฟไม่นิ่งช่วงกลางคืน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,8,Medium,Voltage,Power Quality
+CP00246,2025-05-25,Din Daeng,Call Center,Residential,อ่านมิเตอร์ไม่ตรงกับใบแจ้งค่าไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Meter,Meter Service
+CP00247,2025-06-18,Khlong Toei,Line OA,Industrial,ไฟตกบ่อย เครื่องใช้ไฟฟ้าดับ ๆ ติด ๆ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,10,Medium,Voltage,Power Quality
+CP00248,2025-05-24,Bang Kho Laem,Line OA,Government,แรงดันไฟไม่นิ่งช่วงกลางคืน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,25,Medium,Voltage,Power Quality
+CP00249,2025-06-21,Khlong Toei,Website,Government,หม้อแปลงมีเสียงดังแล้วไฟดับ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,87,High,Outage,Field Operation
+CP00250,2025-04-29,Bang Kho Laem,Mobile App,Commercial,ไฟตกบ่อย เครื่องใช้ไฟฟ้าดับ ๆ ติด ๆ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,29,Medium,Voltage,Power Quality
+CP00251,2025-04-18,Khlong Toei,Line OA,Government,แรงดันไฟไม่นิ่งช่วงกลางคืน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,54,Low,Voltage,Power Quality
+CP00252,2025-04-14,Din Daeng,Mobile App,Industrial,ไฟตกบ่อย เครื่องใช้ไฟฟ้าดับ ๆ ติด ๆ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,Medium,Voltage,Power Quality
+CP00253,2025-04-28,Khlong Toei,Line OA,Industrial,ไฟดับเฉพาะอาคารและเบรกเกอร์หลักไม่ตัด. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,48,Low,Outage,Field Operation
+CP00254,2025-06-05,Din Daeng,Line OA,Government,ไฟดับทั้งซอยตั้งแต่ช่วงเย็น. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,201,High,Outage,Field Operation
+CP00255,2025-05-09,Thon Buri,Call Center,Mixed,เสาไฟมีประกายไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,33,High,Safety,Emergency Safety
+CP00256,2025-05-21,Bang Kapi,Call Center,Industrial,ไฟดับทั้งซอยตั้งแต่ช่วงเย็น. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,73,High,Outage,Field Operation
+CP00257,2025-06-15,Bang Kho Laem,Mobile App,Mixed,ไฟกระพริบต่อเนื่องหลังฝนตก. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,Low,Voltage,Power Quality
+CP00258,2025-06-27,Khlong Toei,Line OA,Government,ต้องการตรวจสอบใบแจ้งค่าไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,10,High,Billing,Billing Service
+CP00259,2025-04-04,Khlong Toei,Call Center,Industrial,ไฟตกบ่อย เครื่องใช้ไฟฟ้าดับ ๆ ติด ๆ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,32,High,Voltage,Power Quality
+CP00260,2025-05-05,Bang Kho Laem,Website,Residential,มีสายไฟหย่อนใกล้ทางเดิน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,19,High,Safety,Emergency Safety
+CP00261,2025-06-27,Bang Kho Laem,Call Center,Mixed,ค่าไฟเดือนนี้สูงผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,25,Medium,Billing,Billing Service
+CP00262,2025-06-07,Phaya Thai,Line OA,Industrial,เสาไฟมีประกายไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Safety,Emergency Safety
+CP00263,2025-05-30,Bang Kapi,Line OA,Mixed,ไฟดับทั้งซอยตั้งแต่ช่วงเย็น. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,138,High,Outage,Field Operation
+CP00264,2025-05-15,Phaya Thai,Field Office,Residential,มีสายไฟหย่อนใกล้ทางเดิน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,23,High,Safety,Emergency Safety
+CP00265,2025-04-11,Thon Buri,Mobile App,Government,ขอให้ตรวจสอบเลขมิเตอร์. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,20,Medium,Meter,Meter Service
+CP00266,2025-04-18,Bang Kho Laem,Line OA,Residential,ต้องการตรวจสอบใบแจ้งค่าไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,21,Low,Billing,Billing Service
+CP00267,2025-06-12,Thon Buri,Field Office,Mixed,ค่าไฟเดือนนี้สูงผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,16,High,Billing,Billing Service
+CP00268,2025-06-15,Lat Phrao,Call Center,Industrial,มีสายไฟหย่อนใกล้ทางเดิน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,33,High,Safety,Emergency Safety
+CP00269,2025-06-13,Bang Kho Laem,Call Center,Government,อ่านมิเตอร์ไม่ตรงกับใบแจ้งค่าไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,10,High,Meter,Meter Service
+CP00270,2025-06-28,Phaya Thai,Line OA,Industrial,ขอให้ตรวจสอบเลขมิเตอร์. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,20,Medium,Meter,Meter Service
+CP00271,2025-06-02,Din Daeng,Field Office,Residential,ไฟดับเฉพาะอาคารและเบรกเกอร์หลักไม่ตัด. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,34,Medium,Outage,Field Operation
+CP00272,2025-06-25,Phaya Thai,Line OA,Residential,ไฟดับทั้งซอยตั้งแต่ช่วงเย็น. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,53,High,Outage,Field Operation
+CP00273,2025-06-24,Khlong Toei,Call Center,Government,เสาไฟมีประกายไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,17,High,Safety,Emergency Safety
+CP00274,2025-06-24,Bang Kapi,Field Office,Mixed,เสาไฟมีประกายไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,20,High,Safety,Emergency Safety
+CP00275,2025-05-10,Khlong Toei,Mobile App,Industrial,อ่านมิเตอร์ไม่ตรงกับใบแจ้งค่าไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Meter,Meter Service
+CP00276,2025-06-27,Lat Phrao,Mobile App,Commercial,ไฟดับทั้งซอยตั้งแต่ช่วงเย็น. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,56,High,Outage,Field Operation
+CP00277,2025-06-09,Bang Kapi,Mobile App,Government,กล่องไฟมีกลิ่นไหม้และมีควัน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Safety,Emergency Safety
+CP00278,2025-05-27,Bang Kho Laem,Website,Residential,อ่านมิเตอร์ไม่ตรงกับใบแจ้งค่าไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,30,Low,Meter,Meter Service
+CP00279,2025-06-19,Din Daeng,Field Office,Commercial,มิเตอร์หมุนเร็วผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,2,Medium,Meter,Meter Service
+CP00280,2025-05-14,Khlong Toei,Line OA,Residential,ไฟกระพริบต่อเนื่องหลังฝนตก. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,Medium,Voltage,Power Quality
+CP00281,2025-06-02,Din Daeng,Field Office,Government,ค่าไฟเดือนนี้สูงผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,49,High,Billing,Billing Service
+CP00282,2025-06-10,Lat Phrao,Line OA,Mixed,ไฟดับทั้งซอยตั้งแต่ช่วงเย็น. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,60,Low,Outage,Field Operation
+CP00283,2025-04-02,Lat Phrao,Call Center,Mixed,ค่าไฟเดือนนี้สูงผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,16,Medium,Billing,Billing Service
+CP00284,2025-05-28,Khlong Toei,Website,Government,แรงดันไฟไม่นิ่งช่วงกลางคืน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,Medium,Voltage,Power Quality
+CP00285,2025-04-20,Thon Buri,Call Center,Industrial,มีสายไฟหย่อนใกล้ทางเดิน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,15,High,Safety,Emergency Safety
+CP00286,2025-05-21,Bang Kho Laem,Line OA,Mixed,แรงดันไฟไม่นิ่งช่วงกลางคืน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,45,Medium,Voltage,Power Quality
+CP00287,2025-06-04,Khlong Toei,Line OA,Commercial,ไฟดับเฉพาะอาคารและเบรกเกอร์หลักไม่ตัด. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,141,High,Outage,Field Operation
+CP00288,2025-06-19,Bang Kapi,Mobile App,Residential,เสาไฟมีประกายไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Safety,Emergency Safety
+CP00289,2025-04-04,Phaya Thai,Call Center,Mixed,ไฟกระพริบต่อเนื่องหลังฝนตก. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,13,Medium,Voltage,Power Quality
+CP00290,2025-04-27,Khlong Toei,Field Office,Mixed,ต้องการตรวจสอบใบแจ้งค่าไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,4,Medium,Billing,Billing Service
+CP00291,2025-06-07,Thon Buri,Call Center,Residential,ชำระแล้วแต่ระบบยังขึ้นค้างชำระ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,3,Medium,Billing,Billing Service
+CP00292,2025-06-15,Lat Phrao,Mobile App,Mixed,ไฟดับทั้งซอยตั้งแต่ช่วงเย็น. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Outage,Field Operation
+CP00293,2025-04-20,Lat Phrao,Website,Mixed,หม้อแปลงมีเสียงดังแล้วไฟดับ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,28,High,Outage,Field Operation
+CP00294,2025-05-26,Din Daeng,Website,Residential,ต้องการตรวจสอบใบแจ้งค่าไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,17,Low,Billing,Billing Service
+CP00295,2025-05-14,Din Daeng,Call Center,Mixed,ไฟกระพริบต่อเนื่องหลังฝนตก. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,7,High,Voltage,Power Quality
+CP00296,2025-04-18,Bang Kapi,Line OA,Government,มีสายไฟหย่อนใกล้ทางเดิน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,67,High,Safety,Emergency Safety
+CP00297,2025-05-30,Din Daeng,Website,Commercial,มิเตอร์หมุนเร็วผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Meter,Meter Service
+CP00298,2025-05-09,Khlong Toei,Field Office,Mixed,ชำระแล้วแต่ระบบยังขึ้นค้างชำระ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,43,Medium,Billing,Billing Service
+CP00299,2025-06-03,Bang Kapi,Call Center,Residential,ขอให้ตรวจสอบเลขมิเตอร์. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Meter,Meter Service
+CP00300,2025-06-14,Thon Buri,Mobile App,Mixed,มิเตอร์หมุนเร็วผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,16,High,Meter,Meter Service
+CP00301,2025-05-27,Khlong Toei,Website,Industrial,ไฟดับทั้งซอยตั้งแต่ช่วงเย็น. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,42,High,Outage,Field Operation
+CP00302,2025-06-06,Phaya Thai,Line OA,Residential,ขอให้ตรวจสอบเลขมิเตอร์. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,Medium,Meter,Meter Service
+CP00303,2025-04-03,Khlong Toei,Website,Mixed,กล่องไฟมีกลิ่นไหม้และมีควัน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,9,High,Safety,Emergency Safety
+CP00304,2025-04-04,Bang Kho Laem,Line OA,Mixed,ไฟดับเฉพาะอาคารและเบรกเกอร์หลักไม่ตัด. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,146,High,Outage,Field Operation
+CP00305,2025-04-18,Bang Kho Laem,Field Office,Industrial,ไฟกระพริบต่อเนื่องหลังฝนตก. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,8,Low,Voltage,Power Quality
+CP00306,2025-06-09,Lat Phrao,Line OA,Government,ไฟกระพริบต่อเนื่องหลังฝนตก. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,43,High,Voltage,Power Quality
+CP00307,2025-05-24,Bang Khen,Website,Government,ชำระแล้วแต่ระบบยังขึ้นค้างชำระ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,Low,Billing,Billing Service
+CP00308,2025-06-04,Bang Kapi,Call Center,Commercial,ค่าไฟเดือนนี้สูงผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,17,Low,Billing,Billing Service
+CP00309,2025-04-14,Thon Buri,Field Office,Commercial,ค่าไฟเดือนนี้สูงผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,33,Medium,Billing,Billing Service
+CP00310,2025-05-06,Khlong Toei,Mobile App,Residential,กล่องไฟมีกลิ่นไหม้และมีควัน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,43,High,Safety,Emergency Safety
+CP00311,2025-04-20,Lat Phrao,Mobile App,Government,ต้องการตรวจสอบใบแจ้งค่าไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,9,Medium,Billing,Billing Service
+CP00312,2025-05-13,Bang Khen,Call Center,Mixed,เสาไฟมีประกายไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,29,High,Safety,Emergency Safety
+CP00313,2025-05-18,Bang Kapi,Line OA,Mixed,ขอให้ตรวจสอบเลขมิเตอร์. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,24,High,Meter,Meter Service
+CP00314,2025-04-24,Bang Khen,Field Office,Government,มิเตอร์หมุนเร็วผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,11,Medium,Meter,Meter Service
+CP00315,2025-05-09,Lat Phrao,Call Center,Commercial,แรงดันไฟไม่นิ่งช่วงกลางคืน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,Medium,Voltage,Power Quality
+CP00316,2025-04-09,Thon Buri,Line OA,Commercial,มิเตอร์หมุนเร็วผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,2,Medium,Meter,Meter Service
+CP00317,2025-05-17,Lat Phrao,Call Center,Government,มีสายไฟหย่อนใกล้ทางเดิน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Safety,Emergency Safety
+CP00318,2025-04-29,Din Daeng,Field Office,Commercial,มิเตอร์หมุนเร็วผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Meter,Meter Service
+CP00319,2025-06-24,Lat Phrao,Line OA,Industrial,กล่องไฟมีกลิ่นไหม้และมีควัน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,26,High,Safety,Emergency Safety
+CP00320,2025-06-04,Bang Kho Laem,Line OA,Industrial,มิเตอร์หมุนเร็วผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,30,Low,Meter,Meter Service
+CP00321,2025-05-11,Lat Phrao,Website,Commercial,ไฟดับเฉพาะอาคารและเบรกเกอร์หลักไม่ตัด. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,32,Low,Outage,Field Operation
+CP00322,2025-06-03,Khlong Toei,Call Center,Residential,กล่องไฟมีกลิ่นไหม้และมีควัน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Safety,Emergency Safety
+CP00323,2025-04-11,Khlong Toei,Line OA,Government,ไฟดับทั้งซอยตั้งแต่ช่วงเย็น. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,140,High,Outage,Field Operation
+CP00324,2025-04-21,Lat Phrao,Call Center,Mixed,มิเตอร์หมุนเร็วผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,Low,Meter,Meter Service
+CP00325,2025-04-08,Din Daeng,Line OA,Government,มิเตอร์หมุนเร็วผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,4,High,Meter,Meter Service
+CP00326,2025-05-07,Phaya Thai,Call Center,Industrial,กล่องไฟมีกลิ่นไหม้และมีควัน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,48,High,Safety,Emergency Safety
+CP00327,2025-04-01,Bang Khen,Line OA,Mixed,ชำระแล้วแต่ระบบยังขึ้นค้างชำระ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,45,Low,Billing,Billing Service
+CP00328,2025-04-02,Phaya Thai,Website,Residential,กล่องไฟมีกลิ่นไหม้และมีควัน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Safety,Emergency Safety
+CP00329,2025-06-03,Phaya Thai,Field Office,Industrial,แรงดันไฟไม่นิ่งช่วงกลางคืน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,Low,Voltage,Power Quality
+CP00330,2025-04-11,Khlong Toei,Line OA,Government,มีสายไฟหย่อนใกล้ทางเดิน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Safety,Emergency Safety
+CP00331,2025-04-02,Lat Phrao,Website,Commercial,อ่านมิเตอร์ไม่ตรงกับใบแจ้งค่าไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,30,Medium,Meter,Meter Service
+CP00332,2025-06-28,Khlong Toei,Website,Mixed,ไฟกระพริบต่อเนื่องหลังฝนตก. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,7,Medium,Voltage,Power Quality
+CP00333,2025-06-08,Khlong Toei,Website,Government,ไฟดับเฉพาะอาคารและเบรกเกอร์หลักไม่ตัด. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,101,High,Outage,Field Operation
+CP00334,2025-04-03,Phaya Thai,Website,Government,ต้องการตรวจสอบใบแจ้งค่าไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,16,Medium,Billing,Billing Service
+CP00335,2025-05-26,Bang Kapi,Field Office,Residential,ไฟดับเฉพาะอาคารและเบรกเกอร์หลักไม่ตัด. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,84,High,Outage,Field Operation
+CP00336,2025-04-30,Phaya Thai,Call Center,Commercial,ไฟกระพริบต่อเนื่องหลังฝนตก. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,3,Medium,Voltage,Power Quality
+CP00337,2025-05-23,Thon Buri,Line OA,Industrial,ค่าไฟเดือนนี้สูงผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Billing,Billing Service
+CP00338,2025-05-13,Phaya Thai,Line OA,Government,ไฟดับเฉพาะอาคารและเบรกเกอร์หลักไม่ตัด. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,90,High,Outage,Field Operation
+CP00339,2025-06-16,Bang Kapi,Field Office,Government,ค่าไฟเดือนนี้สูงผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,17,Medium,Billing,Billing Service
+CP00340,2025-04-16,Lat Phrao,Website,Residential,ต้องการตรวจสอบใบแจ้งค่าไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,23,Medium,Billing,Billing Service
+CP00341,2025-04-08,Din Daeng,Mobile App,Commercial,ชำระแล้วแต่ระบบยังขึ้นค้างชำระ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,10,Low,Billing,Billing Service
+CP00342,2025-05-23,Phaya Thai,Website,Residential,เสาไฟมีประกายไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,11,High,Safety,Emergency Safety
+CP00343,2025-04-10,Khlong Toei,Mobile App,Residential,ค่าไฟเดือนนี้สูงผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,Low,Billing,Billing Service
+CP00344,2025-04-19,Bang Kho Laem,Mobile App,Commercial,ต้องการตรวจสอบใบแจ้งค่าไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,55,Medium,Billing,Billing Service
+CP00345,2025-06-20,Din Daeng,Website,Industrial,ไฟกระพริบต่อเนื่องหลังฝนตก. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,17,Medium,Voltage,Power Quality
+CP00346,2025-06-19,Lat Phrao,Field Office,Industrial,กล่องไฟมีกลิ่นไหม้และมีควัน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,7,High,Safety,Emergency Safety
+CP00347,2025-05-22,Thon Buri,Line OA,Commercial,ขอให้ตรวจสอบเลขมิเตอร์. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,1,Low,Meter,Meter Service
+CP00348,2025-06-05,Phaya Thai,Line OA,Commercial,ไฟตกบ่อย เครื่องใช้ไฟฟ้าดับ ๆ ติด ๆ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Voltage,Power Quality
+CP00349,2025-05-31,Bang Khen,Field Office,Mixed,ค่าไฟเดือนนี้สูงผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Billing,Billing Service
+CP00350,2025-06-13,Din Daeng,Mobile App,Government,หม้อแปลงมีเสียงดังแล้วไฟดับ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,88,High,Outage,Field Operation
+CP00351,2025-05-11,Lat Phrao,Line OA,Residential,หม้อแปลงมีเสียงดังแล้วไฟดับ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,15,High,Outage,Field Operation
+CP00352,2025-06-20,Thon Buri,Field Office,Mixed,มีสายไฟหย่อนใกล้ทางเดิน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,28,High,Safety,Emergency Safety
+CP00353,2025-06-20,Bang Kapi,Field Office,Commercial,ไฟดับทั้งซอยตั้งแต่ช่วงเย็น. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,118,Medium,Outage,Field Operation
+CP00354,2025-05-17,Bang Kapi,Website,Government,ชำระแล้วแต่ระบบยังขึ้นค้างชำระ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,27,Medium,Billing,Billing Service
+CP00355,2025-04-05,Phaya Thai,Mobile App,Government,มิเตอร์หมุนเร็วผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,14,Medium,Meter,Meter Service
+CP00356,2025-05-30,Bang Kapi,Line OA,Residential,ไฟดับเฉพาะอาคารและเบรกเกอร์หลักไม่ตัด. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,66,Low,Outage,Field Operation
+CP00357,2025-04-13,Thon Buri,Line OA,Mixed,ไฟกระพริบต่อเนื่องหลังฝนตก. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,Medium,Voltage,Power Quality
+CP00358,2025-06-12,Bang Kapi,Call Center,Commercial,ไฟตกบ่อย เครื่องใช้ไฟฟ้าดับ ๆ ติด ๆ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,32,High,Voltage,Power Quality
+CP00359,2025-05-10,Lat Phrao,Field Office,Residential,ไฟตกบ่อย เครื่องใช้ไฟฟ้าดับ ๆ ติด ๆ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,3,High,Voltage,Power Quality
+CP00360,2025-04-09,Bang Khen,Mobile App,Government,ค่าไฟเดือนนี้สูงผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,Medium,Billing,Billing Service
+CP00361,2025-06-24,Phaya Thai,Field Office,Residential,มิเตอร์หมุนเร็วผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,22,High,Meter,Meter Service
+CP00362,2025-06-21,Lat Phrao,Mobile App,Mixed,ไฟดับเฉพาะอาคารและเบรกเกอร์หลักไม่ตัด. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,124,High,Outage,Field Operation
+CP00363,2025-04-15,Phaya Thai,Website,Government,ไฟดับทั้งซอยตั้งแต่ช่วงเย็น. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,131,High,Outage,Field Operation
+CP00364,2025-05-15,Din Daeng,Website,Commercial,ชำระแล้วแต่ระบบยังขึ้นค้างชำระ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,34,High,Billing,Billing Service
+CP00365,2025-04-30,Din Daeng,Website,Mixed,ไฟดับเฉพาะอาคารและเบรกเกอร์หลักไม่ตัด. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,88,High,Outage,Field Operation
+CP00366,2025-04-24,Bang Kapi,Website,Residential,ไฟดับเฉพาะอาคารและเบรกเกอร์หลักไม่ตัด. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,67,High,Outage,Field Operation
+CP00367,2025-05-03,Thon Buri,Line OA,Industrial,ไฟดับเฉพาะอาคารและเบรกเกอร์หลักไม่ตัด. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,141,Medium,Outage,Field Operation
+CP00368,2025-04-21,Din Daeng,Line OA,Mixed,กล่องไฟมีกลิ่นไหม้และมีควัน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,70,High,Safety,Emergency Safety
+CP00369,2025-06-24,Phaya Thai,Field Office,Government,ไฟดับเฉพาะอาคารและเบรกเกอร์หลักไม่ตัด. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,14,High,Outage,Field Operation
+CP00370,2025-04-20,Bang Kho Laem,Call Center,Commercial,ไฟกระพริบต่อเนื่องหลังฝนตก. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,11,High,Voltage,Power Quality
+CP00371,2025-06-22,Phaya Thai,Call Center,Commercial,มีสายไฟหย่อนใกล้ทางเดิน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,36,High,Safety,Emergency Safety
+CP00372,2025-05-01,Bang Khen,Field Office,Industrial,ขอให้ตรวจสอบเลขมิเตอร์. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,24,Medium,Meter,Meter Service
+CP00373,2025-04-30,Bang Kho Laem,Line OA,Industrial,มีสายไฟหย่อนใกล้ทางเดิน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,9,High,Safety,Emergency Safety
+CP00374,2025-05-04,Phaya Thai,Mobile App,Industrial,แรงดันไฟไม่นิ่งช่วงกลางคืน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,37,Medium,Voltage,Power Quality
+CP00375,2025-05-28,Phaya Thai,Field Office,Residential,ต้องการตรวจสอบใบแจ้งค่าไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,7,Medium,Billing,Billing Service
+CP00376,2025-06-20,Thon Buri,Website,Commercial,ไฟกระพริบต่อเนื่องหลังฝนตก. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,17,Medium,Voltage,Power Quality
+CP00377,2025-04-06,Phaya Thai,Website,Industrial,ชำระแล้วแต่ระบบยังขึ้นค้างชำระ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,21,Medium,Billing,Billing Service
+CP00378,2025-06-23,Din Daeng,Website,Residential,อ่านมิเตอร์ไม่ตรงกับใบแจ้งค่าไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,6,High,Meter,Meter Service
+CP00379,2025-05-20,Phaya Thai,Website,Government,กล่องไฟมีกลิ่นไหม้และมีควัน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,12,High,Safety,Emergency Safety
+CP00380,2025-06-10,Bang Khen,Call Center,Commercial,มิเตอร์หมุนเร็วผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,37,Medium,Meter,Meter Service
+CP00381,2025-05-07,Din Daeng,Call Center,Mixed,ไฟดับทั้งซอยตั้งแต่ช่วงเย็น. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,63,Low,Outage,Field Operation
+CP00382,2025-06-05,Lat Phrao,Line OA,Government,ค่าไฟเดือนนี้สูงผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,1,Medium,Billing,Billing Service
+CP00383,2025-06-17,Thon Buri,Field Office,Mixed,กล่องไฟมีกลิ่นไหม้และมีควัน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Safety,Emergency Safety
+CP00384,2025-04-25,Khlong Toei,Website,Government,ชำระแล้วแต่ระบบยังขึ้นค้างชำระ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,Low,Billing,Billing Service
+CP00385,2025-05-15,Bang Khen,Call Center,Industrial,กล่องไฟมีกลิ่นไหม้และมีควัน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,13,High,Safety,Emergency Safety
+CP00386,2025-06-20,Thon Buri,Field Office,Residential,เสาไฟมีประกายไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Safety,Emergency Safety
+CP00387,2025-06-07,Bang Kapi,Website,Mixed,กล่องไฟมีกลิ่นไหม้และมีควัน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,19,High,Safety,Emergency Safety
+CP00388,2025-04-09,Din Daeng,Mobile App,Commercial,มิเตอร์หมุนเร็วผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,23,Medium,Meter,Meter Service
+CP00389,2025-04-01,Thon Buri,Call Center,Residential,ไฟดับทั้งซอยตั้งแต่ช่วงเย็น. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,51,High,Outage,Field Operation
+CP00390,2025-04-01,Bang Kapi,Website,Residential,ชำระแล้วแต่ระบบยังขึ้นค้างชำระ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,12,Medium,Billing,Billing Service
+CP00391,2025-05-10,Bang Kho Laem,Mobile App,Mixed,มิเตอร์หมุนเร็วผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,24,Medium,Meter,Meter Service
+CP00392,2025-04-27,Bang Khen,Mobile App,Residential,ค่าไฟเดือนนี้สูงผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Billing,Billing Service
+CP00393,2025-05-20,Phaya Thai,Line OA,Industrial,ต้องการตรวจสอบใบแจ้งค่าไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,4,High,Billing,Billing Service
+CP00394,2025-04-26,Din Daeng,Mobile App,Industrial,มีสายไฟหย่อนใกล้ทางเดิน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Safety,Emergency Safety
+CP00395,2025-05-08,Phaya Thai,Call Center,Industrial,ไฟตกบ่อย เครื่องใช้ไฟฟ้าดับ ๆ ติด ๆ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,20,Medium,Voltage,Power Quality
+CP00396,2025-05-21,Lat Phrao,Mobile App,Commercial,ไฟดับเฉพาะอาคารและเบรกเกอร์หลักไม่ตัด. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,184,High,Outage,Field Operation
+CP00397,2025-04-29,Bang Kho Laem,Line OA,Residential,ต้องการตรวจสอบใบแจ้งค่าไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,Medium,Billing,Billing Service
+CP00398,2025-04-11,Din Daeng,Call Center,Commercial,แรงดันไฟไม่นิ่งช่วงกลางคืน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,13,Medium,Voltage,Power Quality
+CP00399,2025-04-05,Bang Kapi,Line OA,Mixed,หม้อแปลงมีเสียงดังแล้วไฟดับ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,121,High,Outage,Field Operation
+CP00400,2025-04-06,Bang Kapi,Mobile App,Industrial,ไฟดับทั้งซอยตั้งแต่ช่วงเย็น. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Outage,Field Operation
+CP00401,2025-06-25,Thon Buri,Website,Mixed,มิเตอร์หมุนเร็วผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,1,Medium,Meter,Meter Service
+CP00402,2025-06-08,Din Daeng,Website,Commercial,หม้อแปลงมีเสียงดังแล้วไฟดับ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,129,High,Outage,Field Operation
+CP00403,2025-06-11,Bang Kho Laem,Field Office,Commercial,แรงดันไฟไม่นิ่งช่วงกลางคืน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Voltage,Power Quality
+CP00404,2025-04-05,Khlong Toei,Field Office,Mixed,ชำระแล้วแต่ระบบยังขึ้นค้างชำระ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,5,Low,Billing,Billing Service
+CP00405,2025-06-24,Bang Kho Laem,Line OA,Government,กล่องไฟมีกลิ่นไหม้และมีควัน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,48,High,Safety,Emergency Safety
+CP00406,2025-05-15,Phaya Thai,Website,Government,ไฟดับทั้งซอยตั้งแต่ช่วงเย็น. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,97,High,Outage,Field Operation
+CP00407,2025-04-15,Bang Kapi,Call Center,Industrial,ไฟตกบ่อย เครื่องใช้ไฟฟ้าดับ ๆ ติด ๆ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,6,Medium,Voltage,Power Quality
+CP00408,2025-05-02,Bang Kapi,Website,Commercial,ไฟตกบ่อย เครื่องใช้ไฟฟ้าดับ ๆ ติด ๆ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,17,Medium,Voltage,Power Quality
+CP00409,2025-05-06,Khlong Toei,Website,Residential,มีสายไฟหย่อนใกล้ทางเดิน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,31,High,Safety,Emergency Safety
+CP00410,2025-05-10,Khlong Toei,Line OA,Commercial,มิเตอร์หมุนเร็วผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,10,High,Meter,Meter Service
+CP00411,2025-05-02,Bang Kho Laem,Website,Industrial,หม้อแปลงมีเสียงดังแล้วไฟดับ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,95,Medium,Outage,Field Operation
+CP00412,2025-04-15,Khlong Toei,Field Office,Residential,แรงดันไฟไม่นิ่งช่วงกลางคืน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,6,Low,Voltage,Power Quality
+CP00413,2025-06-23,Bang Kapi,Line OA,Mixed,ไฟดับทั้งซอยตั้งแต่ช่วงเย็น. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,108,Medium,Outage,Field Operation
+CP00414,2025-06-18,Bang Kapi,Call Center,Residential,ไฟกระพริบต่อเนื่องหลังฝนตก. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,16,Low,Voltage,Power Quality
+CP00415,2025-06-29,Bang Kho Laem,Call Center,Industrial,ไฟดับทั้งซอยตั้งแต่ช่วงเย็น. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,40,High,Outage,Field Operation
+CP00416,2025-05-15,Din Daeng,Call Center,Government,กล่องไฟมีกลิ่นไหม้และมีควัน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,3,High,Safety,Emergency Safety
+CP00417,2025-06-09,Bang Khen,Mobile App,Mixed,ชำระแล้วแต่ระบบยังขึ้นค้างชำระ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,8,High,Billing,Billing Service
+CP00418,2025-04-15,Bang Kapi,Line OA,Government,ไฟดับเฉพาะอาคารและเบรกเกอร์หลักไม่ตัด. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,199,Medium,Outage,Field Operation
+CP00419,2025-06-26,Thon Buri,Call Center,Commercial,ค่าไฟเดือนนี้สูงผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Billing,Billing Service
+CP00420,2025-06-10,Bang Kho Laem,Field Office,Commercial,เสาไฟมีประกายไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,24,High,Safety,Emergency Safety
+CP00421,2025-06-17,Khlong Toei,Call Center,Government,เสาไฟมีประกายไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,14,High,Safety,Emergency Safety
+CP00422,2025-05-21,Khlong Toei,Website,Industrial,ไฟตกบ่อย เครื่องใช้ไฟฟ้าดับ ๆ ติด ๆ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,Medium,Voltage,Power Quality
+CP00423,2025-05-06,Thon Buri,Mobile App,Government,ชำระแล้วแต่ระบบยังขึ้นค้างชำระ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,31,Medium,Billing,Billing Service
+CP00424,2025-05-28,Bang Khen,Field Office,Industrial,ไฟกระพริบต่อเนื่องหลังฝนตก. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,9,High,Voltage,Power Quality
+CP00425,2025-05-20,Bang Kho Laem,Field Office,Industrial,หม้อแปลงมีเสียงดังแล้วไฟดับ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,90,Medium,Outage,Field Operation
+CP00426,2025-05-17,Bang Khen,Call Center,Commercial,ค่าไฟเดือนนี้สูงผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,35,Medium,Billing,Billing Service
+CP00427,2025-06-14,Bang Khen,Website,Industrial,กล่องไฟมีกลิ่นไหม้และมีควัน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,3,High,Safety,Emergency Safety
+CP00428,2025-05-13,Bang Khen,Mobile App,Government,มีสายไฟหย่อนใกล้ทางเดิน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Safety,Emergency Safety
+CP00429,2025-05-24,Bang Kapi,Call Center,Industrial,มีสายไฟหย่อนใกล้ทางเดิน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,8,High,Safety,Emergency Safety
+CP00430,2025-05-22,Khlong Toei,Website,Commercial,ไฟดับทั้งซอยตั้งแต่ช่วงเย็น. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,90,Medium,Outage,Field Operation
+CP00431,2025-04-15,Din Daeng,Call Center,Commercial,มิเตอร์หมุนเร็วผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,Low,Meter,Meter Service
+CP00432,2025-04-25,Bang Kapi,Website,Government,ไฟดับเฉพาะอาคารและเบรกเกอร์หลักไม่ตัด. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,163,Medium,Outage,Field Operation
+CP00433,2025-06-28,Din Daeng,Field Office,Residential,ไฟดับทั้งซอยตั้งแต่ช่วงเย็น. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,73,High,Outage,Field Operation
+CP00434,2025-06-02,Bang Kho Laem,Field Office,Government,ไฟกระพริบต่อเนื่องหลังฝนตก. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,37,Medium,Voltage,Power Quality
+CP00435,2025-05-29,Bang Khen,Line OA,Residential,มิเตอร์หมุนเร็วผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,24,Medium,Meter,Meter Service
+CP00436,2025-06-06,Thon Buri,Website,Mixed,ไฟกระพริบต่อเนื่องหลังฝนตก. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,10,High,Voltage,Power Quality
+CP00437,2025-04-12,Bang Kho Laem,Mobile App,Government,หม้อแปลงมีเสียงดังแล้วไฟดับ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,40,Medium,Outage,Field Operation
+CP00438,2025-05-21,Khlong Toei,Call Center,Industrial,กล่องไฟมีกลิ่นไหม้และมีควัน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,5,High,Safety,Emergency Safety
+CP00439,2025-05-04,Bang Kapi,Website,Residential,มีสายไฟหย่อนใกล้ทางเดิน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Safety,Emergency Safety
+CP00440,2025-04-11,Thon Buri,Field Office,Government,มีสายไฟหย่อนใกล้ทางเดิน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Safety,Emergency Safety
+CP00441,2025-05-26,Din Daeng,Line OA,Residential,ต้องการตรวจสอบใบแจ้งค่าไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Billing,Billing Service
+CP00442,2025-06-25,Thon Buri,Website,Mixed,ไฟกระพริบต่อเนื่องหลังฝนตก. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,11,Medium,Voltage,Power Quality
+CP00443,2025-06-07,Bang Kho Laem,Line OA,Residential,กล่องไฟมีกลิ่นไหม้และมีควัน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,16,High,Safety,Emergency Safety
+CP00444,2025-06-29,Bang Kapi,Website,Residential,มีสายไฟหย่อนใกล้ทางเดิน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,11,High,Safety,Emergency Safety
+CP00445,2025-05-16,Thon Buri,Call Center,Commercial,เสาไฟมีประกายไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Safety,Emergency Safety
+CP00446,2025-04-29,Din Daeng,Mobile App,Residential,ขอให้ตรวจสอบเลขมิเตอร์. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,33,High,Meter,Meter Service
+CP00447,2025-06-02,Khlong Toei,Line OA,Industrial,มีสายไฟหย่อนใกล้ทางเดิน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Safety,Emergency Safety
+CP00448,2025-04-30,Bang Kho Laem,Call Center,Residential,ไฟตกบ่อย เครื่องใช้ไฟฟ้าดับ ๆ ติด ๆ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,55,Medium,Voltage,Power Quality
+CP00449,2025-05-24,Thon Buri,Call Center,Industrial,แรงดันไฟไม่นิ่งช่วงกลางคืน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,23,High,Voltage,Power Quality
+CP00450,2025-05-12,Lat Phrao,Website,Residential,ไฟตกบ่อย เครื่องใช้ไฟฟ้าดับ ๆ ติด ๆ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Voltage,Power Quality
+CP00451,2025-06-17,Bang Kapi,Line OA,Mixed,อ่านมิเตอร์ไม่ตรงกับใบแจ้งค่าไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,15,Low,Meter,Meter Service
+CP00452,2025-06-23,Din Daeng,Call Center,Industrial,ไฟกระพริบต่อเนื่องหลังฝนตก. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,10,High,Voltage,Power Quality
+CP00453,2025-05-31,Lat Phrao,Website,Residential,ชำระแล้วแต่ระบบยังขึ้นค้างชำระ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,21,Medium,Billing,Billing Service
+CP00454,2025-04-14,Lat Phrao,Call Center,Industrial,ค่าไฟเดือนนี้สูงผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,29,Low,Billing,Billing Service
+CP00455,2025-05-15,Din Daeng,Website,Government,ชำระแล้วแต่ระบบยังขึ้นค้างชำระ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,28,Medium,Billing,Billing Service
+CP00456,2025-05-19,Bang Khen,Line OA,Mixed,แรงดันไฟไม่นิ่งช่วงกลางคืน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,Medium,Voltage,Power Quality
+CP00457,2025-04-29,Bang Khen,Mobile App,Commercial,เสาไฟมีประกายไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,34,High,Safety,Emergency Safety
+CP00458,2025-05-31,Lat Phrao,Call Center,Commercial,ชำระแล้วแต่ระบบยังขึ้นค้างชำระ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,13,Low,Billing,Billing Service
+CP00459,2025-05-17,Bang Kho Laem,Field Office,Government,ไฟตกบ่อย เครื่องใช้ไฟฟ้าดับ ๆ ติด ๆ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,21,Low,Voltage,Power Quality
+CP00460,2025-05-17,Bang Kho Laem,Call Center,Commercial,ขอให้ตรวจสอบเลขมิเตอร์. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,53,Medium,Meter,Meter Service
+CP00461,2025-06-13,Din Daeng,Website,Residential,มิเตอร์หมุนเร็วผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,30,Medium,Meter,Meter Service
+CP00462,2025-04-09,Thon Buri,Website,Government,ไฟตกบ่อย เครื่องใช้ไฟฟ้าดับ ๆ ติด ๆ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,11,Low,Voltage,Power Quality
+CP00463,2025-05-23,Lat Phrao,Line OA,Mixed,ไฟตกบ่อย เครื่องใช้ไฟฟ้าดับ ๆ ติด ๆ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,19,Medium,Voltage,Power Quality
+CP00464,2025-04-18,Bang Khen,Website,Mixed,หม้อแปลงมีเสียงดังแล้วไฟดับ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,134,Medium,Outage,Field Operation
+CP00465,2025-06-06,Thon Buri,Call Center,Industrial,กล่องไฟมีกลิ่นไหม้และมีควัน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,1,High,Safety,Emergency Safety
+CP00466,2025-04-12,Bang Kapi,Website,Industrial,ไฟดับเฉพาะอาคารและเบรกเกอร์หลักไม่ตัด. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,93,High,Outage,Field Operation
+CP00467,2025-06-11,Phaya Thai,Website,Industrial,ชำระแล้วแต่ระบบยังขึ้นค้างชำระ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,36,Low,Billing,Billing Service
+CP00468,2025-05-04,Din Daeng,Call Center,Residential,ไฟกระพริบต่อเนื่องหลังฝนตก. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,Low,Voltage,Power Quality
+CP00469,2025-06-20,Bang Kapi,Call Center,Residential,ขอให้ตรวจสอบเลขมิเตอร์. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,33,Medium,Meter,Meter Service
+CP00470,2025-06-18,Bang Khen,Field Office,Residential,หม้อแปลงมีเสียงดังแล้วไฟดับ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,123,Medium,Outage,Field Operation
+CP00471,2025-04-14,Khlong Toei,Field Office,Mixed,ชำระแล้วแต่ระบบยังขึ้นค้างชำระ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,50,Medium,Billing,Billing Service
+CP00472,2025-04-12,Bang Kapi,Mobile App,Mixed,ไฟดับทั้งซอยตั้งแต่ช่วงเย็น. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,90,Low,Outage,Field Operation
+CP00473,2025-06-20,Khlong Toei,Field Office,Commercial,ค่าไฟเดือนนี้สูงผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,30,Medium,Billing,Billing Service
+CP00474,2025-06-13,Bang Kho Laem,Line OA,Commercial,มิเตอร์หมุนเร็วผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,5,High,Meter,Meter Service
+CP00475,2025-05-10,Bang Khen,Field Office,Industrial,หม้อแปลงมีเสียงดังแล้วไฟดับ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,20,Medium,Outage,Field Operation
+CP00476,2025-06-11,Din Daeng,Field Office,Mixed,ชำระแล้วแต่ระบบยังขึ้นค้างชำระ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,10,Medium,Billing,Billing Service
+CP00477,2025-05-18,Bang Kho Laem,Line OA,Government,กล่องไฟมีกลิ่นไหม้และมีควัน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,42,High,Safety,Emergency Safety
+CP00478,2025-05-09,Bang Kho Laem,Mobile App,Commercial,ไฟกระพริบต่อเนื่องหลังฝนตก. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,7,Medium,Voltage,Power Quality
+CP00479,2025-05-05,Bang Kapi,Call Center,Government,ต้องการตรวจสอบใบแจ้งค่าไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,4,Low,Billing,Billing Service
+CP00480,2025-06-23,Bang Kapi,Mobile App,Mixed,มิเตอร์หมุนเร็วผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Meter,Meter Service
+CP00481,2025-04-02,Thon Buri,Field Office,Government,ไฟกระพริบต่อเนื่องหลังฝนตก. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Voltage,Power Quality
+CP00482,2025-05-13,Bang Khen,Call Center,Industrial,หม้อแปลงมีเสียงดังแล้วไฟดับ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,54,Medium,Outage,Field Operation
+CP00483,2025-04-28,Bang Kho Laem,Field Office,Government,เสาไฟมีประกายไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,23,High,Safety,Emergency Safety
+CP00484,2025-04-20,Bang Kho Laem,Line OA,Industrial,ชำระแล้วแต่ระบบยังขึ้นค้างชำระ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,36,Medium,Billing,Billing Service
+CP00485,2025-05-13,Bang Khen,Line OA,Mixed,มิเตอร์หมุนเร็วผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,Low,Meter,Meter Service
+CP00486,2025-05-25,Bang Kapi,Call Center,Government,ไฟตกบ่อย เครื่องใช้ไฟฟ้าดับ ๆ ติด ๆ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,9,Low,Voltage,Power Quality
+CP00487,2025-04-20,Bang Kapi,Field Office,Mixed,ไฟดับเฉพาะอาคารและเบรกเกอร์หลักไม่ตัด. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,78,High,Outage,Field Operation
+CP00488,2025-04-02,Thon Buri,Line OA,Residential,ไฟกระพริบต่อเนื่องหลังฝนตก. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,53,Low,Voltage,Power Quality
+CP00489,2025-06-18,Bang Kho Laem,Field Office,Industrial,ไฟกระพริบต่อเนื่องหลังฝนตก. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,27,Medium,Voltage,Power Quality
+CP00490,2025-06-07,Bang Kapi,Call Center,Commercial,ชำระแล้วแต่ระบบยังขึ้นค้างชำระ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Billing,Billing Service
+CP00491,2025-04-18,Lat Phrao,Field Office,Mixed,ไฟดับเฉพาะอาคารและเบรกเกอร์หลักไม่ตัด. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,85,Low,Outage,Field Operation
+CP00492,2025-04-24,Khlong Toei,Line OA,Industrial,มีสายไฟหย่อนใกล้ทางเดิน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,25,High,Safety,Emergency Safety
+CP00493,2025-05-04,Din Daeng,Call Center,Residential,กล่องไฟมีกลิ่นไหม้และมีควัน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,6,High,Safety,Emergency Safety
+CP00494,2025-04-26,Bang Kapi,Line OA,Commercial,หม้อแปลงมีเสียงดังแล้วไฟดับ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,76,High,Outage,Field Operation
+CP00495,2025-05-28,Bang Kho Laem,Line OA,Industrial,มิเตอร์หมุนเร็วผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,34,High,Meter,Meter Service
+CP00496,2025-05-04,Lat Phrao,Website,Commercial,กล่องไฟมีกลิ่นไหม้และมีควัน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Safety,Emergency Safety
+CP00497,2025-04-02,Bang Kho Laem,Mobile App,Residential,เสาไฟมีประกายไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,20,High,Safety,Emergency Safety
+CP00498,2025-04-23,Bang Kapi,Line OA,Commercial,อ่านมิเตอร์ไม่ตรงกับใบแจ้งค่าไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,21,Low,Meter,Meter Service
+CP00499,2025-05-05,Thon Buri,Website,Industrial,หม้อแปลงมีเสียงดังแล้วไฟดับ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,90,Medium,Outage,Field Operation
+CP00500,2025-06-10,Bang Kapi,Mobile App,Residential,ค่าไฟเดือนนี้สูงผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,45,Medium,Billing,Billing Service
+CP00501,2025-06-02,Bang Kapi,Call Center,Commercial,ไฟกระพริบต่อเนื่องหลังฝนตก. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,Low,Voltage,Power Quality
+CP00502,2025-06-07,Bang Kho Laem,Call Center,Residential,แรงดันไฟไม่นิ่งช่วงกลางคืน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,33,Low,Voltage,Power Quality
+CP00503,2025-05-23,Khlong Toei,Line OA,Commercial,หม้อแปลงมีเสียงดังแล้วไฟดับ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,112,Medium,Outage,Field Operation
+CP00504,2025-05-28,Khlong Toei,Mobile App,Government,อ่านมิเตอร์ไม่ตรงกับใบแจ้งค่าไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,4,High,Meter,Meter Service
+CP00505,2025-04-16,Bang Kapi,Call Center,Government,ไฟดับเฉพาะอาคารและเบรกเกอร์หลักไม่ตัด. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Outage,Field Operation
+CP00506,2025-05-21,Din Daeng,Call Center,Commercial,ค่าไฟเดือนนี้สูงผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,18,High,Billing,Billing Service
+CP00507,2025-06-05,Din Daeng,Website,Residential,ไฟกระพริบต่อเนื่องหลังฝนตก. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,13,Medium,Voltage,Power Quality
+CP00508,2025-05-01,Din Daeng,Call Center,Government,ขอให้ตรวจสอบเลขมิเตอร์. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,Medium,Meter,Meter Service
+CP00509,2025-04-25,Thon Buri,Line OA,Mixed,หม้อแปลงมีเสียงดังแล้วไฟดับ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,89,High,Outage,Field Operation
+CP00510,2025-06-14,Bang Kho Laem,Mobile App,Commercial,แรงดันไฟไม่นิ่งช่วงกลางคืน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,Medium,Voltage,Power Quality
+CP00511,2025-04-04,Bang Kapi,Field Office,Government,อ่านมิเตอร์ไม่ตรงกับใบแจ้งค่าไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,2,Medium,Meter,Meter Service
+CP00512,2025-06-05,Bang Khen,Line OA,Commercial,มีสายไฟหย่อนใกล้ทางเดิน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Safety,Emergency Safety
+CP00513,2025-05-17,Lat Phrao,Website,Commercial,แรงดันไฟไม่นิ่งช่วงกลางคืน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,23,Medium,Voltage,Power Quality
+CP00514,2025-05-01,Bang Khen,Field Office,Commercial,เสาไฟมีประกายไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,17,High,Safety,Emergency Safety
+CP00515,2025-04-11,Bang Khen,Call Center,Residential,เสาไฟมีประกายไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,26,High,Safety,Emergency Safety
+CP00516,2025-04-09,Lat Phrao,Call Center,Mixed,ไฟกระพริบต่อเนื่องหลังฝนตก. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,34,High,Voltage,Power Quality
+CP00517,2025-05-25,Lat Phrao,Line OA,Industrial,ไฟดับเฉพาะอาคารและเบรกเกอร์หลักไม่ตัด. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,19,Medium,Outage,Field Operation
+CP00518,2025-05-09,Thon Buri,Field Office,Residential,ขอให้ตรวจสอบเลขมิเตอร์. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,46,Medium,Meter,Meter Service
+CP00519,2025-05-11,Thon Buri,Line OA,Government,ชำระแล้วแต่ระบบยังขึ้นค้างชำระ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,33,Medium,Billing,Billing Service
+CP00520,2025-04-05,Phaya Thai,Line OA,Mixed,ค่าไฟเดือนนี้สูงผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,Medium,Billing,Billing Service
+CP00521,2025-05-25,Bang Khen,Website,Commercial,มีสายไฟหย่อนใกล้ทางเดิน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,31,High,Safety,Emergency Safety
+CP00522,2025-05-21,Khlong Toei,Website,Government,ไฟดับทั้งซอยตั้งแต่ช่วงเย็น. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,86,High,Outage,Field Operation
+CP00523,2025-06-16,Bang Kapi,Website,Commercial,หม้อแปลงมีเสียงดังแล้วไฟดับ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,119,High,Outage,Field Operation
+CP00524,2025-05-19,Lat Phrao,Website,Residential,ต้องการตรวจสอบใบแจ้งค่าไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,4,High,Billing,Billing Service
+CP00525,2025-04-01,Bang Kho Laem,Website,Industrial,มีสายไฟหย่อนใกล้ทางเดิน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,16,High,Safety,Emergency Safety
+CP00526,2025-06-07,Bang Khen,Website,Government,อ่านมิเตอร์ไม่ตรงกับใบแจ้งค่าไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,34,Medium,Meter,Meter Service
+CP00527,2025-05-30,Bang Kho Laem,Line OA,Government,เสาไฟมีประกายไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,41,High,Safety,Emergency Safety
+CP00528,2025-06-28,Lat Phrao,Website,Residential,ชำระแล้วแต่ระบบยังขึ้นค้างชำระ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Billing,Billing Service
+CP00529,2025-05-18,Thon Buri,Website,Commercial,มิเตอร์หมุนเร็วผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,Medium,Meter,Meter Service
+CP00530,2025-04-10,Bang Kapi,Field Office,Mixed,ชำระแล้วแต่ระบบยังขึ้นค้างชำระ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Billing,Billing Service
+CP00531,2025-05-31,Khlong Toei,Mobile App,Mixed,ไฟกระพริบต่อเนื่องหลังฝนตก. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,38,High,Voltage,Power Quality
+CP00532,2025-05-23,Lat Phrao,Website,Mixed,ชำระแล้วแต่ระบบยังขึ้นค้างชำระ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,Medium,Billing,Billing Service
+CP00533,2025-05-17,Bang Kapi,Field Office,Government,มิเตอร์หมุนเร็วผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,6,Medium,Meter,Meter Service
+CP00534,2025-04-05,Bang Kapi,Field Office,Residential,ชำระแล้วแต่ระบบยังขึ้นค้างชำระ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,Medium,Billing,Billing Service
+CP00535,2025-05-01,Bang Khen,Website,Industrial,มิเตอร์หมุนเร็วผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,8,Low,Meter,Meter Service
+CP00536,2025-06-11,Bang Kho Laem,Website,Residential,เสาไฟมีประกายไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,28,High,Safety,Emergency Safety
+CP00537,2025-05-25,Bang Khen,Mobile App,Commercial,ไฟดับเฉพาะอาคารและเบรกเกอร์หลักไม่ตัด. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,53,High,Outage,Field Operation
+CP00538,2025-05-13,Bang Kho Laem,Line OA,Government,ชำระแล้วแต่ระบบยังขึ้นค้างชำระ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,8,Medium,Billing,Billing Service
+CP00539,2025-05-13,Din Daeng,Website,Mixed,แรงดันไฟไม่นิ่งช่วงกลางคืน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,Low,Voltage,Power Quality
+CP00540,2025-06-27,Lat Phrao,Mobile App,Mixed,ไฟตกบ่อย เครื่องใช้ไฟฟ้าดับ ๆ ติด ๆ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,Medium,Voltage,Power Quality
+CP00541,2025-05-19,Bang Kapi,Line OA,Residential,แรงดันไฟไม่นิ่งช่วงกลางคืน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,32,Medium,Voltage,Power Quality
+CP00542,2025-05-24,Khlong Toei,Mobile App,Industrial,มิเตอร์หมุนเร็วผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,3,Medium,Meter,Meter Service
+CP00543,2025-05-22,Khlong Toei,Line OA,Industrial,ไฟดับเฉพาะอาคารและเบรกเกอร์หลักไม่ตัด. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,48,Medium,Outage,Field Operation
+CP00544,2025-05-21,Lat Phrao,Mobile App,Government,ไฟดับเฉพาะอาคารและเบรกเกอร์หลักไม่ตัด. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,41,High,Outage,Field Operation
+CP00545,2025-04-14,Bang Khen,Call Center,Commercial,เสาไฟมีประกายไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Safety,Emergency Safety
+CP00546,2025-05-18,Bang Kho Laem,Call Center,Mixed,ไฟดับทั้งซอยตั้งแต่ช่วงเย็น. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,72,Medium,Outage,Field Operation
+CP00547,2025-05-05,Bang Kho Laem,Website,Commercial,ขอให้ตรวจสอบเลขมิเตอร์. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,20,Medium,Meter,Meter Service
+CP00548,2025-04-04,Phaya Thai,Line OA,Mixed,มีสายไฟหย่อนใกล้ทางเดิน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,42,High,Safety,Emergency Safety
+CP00549,2025-04-09,Din Daeng,Line OA,Mixed,ต้องการตรวจสอบใบแจ้งค่าไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,29,Low,Billing,Billing Service
+CP00550,2025-04-07,Lat Phrao,Call Center,Mixed,มิเตอร์หมุนเร็วผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Meter,Meter Service
+CP00551,2025-05-09,Khlong Toei,Field Office,Residential,ไฟตกบ่อย เครื่องใช้ไฟฟ้าดับ ๆ ติด ๆ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,16,Medium,Voltage,Power Quality
+CP00552,2025-06-15,Bang Kho Laem,Call Center,Mixed,ไฟดับทั้งซอยตั้งแต่ช่วงเย็น. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,101,High,Outage,Field Operation
+CP00553,2025-04-10,Bang Khen,Call Center,Commercial,ขอให้ตรวจสอบเลขมิเตอร์. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,28,Medium,Meter,Meter Service
+CP00554,2025-05-09,Bang Kapi,Field Office,Industrial,เสาไฟมีประกายไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,49,High,Safety,Emergency Safety
+CP00555,2025-05-16,Khlong Toei,Line OA,Residential,ไฟกระพริบต่อเนื่องหลังฝนตก. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,27,High,Voltage,Power Quality
+CP00556,2025-05-09,Khlong Toei,Field Office,Commercial,ขอให้ตรวจสอบเลขมิเตอร์. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,9,Medium,Meter,Meter Service
+CP00557,2025-04-15,Din Daeng,Field Office,Industrial,มีสายไฟหย่อนใกล้ทางเดิน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Safety,Emergency Safety
+CP00558,2025-05-28,Thon Buri,Website,Government,อ่านมิเตอร์ไม่ตรงกับใบแจ้งค่าไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,12,Medium,Meter,Meter Service
+CP00559,2025-06-21,Thon Buri,Call Center,Government,ไฟดับเฉพาะอาคารและเบรกเกอร์หลักไม่ตัด. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,87,Medium,Outage,Field Operation
+CP00560,2025-04-23,Bang Khen,Call Center,Industrial,เสาไฟมีประกายไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Safety,Emergency Safety
+CP00561,2025-06-27,Din Daeng,Website,Mixed,ไฟดับทั้งซอยตั้งแต่ช่วงเย็น. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,166,High,Outage,Field Operation
+CP00562,2025-05-28,Bang Khen,Website,Residential,ไฟดับทั้งซอยตั้งแต่ช่วงเย็น. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,127,High,Outage,Field Operation
+CP00563,2025-04-29,Bang Kho Laem,Call Center,Industrial,หม้อแปลงมีเสียงดังแล้วไฟดับ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,81,High,Outage,Field Operation
+CP00564,2025-05-29,Lat Phrao,Mobile App,Government,มีสายไฟหย่อนใกล้ทางเดิน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,31,High,Safety,Emergency Safety
+CP00565,2025-06-24,Bang Kapi,Website,Industrial,มีสายไฟหย่อนใกล้ทางเดิน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,9,High,Safety,Emergency Safety
+CP00566,2025-06-08,Bang Kho Laem,Mobile App,Mixed,ค่าไฟเดือนนี้สูงผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Billing,Billing Service
+CP00567,2025-05-15,Khlong Toei,Mobile App,Government,ไฟดับทั้งซอยตั้งแต่ช่วงเย็น. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Outage,Field Operation
+CP00568,2025-06-22,Bang Kho Laem,Line OA,Industrial,ไฟตกบ่อย เครื่องใช้ไฟฟ้าดับ ๆ ติด ๆ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,9,Low,Voltage,Power Quality
+CP00569,2025-06-02,Bang Kho Laem,Field Office,Residential,ไฟดับทั้งซอยตั้งแต่ช่วงเย็น. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,129,Low,Outage,Field Operation
+CP00570,2025-04-05,Bang Kho Laem,Website,Commercial,มิเตอร์หมุนเร็วผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,15,Medium,Meter,Meter Service
+CP00571,2025-05-16,Bang Kapi,Field Office,Residential,ไฟกระพริบต่อเนื่องหลังฝนตก. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,Low,Voltage,Power Quality
+CP00572,2025-04-28,Bang Khen,Call Center,Government,มิเตอร์หมุนเร็วผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,Low,Meter,Meter Service
+CP00573,2025-04-03,Lat Phrao,Line OA,Mixed,ไฟดับทั้งซอยตั้งแต่ช่วงเย็น. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,152,Medium,Outage,Field Operation
+CP00574,2025-05-05,Bang Kho Laem,Field Office,Commercial,แรงดันไฟไม่นิ่งช่วงกลางคืน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,23,Low,Voltage,Power Quality
+CP00575,2025-05-25,Khlong Toei,Field Office,Industrial,ค่าไฟเดือนนี้สูงผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,32,Low,Billing,Billing Service
+CP00576,2025-05-19,Thon Buri,Mobile App,Residential,มิเตอร์หมุนเร็วผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,41,Medium,Meter,Meter Service
+CP00577,2025-06-17,Bang Khen,Call Center,Residential,ค่าไฟเดือนนี้สูงผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Billing,Billing Service
+CP00578,2025-06-11,Bang Kapi,Mobile App,Commercial,มีสายไฟหย่อนใกล้ทางเดิน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,23,High,Safety,Emergency Safety
+CP00579,2025-06-24,Bang Kho Laem,Website,Government,มิเตอร์หมุนเร็วผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,21,Medium,Meter,Meter Service
+CP00580,2025-05-05,Din Daeng,Field Office,Government,ไฟกระพริบต่อเนื่องหลังฝนตก. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,23,Low,Voltage,Power Quality
+CP00581,2025-05-13,Khlong Toei,Call Center,Mixed,ค่าไฟเดือนนี้สูงผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,21,Medium,Billing,Billing Service
+CP00582,2025-06-14,Lat Phrao,Field Office,Commercial,ค่าไฟเดือนนี้สูงผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,24,Medium,Billing,Billing Service
+CP00583,2025-06-03,Bang Kho Laem,Website,Industrial,เสาไฟมีประกายไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,10,High,Safety,Emergency Safety
+CP00584,2025-05-01,Phaya Thai,Line OA,Mixed,หม้อแปลงมีเสียงดังแล้วไฟดับ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,139,High,Outage,Field Operation
+CP00585,2025-04-14,Khlong Toei,Line OA,Government,ไฟตกบ่อย เครื่องใช้ไฟฟ้าดับ ๆ ติด ๆ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,3,Low,Voltage,Power Quality
+CP00586,2025-04-24,Din Daeng,Call Center,Residential,อ่านมิเตอร์ไม่ตรงกับใบแจ้งค่าไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,29,Medium,Meter,Meter Service
+CP00587,2025-05-09,Bang Kapi,Call Center,Residential,มิเตอร์หมุนเร็วผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,48,Medium,Meter,Meter Service
+CP00588,2025-04-14,Bang Khen,Mobile App,Government,ขอให้ตรวจสอบเลขมิเตอร์. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,18,Low,Meter,Meter Service
+CP00589,2025-05-01,Khlong Toei,Field Office,Mixed,มิเตอร์หมุนเร็วผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,Medium,Meter,Meter Service
+CP00590,2025-06-17,Thon Buri,Mobile App,Commercial,แรงดันไฟไม่นิ่งช่วงกลางคืน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,61,Medium,Voltage,Power Quality
+CP00591,2025-05-13,Din Daeng,Field Office,Commercial,กล่องไฟมีกลิ่นไหม้และมีควัน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,18,High,Safety,Emergency Safety
+CP00592,2025-04-20,Din Daeng,Field Office,Industrial,ต้องการตรวจสอบใบแจ้งค่าไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,Low,Billing,Billing Service
+CP00593,2025-04-25,Din Daeng,Line OA,Government,ไฟกระพริบต่อเนื่องหลังฝนตก. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,19,Low,Voltage,Power Quality
+CP00594,2025-04-25,Khlong Toei,Mobile App,Industrial,เสาไฟมีประกายไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,23,High,Safety,Emergency Safety
+CP00595,2025-04-22,Lat Phrao,Line OA,Residential,ไฟกระพริบต่อเนื่องหลังฝนตก. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,19,High,Voltage,Power Quality
+CP00596,2025-04-15,Khlong Toei,Website,Industrial,มิเตอร์หมุนเร็วผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,6,High,Meter,Meter Service
+CP00597,2025-06-05,Khlong Toei,Website,Government,ไฟดับทั้งซอยตั้งแต่ช่วงเย็น. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Outage,Field Operation
+CP00598,2025-04-21,Thon Buri,Line OA,Residential,ไฟดับทั้งซอยตั้งแต่ช่วงเย็น. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,58,Low,Outage,Field Operation
+CP00599,2025-06-15,Bang Khen,Website,Mixed,ไฟดับทั้งซอยตั้งแต่ช่วงเย็น. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,77,High,Outage,Field Operation
+CP00600,2025-06-01,Bang Kho Laem,Line OA,Residential,หม้อแปลงมีเสียงดังแล้วไฟดับ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,198,Medium,Outage,Field Operation
+CP00601,2025-04-20,Lat Phrao,Line OA,Mixed,แรงดันไฟไม่นิ่งช่วงกลางคืน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,Low,Voltage,Power Quality
+CP00602,2025-04-17,Bang Kho Laem,Call Center,Mixed,ไฟกระพริบต่อเนื่องหลังฝนตก. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,15,Medium,Voltage,Power Quality
+CP00603,2025-06-16,Bang Khen,Website,Government,ไฟดับทั้งซอยตั้งแต่ช่วงเย็น. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,112,Medium,Outage,Field Operation
+CP00604,2025-06-18,Din Daeng,Website,Mixed,กล่องไฟมีกลิ่นไหม้และมีควัน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,9,High,Safety,Emergency Safety
+CP00605,2025-05-23,Din Daeng,Website,Industrial,ไฟดับเฉพาะอาคารและเบรกเกอร์หลักไม่ตัด. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,159,High,Outage,Field Operation
+CP00606,2025-05-28,Bang Kho Laem,Field Office,Commercial,อ่านมิเตอร์ไม่ตรงกับใบแจ้งค่าไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Meter,Meter Service
+CP00607,2025-04-29,Din Daeng,Website,Residential,ชำระแล้วแต่ระบบยังขึ้นค้างชำระ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,26,Low,Billing,Billing Service
+CP00608,2025-06-08,Bang Khen,Call Center,Industrial,มิเตอร์หมุนเร็วผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,54,Medium,Meter,Meter Service
+CP00609,2025-06-23,Lat Phrao,Website,Government,อ่านมิเตอร์ไม่ตรงกับใบแจ้งค่าไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,22,High,Meter,Meter Service
+CP00610,2025-05-21,Thon Buri,Call Center,Residential,กล่องไฟมีกลิ่นไหม้และมีควัน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,38,High,Safety,Emergency Safety
+CP00611,2025-05-13,Phaya Thai,Line OA,Industrial,กล่องไฟมีกลิ่นไหม้และมีควัน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,1,High,Safety,Emergency Safety
+CP00612,2025-05-06,Lat Phrao,Field Office,Commercial,มีสายไฟหย่อนใกล้ทางเดิน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,8,High,Safety,Emergency Safety
+CP00613,2025-05-01,Din Daeng,Website,Residential,ไฟดับทั้งซอยตั้งแต่ช่วงเย็น. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,99,Medium,Outage,Field Operation
+CP00614,2025-04-19,Bang Kho Laem,Mobile App,Mixed,แรงดันไฟไม่นิ่งช่วงกลางคืน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,23,Medium,Voltage,Power Quality
+CP00615,2025-04-03,Bang Khen,Call Center,Residential,ไฟดับเฉพาะอาคารและเบรกเกอร์หลักไม่ตัด. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,37,Medium,Outage,Field Operation
+CP00616,2025-04-08,Din Daeng,Field Office,Commercial,ต้องการตรวจสอบใบแจ้งค่าไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,5,Low,Billing,Billing Service
+CP00617,2025-06-28,Phaya Thai,Website,Government,ไฟกระพริบต่อเนื่องหลังฝนตก. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,Medium,Voltage,Power Quality
+CP00618,2025-04-26,Din Daeng,Field Office,Mixed,ไฟกระพริบต่อเนื่องหลังฝนตก. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,Medium,Voltage,Power Quality
+CP00619,2025-06-23,Lat Phrao,Website,Government,เสาไฟมีประกายไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,7,High,Safety,Emergency Safety
+CP00620,2025-05-26,Lat Phrao,Website,Government,ต้องการตรวจสอบใบแจ้งค่าไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,Medium,Billing,Billing Service
+CP00621,2025-04-11,Lat Phrao,Line OA,Industrial,ขอให้ตรวจสอบเลขมิเตอร์. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,9,Low,Meter,Meter Service
+CP00622,2025-05-23,Bang Khen,Line OA,Residential,มีสายไฟหย่อนใกล้ทางเดิน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,16,High,Safety,Emergency Safety
+CP00623,2025-05-01,Bang Kho Laem,Mobile App,Government,เสาไฟมีประกายไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,47,High,Safety,Emergency Safety
+CP00624,2025-06-29,Thon Buri,Website,Residential,ชำระแล้วแต่ระบบยังขึ้นค้างชำระ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,High,Billing,Billing Service
+CP00625,2025-06-20,Khlong Toei,Field Office,Mixed,ไฟดับเฉพาะอาคารและเบรกเกอร์หลักไม่ตัด. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,189,High,Outage,Field Operation
+CP00626,2025-04-24,Bang Kapi,Mobile App,Commercial,ไฟตกบ่อย เครื่องใช้ไฟฟ้าดับ ๆ ติด ๆ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,10,Medium,Voltage,Power Quality
+CP00627,2025-05-03,Thon Buri,Line OA,Mixed,ไฟดับเฉพาะอาคารและเบรกเกอร์หลักไม่ตัด. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,122,High,Outage,Field Operation
+CP00628,2025-05-03,Bang Khen,Website,Residential,แรงดันไฟไม่นิ่งช่วงกลางคืน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,1,High,Voltage,Power Quality
+CP00629,2025-04-30,Bang Khen,Website,Government,ไฟดับทั้งซอยตั้งแต่ช่วงเย็น. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,127,High,Outage,Field Operation
+CP00630,2025-06-16,Thon Buri,Field Office,Commercial,ไฟกระพริบต่อเนื่องหลังฝนตก. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,10,Medium,Voltage,Power Quality
+CP00631,2025-06-02,Bang Kho Laem,Website,Mixed,เสาไฟมีประกายไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,12,High,Safety,Emergency Safety
+CP00632,2025-04-25,Phaya Thai,Mobile App,Residential,มิเตอร์หมุนเร็วผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,12,High,Meter,Meter Service
+CP00633,2025-06-06,Thon Buri,Website,Mixed,ต้องการตรวจสอบใบแจ้งค่าไฟ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,22,High,Billing,Billing Service
+CP00634,2025-06-01,Din Daeng,Call Center,Industrial,ไฟดับเฉพาะอาคารและเบรกเกอร์หลักไม่ตัด. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,97,High,Outage,Field Operation
+CP00635,2025-04-11,Phaya Thai,Line OA,Industrial,มิเตอร์หมุนเร็วผิดปกติ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,Medium,Meter,Meter Service
+CP00636,2025-05-31,Bang Kho Laem,Line OA,Industrial,ไฟกระพริบต่อเนื่องหลังฝนตก. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,Medium,Voltage,Power Quality
+CP00637,2025-04-29,Bang Kapi,Call Center,Mixed,ชำระแล้วแต่ระบบยังขึ้นค้างชำระ. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,10,High,Billing,Billing Service
+CP00638,2025-06-01,Phaya Thai,Line OA,Commercial,กล่องไฟมีกลิ่นไหม้และมีควัน. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,12,High,Safety,Emergency Safety
+CP00639,2025-05-18,Din Daeng,Mobile App,Industrial,ขอให้ตรวจสอบเลขมิเตอร์. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,0,Medium,Meter,Meter Service
+CP00640,2025-05-05,Bang Khen,Call Center,Residential,ไฟกระพริบต่อเนื่องหลังฝนตก. กรุณาช่วยตรวจสอบและแจ้งความคืบหน้า,34,Low,Voltage,Power Quality

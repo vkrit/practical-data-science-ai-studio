@@ -1,0 +1,1531 @@
+event_id,service_area_id,district,action_id,action_name,action_group,event_date,prior_complaint_rate,prior_peak_ratio,accepted_flag,satisfaction_rating
+EV000001,SA01001,Bang Kapi,A001,Send peak alert,Demand Response,2025-03-09,5.1,1.25,0,
+EV000002,SA01001,Bang Kapi,A003,Offer smart meter education,Customer Service,2025-04-19,5.1,1.25,0,
+EV000003,SA01001,Bang Kapi,A004,Dispatch voltage quality check,Power Quality,2025-02-04,5.1,1.25,0,3
+EV000004,SA01001,Bang Kapi,A006,Energy efficiency advisory,Efficiency Program,2025-03-04,5.1,1.25,0,4
+EV000005,SA01001,Bang Kapi,A005,Billing explanation callback,Billing Service,2025-06-08,5.1,1.25,1,4
+EV000006,SA01001,Bang Kapi,A004,Dispatch voltage quality check,Power Quality,2025-04-09,5.1,1.25,0,4
+EV000007,SA01001,Bang Kapi,A001,Send peak alert,Demand Response,2025-05-25,5.1,1.25,0,4
+EV000008,SA01001,Bang Kapi,A004,Dispatch voltage quality check,Power Quality,2025-02-27,5.1,1.25,1,4
+EV000009,SA01002,Bang Kapi,A001,Send peak alert,Demand Response,2025-04-19,4.6,1.64,1,3
+EV000010,SA01002,Bang Kapi,A004,Dispatch voltage quality check,Power Quality,2025-03-16,4.6,1.64,0,
+EV000011,SA01003,Bang Kapi,A004,Dispatch voltage quality check,Power Quality,2025-02-01,0.2,1.89,1,
+EV000012,SA01003,Bang Kapi,A006,Energy efficiency advisory,Efficiency Program,2025-04-19,0.2,1.89,0,
+EV000013,SA01003,Bang Kapi,A002,Schedule preventive inspection,Asset Maintenance,2025-06-01,0.2,1.89,0,
+EV000014,SA01003,Bang Kapi,A006,Energy efficiency advisory,Efficiency Program,2025-05-11,0.2,1.89,0,
+EV000015,SA01003,Bang Kapi,A003,Offer smart meter education,Customer Service,2025-02-02,0.2,1.89,0,
+EV000016,SA01003,Bang Kapi,A005,Billing explanation callback,Billing Service,2025-05-05,0.2,1.89,0,
+EV000017,SA01004,Bang Kapi,A003,Offer smart meter education,Customer Service,2025-03-13,2.3,1.61,0,
+EV000018,SA01004,Bang Kapi,A004,Dispatch voltage quality check,Power Quality,2025-02-11,2.3,1.61,0,
+EV000019,SA01004,Bang Kapi,A003,Offer smart meter education,Customer Service,2025-03-17,2.3,1.61,1,
+EV000020,SA01004,Bang Kapi,A002,Schedule preventive inspection,Asset Maintenance,2025-05-11,2.3,1.61,1,5
+EV000021,SA01004,Bang Kapi,A002,Schedule preventive inspection,Asset Maintenance,2025-04-22,2.3,1.61,0,
+EV000022,SA01004,Bang Kapi,A006,Energy efficiency advisory,Efficiency Program,2025-03-18,2.3,1.61,0,
+EV000023,SA01005,Bang Kapi,A003,Offer smart meter education,Customer Service,2025-01-23,3,1.14,0,
+EV000024,SA01005,Bang Kapi,A002,Schedule preventive inspection,Asset Maintenance,2025-05-11,3,1.14,0,5
+EV000025,SA01006,Bang Kapi,A004,Dispatch voltage quality check,Power Quality,2025-03-01,3.1,1.38,1,
+EV000026,SA01006,Bang Kapi,A001,Send peak alert,Demand Response,2025-01-03,3.1,1.38,0,
+EV000027,SA01007,Bang Kapi,A002,Schedule preventive inspection,Asset Maintenance,2025-02-07,1.6,1.84,0,
+EV000028,SA01007,Bang Kapi,A004,Dispatch voltage quality check,Power Quality,2025-05-10,1.6,1.84,1,
+EV000029,SA01007,Bang Kapi,A005,Billing explanation callback,Billing Service,2025-03-25,1.6,1.84,0,
+EV000030,SA01008,Bang Kapi,A003,Offer smart meter education,Customer Service,2025-04-07,1.8,1.82,1,
+EV000031,SA01009,Bang Kapi,A003,Offer smart meter education,Customer Service,2025-03-27,0.2,1.46,0,4
+EV000032,SA01009,Bang Kapi,A002,Schedule preventive inspection,Asset Maintenance,2025-03-02,0.2,1.46,0,
+EV000033,SA01009,Bang Kapi,A004,Dispatch voltage quality check,Power Quality,2025-02-06,0.2,1.46,0,
+EV000034,SA01009,Bang Kapi,A003,Offer smart meter education,Customer Service,2025-02-22,0.2,1.46,0,5
+EV000035,SA01010,Bang Kapi,A004,Dispatch voltage quality check,Power Quality,2025-02-28,2.6,1.76,0,
+EV000036,SA01010,Bang Kapi,A003,Offer smart meter education,Customer Service,2025-06-06,2.6,1.76,0,
+EV000037,SA01010,Bang Kapi,A003,Offer smart meter education,Customer Service,2025-02-10,2.6,1.76,0,
+EV000038,SA01010,Bang Kapi,A004,Dispatch voltage quality check,Power Quality,2025-01-16,2.6,1.76,0,
+EV000039,SA01010,Bang Kapi,A006,Energy efficiency advisory,Efficiency Program,2025-01-03,2.6,1.76,1,
+EV000040,SA01011,Bang Kapi,A005,Billing explanation callback,Billing Service,2025-06-02,2.3,1.29,0,
+EV000041,SA01011,Bang Kapi,A001,Send peak alert,Demand Response,2025-03-28,2.3,1.29,0,3
+EV000042,SA01011,Bang Kapi,A002,Schedule preventive inspection,Asset Maintenance,2025-04-10,2.3,1.29,0,
+EV000043,SA01011,Bang Kapi,A004,Dispatch voltage quality check,Power Quality,2025-02-08,2.3,1.29,1,
+EV000044,SA01012,Bang Kapi,A001,Send peak alert,Demand Response,2025-04-30,1.8,1.32,0,
+EV000045,SA01012,Bang Kapi,A002,Schedule preventive inspection,Asset Maintenance,2025-03-22,1.8,1.32,0,
+EV000046,SA01013,Bang Kapi,A002,Schedule preventive inspection,Asset Maintenance,2025-01-14,1.7,1.2,0,
+EV000047,SA01013,Bang Kapi,A006,Energy efficiency advisory,Efficiency Program,2025-01-12,1.7,1.2,1,
+EV000048,SA01013,Bang Kapi,A005,Billing explanation callback,Billing Service,2025-06-03,1.7,1.2,0,
+EV000049,SA01014,Bang Kapi,A005,Billing explanation callback,Billing Service,2025-05-19,2.9,1.65,1,
+EV000050,SA01014,Bang Kapi,A006,Energy efficiency advisory,Efficiency Program,2025-06-02,2.9,1.65,0,
+EV000051,SA01015,Bang Kapi,A006,Energy efficiency advisory,Efficiency Program,2025-02-28,4.1,1.4,0,5
+EV000052,SA01016,Bang Kapi,A006,Energy efficiency advisory,Efficiency Program,2025-02-27,1.3,1.66,1,5
+EV000053,SA01016,Bang Kapi,A004,Dispatch voltage quality check,Power Quality,2025-02-26,1.3,1.66,0,
+EV000054,SA01017,Bang Kapi,A002,Schedule preventive inspection,Asset Maintenance,2025-03-09,3.7,1.87,0,4
+EV000055,SA01017,Bang Kapi,A002,Schedule preventive inspection,Asset Maintenance,2025-01-11,3.7,1.87,0,
+EV000056,SA01017,Bang Kapi,A005,Billing explanation callback,Billing Service,2025-01-12,3.7,1.87,0,
+EV000057,SA01018,Bang Kapi,A002,Schedule preventive inspection,Asset Maintenance,2025-06-09,2.7,1.48,1,
+EV000058,SA01018,Bang Kapi,A001,Send peak alert,Demand Response,2025-01-07,2.7,1.48,0,
+EV000059,SA01018,Bang Kapi,A006,Energy efficiency advisory,Efficiency Program,2025-06-09,2.7,1.48,1,
+EV000060,SA01018,Bang Kapi,A005,Billing explanation callback,Billing Service,2025-04-14,2.7,1.48,1,5
+EV000061,SA01019,Bang Kapi,A005,Billing explanation callback,Billing Service,2025-03-31,3.7,1.28,0,
+EV000062,SA01019,Bang Kapi,A005,Billing explanation callback,Billing Service,2025-03-30,3.7,1.28,0,5
+EV000063,SA01019,Bang Kapi,A004,Dispatch voltage quality check,Power Quality,2025-04-23,3.7,1.28,0,
+EV000064,SA01019,Bang Kapi,A003,Offer smart meter education,Customer Service,2025-05-17,3.7,1.28,0,
+EV000065,SA01019,Bang Kapi,A002,Schedule preventive inspection,Asset Maintenance,2025-05-08,3.7,1.28,1,
+EV000066,SA01019,Bang Kapi,A004,Dispatch voltage quality check,Power Quality,2025-03-13,3.7,1.28,0,4
+EV000067,SA01020,Bang Kapi,A005,Billing explanation callback,Billing Service,2025-03-23,2.2,2.05,0,
+EV000068,SA01020,Bang Kapi,A006,Energy efficiency advisory,Efficiency Program,2025-02-07,2.2,2.05,0,4
+EV000069,SA01020,Bang Kapi,A002,Schedule preventive inspection,Asset Maintenance,2025-05-18,2.2,2.05,0,
+EV000070,SA01021,Bang Kapi,A001,Send peak alert,Demand Response,2025-04-24,2.2,1.18,0,
+EV000071,SA01022,Bang Kapi,A006,Energy efficiency advisory,Efficiency Program,2025-02-03,2.8,1.98,0,
+EV000072,SA01022,Bang Kapi,A002,Schedule preventive inspection,Asset Maintenance,2025-04-27,2.8,1.98,0,
+EV000073,SA01022,Bang Kapi,A005,Billing explanation callback,Billing Service,2025-06-07,2.8,1.98,0,
+EV000074,SA01023,Bang Kapi,A006,Energy efficiency advisory,Efficiency Program,2025-05-31,3.5,2.08,0,
+EV000075,SA01024,Bang Kapi,A004,Dispatch voltage quality check,Power Quality,2025-03-19,5,2.2,0,
+EV000076,SA01025,Bang Kapi,A003,Offer smart meter education,Customer Service,2025-01-16,2.9,1.37,0,
+EV000077,SA01025,Bang Kapi,A006,Energy efficiency advisory,Efficiency Program,2025-05-09,2.9,1.37,0,
+EV000078,SA01025,Bang Kapi,A003,Offer smart meter education,Customer Service,2025-02-15,2.9,1.37,1,4
+EV000079,SA01025,Bang Kapi,A002,Schedule preventive inspection,Asset Maintenance,2025-04-30,2.9,1.37,0,
+EV000080,SA01025,Bang Kapi,A005,Billing explanation callback,Billing Service,2025-03-19,2.9,1.37,1,
+EV000081,SA01025,Bang Kapi,A002,Schedule preventive inspection,Asset Maintenance,2025-05-22,2.9,1.37,1,
+EV000082,SA01026,Bang Kapi,A004,Dispatch voltage quality check,Power Quality,2025-03-23,5.2,1.41,1,4
+EV000083,SA01026,Bang Kapi,A004,Dispatch voltage quality check,Power Quality,2025-05-22,5.2,1.41,0,
+EV000084,SA01026,Bang Kapi,A002,Schedule preventive inspection,Asset Maintenance,2025-01-09,5.2,1.41,0,
+EV000085,SA01026,Bang Kapi,A002,Schedule preventive inspection,Asset Maintenance,2025-01-12,5.2,1.41,0,
+EV000086,SA01026,Bang Kapi,A003,Offer smart meter education,Customer Service,2025-01-20,5.2,1.41,1,
+EV000087,SA01027,Bang Kapi,A001,Send peak alert,Demand Response,2025-06-08,1.6,1.69,0,
+EV000088,SA01027,Bang Kapi,A006,Energy efficiency advisory,Efficiency Program,2025-06-04,1.6,1.69,0,
+EV000089,SA01027,Bang Kapi,A005,Billing explanation callback,Billing Service,2025-04-05,1.6,1.69,0,
+EV000090,SA01028,Bang Kapi,A003,Offer smart meter education,Customer Service,2025-04-12,2.2,1.59,0,
+EV000091,SA01028,Bang Kapi,A001,Send peak alert,Demand Response,2025-03-06,2.2,1.59,0,
+EV000092,SA01029,Bang Kapi,A002,Schedule preventive inspection,Asset Maintenance,2025-05-26,5.7,1.28,0,
+EV000093,SA01029,Bang Kapi,A004,Dispatch voltage quality check,Power Quality,2025-03-13,5.7,1.28,0,
+EV000094,SA01030,Bang Kapi,A003,Offer smart meter education,Customer Service,2025-01-17,5,2.12,0,
+EV000095,SA01030,Bang Kapi,A003,Offer smart meter education,Customer Service,2025-04-25,5,2.12,1,
+EV000096,SA01031,Bang Kapi,A006,Energy efficiency advisory,Efficiency Program,2025-04-09,5.5,1.05,0,5
+EV000097,SA01031,Bang Kapi,A004,Dispatch voltage quality check,Power Quality,2025-01-21,5.5,1.05,1,4
+EV000098,SA01031,Bang Kapi,A006,Energy efficiency advisory,Efficiency Program,2025-03-06,5.5,1.05,0,5
+EV000099,SA01031,Bang Kapi,A004,Dispatch voltage quality check,Power Quality,2025-01-15,5.5,1.05,0,
+EV000100,SA01032,Bang Kapi,A006,Energy efficiency advisory,Efficiency Program,2025-04-15,2.8,1.32,0,4
+EV000101,SA01032,Bang Kapi,A002,Schedule preventive inspection,Asset Maintenance,2025-02-19,2.8,1.32,0,
+EV000102,SA01032,Bang Kapi,A001,Send peak alert,Demand Response,2025-06-02,2.8,1.32,0,4
+EV000103,SA01032,Bang Kapi,A005,Billing explanation callback,Billing Service,2025-02-07,2.8,1.32,0,
+EV000104,SA01032,Bang Kapi,A002,Schedule preventive inspection,Asset Maintenance,2025-02-16,2.8,1.32,0,
+EV000105,SA01032,Bang Kapi,A004,Dispatch voltage quality check,Power Quality,2025-04-22,2.8,1.32,1,4
+EV000106,SA01033,Bang Kapi,A002,Schedule preventive inspection,Asset Maintenance,2025-03-25,3.5,1.57,0,
+EV000107,SA01033,Bang Kapi,A001,Send peak alert,Demand Response,2025-06-01,3.5,1.57,0,
+EV000108,SA01033,Bang Kapi,A003,Offer smart meter education,Customer Service,2025-03-30,3.5,1.57,1,
+EV000109,SA01033,Bang Kapi,A002,Schedule preventive inspection,Asset Maintenance,2025-02-16,3.5,1.57,0,
+EV000110,SA01034,Bang Kapi,A006,Energy efficiency advisory,Efficiency Program,2025-02-14,2,1.64,0,
+EV000111,SA01034,Bang Kapi,A003,Offer smart meter education,Customer Service,2025-04-27,2,1.64,0,
+EV000112,SA01035,Bang Kapi,A002,Schedule preventive inspection,Asset Maintenance,2025-02-03,4.9,1.17,0,
+EV000113,SA01035,Bang Kapi,A002,Schedule preventive inspection,Asset Maintenance,2025-04-10,4.9,1.17,0,4
+EV000114,SA01035,Bang Kapi,A005,Billing explanation callback,Billing Service,2025-04-07,4.9,1.17,0,
+EV000115,SA01036,Bang Kapi,A005,Billing explanation callback,Billing Service,2025-04-15,0.2,1.26,0,3
+EV000116,SA01036,Bang Kapi,A001,Send peak alert,Demand Response,2025-03-05,0.2,1.26,0,3
+EV000117,SA01036,Bang Kapi,A005,Billing explanation callback,Billing Service,2025-01-04,0.2,1.26,0,
+EV000118,SA01037,Bang Kapi,A004,Dispatch voltage quality check,Power Quality,2025-03-12,4.2,1.54,0,
+EV000119,SA01038,Bang Kapi,A004,Dispatch voltage quality check,Power Quality,2025-03-01,2.9,1.7,1,4
+EV000120,SA01039,Bang Kapi,A002,Schedule preventive inspection,Asset Maintenance,2025-05-11,1.1,2.15,0,
+EV000121,SA01040,Bang Kapi,A005,Billing explanation callback,Billing Service,2025-01-19,2.3,1.68,1,
+EV000122,SA01040,Bang Kapi,A004,Dispatch voltage quality check,Power Quality,2025-04-24,2.3,1.68,0,
+EV000123,SA01040,Bang Kapi,A003,Offer smart meter education,Customer Service,2025-04-25,2.3,1.68,0,4
+EV000124,SA01040,Bang Kapi,A001,Send peak alert,Demand Response,2025-02-11,2.3,1.68,0,
+EV000125,SA01040,Bang Kapi,A002,Schedule preventive inspection,Asset Maintenance,2025-03-07,2.3,1.68,0,
+EV000126,SA01041,Bang Kapi,A001,Send peak alert,Demand Response,2025-05-12,4.9,1.05,1,
+EV000127,SA01041,Bang Kapi,A002,Schedule preventive inspection,Asset Maintenance,2025-02-24,4.9,1.05,0,
+EV000128,SA01041,Bang Kapi,A004,Dispatch voltage quality check,Power Quality,2025-06-07,4.9,1.05,1,4
+EV000129,SA01042,Bang Kapi,A004,Dispatch voltage quality check,Power Quality,2025-03-24,3.7,1.21,0,4
+EV000130,SA01043,Bang Kapi,A001,Send peak alert,Demand Response,2025-01-17,2.6,1.69,1,
+EV000131,SA01043,Bang Kapi,A003,Offer smart meter education,Customer Service,2025-03-02,2.6,1.69,0,
+EV000132,SA01043,Bang Kapi,A004,Dispatch voltage quality check,Power Quality,2025-03-10,2.6,1.69,0,4
+EV000133,SA01044,Bang Kapi,A005,Billing explanation callback,Billing Service,2025-01-31,3.3,1.12,0,
+EV000134,SA01044,Bang Kapi,A003,Offer smart meter education,Customer Service,2025-05-26,3.3,1.12,0,
+EV000135,SA01045,Bang Kapi,A002,Schedule preventive inspection,Asset Maintenance,2025-03-21,1.1,1.23,0,4
+EV000136,SA01045,Bang Kapi,A004,Dispatch voltage quality check,Power Quality,2025-06-08,1.1,1.23,0,
+EV000137,SA01046,Bang Kapi,A004,Dispatch voltage quality check,Power Quality,2025-04-25,3.7,1.68,0,
+EV000138,SA01046,Bang Kapi,A005,Billing explanation callback,Billing Service,2025-04-18,3.7,1.68,0,
+EV000139,SA01046,Bang Kapi,A006,Energy efficiency advisory,Efficiency Program,2025-05-29,3.7,1.68,0,
+EV000140,SA01046,Bang Kapi,A004,Dispatch voltage quality check,Power Quality,2025-01-28,3.7,1.68,1,5
+EV000141,SA01046,Bang Kapi,A002,Schedule preventive inspection,Asset Maintenance,2025-05-13,3.7,1.68,1,
+EV000142,SA01047,Bang Kapi,A006,Energy efficiency advisory,Efficiency Program,2025-02-09,3.8,1.23,0,
+EV000143,SA01048,Bang Kapi,A002,Schedule preventive inspection,Asset Maintenance,2025-02-10,3,1.8,0,
+EV000144,SA01048,Bang Kapi,A003,Offer smart meter education,Customer Service,2025-04-02,3,1.8,1,
+EV000145,SA01048,Bang Kapi,A002,Schedule preventive inspection,Asset Maintenance,2025-04-09,3,1.8,0,
+EV000146,SA01048,Bang Kapi,A001,Send peak alert,Demand Response,2025-04-10,3,1.8,0,
+EV000147,SA01048,Bang Kapi,A001,Send peak alert,Demand Response,2025-02-02,3,1.8,0,
+EV000148,SA01048,Bang Kapi,A005,Billing explanation callback,Billing Service,2025-04-05,3,1.8,0,
+EV000149,SA01048,Bang Kapi,A006,Energy efficiency advisory,Efficiency Program,2025-06-07,3,1.8,0,
+EV000150,SA01049,Bang Kapi,A005,Billing explanation callback,Billing Service,2025-05-12,3.9,1.12,0,
+EV000151,SA01049,Bang Kapi,A005,Billing explanation callback,Billing Service,2025-06-06,3.9,1.12,0,5
+EV000152,SA01049,Bang Kapi,A004,Dispatch voltage quality check,Power Quality,2025-03-07,3.9,1.12,0,
+EV000153,SA01049,Bang Kapi,A003,Offer smart meter education,Customer Service,2025-03-11,3.9,1.12,0,4
+EV000154,SA01049,Bang Kapi,A004,Dispatch voltage quality check,Power Quality,2025-04-07,3.9,1.12,0,
+EV000155,SA01050,Bang Kapi,A005,Billing explanation callback,Billing Service,2025-04-04,2.1,1.56,0,5
+EV000156,SA01050,Bang Kapi,A001,Send peak alert,Demand Response,2025-01-14,2.1,1.56,1,
+EV000157,SA01050,Bang Kapi,A004,Dispatch voltage quality check,Power Quality,2025-01-13,2.1,1.56,1,
+EV000158,SA01051,Bang Kapi,A002,Schedule preventive inspection,Asset Maintenance,2025-04-17,4.2,1.42,0,
+EV000159,SA01051,Bang Kapi,A002,Schedule preventive inspection,Asset Maintenance,2025-05-04,4.2,1.42,0,
+EV000160,SA01051,Bang Kapi,A004,Dispatch voltage quality check,Power Quality,2025-04-28,4.2,1.42,1,
+EV000161,SA01052,Bang Kapi,A005,Billing explanation callback,Billing Service,2025-05-20,0.2,1.52,0,
+EV000162,SA01052,Bang Kapi,A002,Schedule preventive inspection,Asset Maintenance,2025-05-15,0.2,1.52,0,5
+EV000163,SA01052,Bang Kapi,A006,Energy efficiency advisory,Efficiency Program,2025-01-08,0.2,1.52,1,
+EV000164,SA01053,Bang Kapi,A005,Billing explanation callback,Billing Service,2025-03-12,4.1,1.05,1,
+EV000165,SA01053,Bang Kapi,A001,Send peak alert,Demand Response,2025-03-14,4.1,1.05,0,4
+EV000166,SA01053,Bang Kapi,A001,Send peak alert,Demand Response,2025-03-15,4.1,1.05,1,
+EV000167,SA01053,Bang Kapi,A005,Billing explanation callback,Billing Service,2025-05-09,4.1,1.05,0,
+EV000168,SA01053,Bang Kapi,A001,Send peak alert,Demand Response,2025-04-13,4.1,1.05,0,
+EV000169,SA01053,Bang Kapi,A004,Dispatch voltage quality check,Power Quality,2025-02-10,4.1,1.05,0,
+EV000170,SA01054,Bang Kapi,A004,Dispatch voltage quality check,Power Quality,2025-03-24,1.6,1.27,0,4
+EV000171,SA01054,Bang Kapi,A004,Dispatch voltage quality check,Power Quality,2025-05-12,1.6,1.27,0,
+EV000172,SA01054,Bang Kapi,A006,Energy efficiency advisory,Efficiency Program,2025-02-12,1.6,1.27,1,
+EV000173,SA01054,Bang Kapi,A006,Energy efficiency advisory,Efficiency Program,2025-05-21,1.6,1.27,1,
+EV000174,SA01055,Bang Kapi,A004,Dispatch voltage quality check,Power Quality,2025-04-11,4.3,1.86,1,
+EV000175,SA01055,Bang Kapi,A002,Schedule preventive inspection,Asset Maintenance,2025-01-11,4.3,1.86,0,5
+EV000176,SA01055,Bang Kapi,A002,Schedule preventive inspection,Asset Maintenance,2025-02-22,4.3,1.86,1,4
+EV000177,SA01055,Bang Kapi,A004,Dispatch voltage quality check,Power Quality,2025-04-17,4.3,1.86,1,
+EV000178,SA01055,Bang Kapi,A002,Schedule preventive inspection,Asset Maintenance,2025-03-29,4.3,1.86,0,5
+EV000179,SA01055,Bang Kapi,A003,Offer smart meter education,Customer Service,2025-05-23,4.3,1.86,0,4
+EV000180,SA01055,Bang Kapi,A006,Energy efficiency advisory,Efficiency Program,2025-03-15,4.3,1.86,1,
+EV000181,SA01056,Bang Kapi,A005,Billing explanation callback,Billing Service,2025-01-06,2.6,1.67,1,
+EV000182,SA01056,Bang Kapi,A002,Schedule preventive inspection,Asset Maintenance,2025-01-18,2.6,1.67,0,3
+EV000183,SA01057,Bang Kapi,A006,Energy efficiency advisory,Efficiency Program,2025-03-10,2.8,1.71,0,
+EV000184,SA01057,Bang Kapi,A003,Offer smart meter education,Customer Service,2025-06-03,2.8,1.71,0,4
+EV000185,SA01057,Bang Kapi,A006,Energy efficiency advisory,Efficiency Program,2025-05-03,2.8,1.71,0,
+EV000186,SA01057,Bang Kapi,A002,Schedule preventive inspection,Asset Maintenance,2025-02-24,2.8,1.71,1,
+EV000187,SA01057,Bang Kapi,A002,Schedule preventive inspection,Asset Maintenance,2025-04-17,2.8,1.71,0,
+EV000188,SA01057,Bang Kapi,A005,Billing explanation callback,Billing Service,2025-03-02,2.8,1.71,0,
+EV000189,SA01057,Bang Kapi,A001,Send peak alert,Demand Response,2025-01-15,2.8,1.71,0,3
+EV000190,SA01058,Bang Kapi,A004,Dispatch voltage quality check,Power Quality,2025-04-25,4.8,1.21,1,
+EV000191,SA01058,Bang Kapi,A004,Dispatch voltage quality check,Power Quality,2025-02-18,4.8,1.21,0,
+EV000192,SA01058,Bang Kapi,A006,Energy efficiency advisory,Efficiency Program,2025-03-03,4.8,1.21,0,3
+EV000193,SA01059,Bang Kapi,A006,Energy efficiency advisory,Efficiency Program,2025-04-30,2.1,1.91,1,
+EV000194,SA01059,Bang Kapi,A004,Dispatch voltage quality check,Power Quality,2025-05-24,2.1,1.91,1,
+EV000195,SA01059,Bang Kapi,A001,Send peak alert,Demand Response,2025-05-13,2.1,1.91,0,
+EV000196,SA01059,Bang Kapi,A001,Send peak alert,Demand Response,2025-05-17,2.1,1.91,0,4
+EV000197,SA01059,Bang Kapi,A005,Billing explanation callback,Billing Service,2025-06-07,2.1,1.91,0,
+EV000198,SA01060,Bang Kapi,A002,Schedule preventive inspection,Asset Maintenance,2025-03-11,4.3,1.66,0,
+EV000199,SA01060,Bang Kapi,A001,Send peak alert,Demand Response,2025-01-03,4.3,1.66,1,
+EV000200,SA01060,Bang Kapi,A005,Billing explanation callback,Billing Service,2025-03-26,4.3,1.66,1,
+EV000201,SA01060,Bang Kapi,A004,Dispatch voltage quality check,Power Quality,2025-04-11,4.3,1.66,0,
+EV000202,SA01060,Bang Kapi,A002,Schedule preventive inspection,Asset Maintenance,2025-01-25,4.3,1.66,0,4
+EV000203,SA01061,Bang Kapi,A002,Schedule preventive inspection,Asset Maintenance,2025-05-26,3.6,1.43,0,2
+EV000204,SA01061,Bang Kapi,A002,Schedule preventive inspection,Asset Maintenance,2025-06-07,3.6,1.43,0,
+EV000205,SA01062,Bang Kapi,A001,Send peak alert,Demand Response,2025-04-11,4.6,1.89,0,
+EV000206,SA01062,Bang Kapi,A002,Schedule preventive inspection,Asset Maintenance,2025-04-16,4.6,1.89,1,
+EV000207,SA01062,Bang Kapi,A006,Energy efficiency advisory,Efficiency Program,2025-04-09,4.6,1.89,0,
+EV000208,SA01062,Bang Kapi,A001,Send peak alert,Demand Response,2025-03-28,4.6,1.89,0,
+EV000209,SA01063,Bang Kapi,A003,Offer smart meter education,Customer Service,2025-04-18,4.4,1.64,1,
+EV000210,SA01063,Bang Kapi,A005,Billing explanation callback,Billing Service,2025-04-23,4.4,1.64,0,3
+EV000211,SA01063,Bang Kapi,A005,Billing explanation callback,Billing Service,2025-01-29,4.4,1.64,0,
+EV000212,SA01063,Bang Kapi,A002,Schedule preventive inspection,Asset Maintenance,2025-05-26,4.4,1.64,0,
+EV000213,SA01063,Bang Kapi,A005,Billing explanation callback,Billing Service,2025-05-10,4.4,1.64,0,
+EV000214,SA01064,Bang Kapi,A001,Send peak alert,Demand Response,2025-03-25,2.4,1.47,1,
+EV000215,SA01064,Bang Kapi,A005,Billing explanation callback,Billing Service,2025-05-19,2.4,1.47,0,
+EV000216,SA01064,Bang Kapi,A006,Energy efficiency advisory,Efficiency Program,2025-04-14,2.4,1.47,1,
+EV000217,SA01064,Bang Kapi,A001,Send peak alert,Demand Response,2025-03-30,2.4,1.47,0,
+EV000218,SA01064,Bang Kapi,A004,Dispatch voltage quality check,Power Quality,2025-05-28,2.4,1.47,0,
+EV000219,SA01065,Bang Kapi,A004,Dispatch voltage quality check,Power Quality,2025-01-28,4.1,1.42,0,
+EV000220,SA01065,Bang Kapi,A006,Energy efficiency advisory,Efficiency Program,2025-04-14,4.1,1.42,0,
+EV000221,SA01066,Bang Kapi,A003,Offer smart meter education,Customer Service,2025-03-07,2.9,1.05,0,
+EV000222,SA01066,Bang Kapi,A006,Energy efficiency advisory,Efficiency Program,2025-02-21,2.9,1.05,0,
+EV000223,SA01066,Bang Kapi,A005,Billing explanation callback,Billing Service,2025-02-11,2.9,1.05,0,
+EV000224,SA01066,Bang Kapi,A005,Billing explanation callback,Billing Service,2025-04-27,2.9,1.05,0,
+EV000225,SA01067,Bang Kapi,A004,Dispatch voltage quality check,Power Quality,2025-05-15,3.9,1.18,0,
+EV000226,SA01067,Bang Kapi,A005,Billing explanation callback,Billing Service,2025-03-23,3.9,1.18,0,
+EV000227,SA01067,Bang Kapi,A002,Schedule preventive inspection,Asset Maintenance,2025-05-22,3.9,1.18,0,
+EV000228,SA01067,Bang Kapi,A002,Schedule preventive inspection,Asset Maintenance,2025-03-28,3.9,1.18,0,3
+EV000229,SA01067,Bang Kapi,A005,Billing explanation callback,Billing Service,2025-03-03,3.9,1.18,1,5
+EV000230,SA01067,Bang Kapi,A006,Energy efficiency advisory,Efficiency Program,2025-03-15,3.9,1.18,1,4
+EV000231,SA01068,Bang Kapi,A004,Dispatch voltage quality check,Power Quality,2025-04-28,1.9,1.76,0,
+EV000232,SA01068,Bang Kapi,A001,Send peak alert,Demand Response,2025-05-05,1.9,1.76,0,4
+EV000233,SA01068,Bang Kapi,A004,Dispatch voltage quality check,Power Quality,2025-02-23,1.9,1.76,0,
+EV000234,SA01068,Bang Kapi,A006,Energy efficiency advisory,Efficiency Program,2025-01-13,1.9,1.76,0,3
+EV000235,SA01068,Bang Kapi,A005,Billing explanation callback,Billing Service,2025-05-17,1.9,1.76,0,4
+EV000236,SA01069,Bang Kapi,A002,Schedule preventive inspection,Asset Maintenance,2025-03-26,3.6,1.48,0,
+EV000237,SA01069,Bang Kapi,A005,Billing explanation callback,Billing Service,2025-03-28,3.6,1.48,0,3
+EV000238,SA01069,Bang Kapi,A006,Energy efficiency advisory,Efficiency Program,2025-03-10,3.6,1.48,0,
+EV000239,SA01069,Bang Kapi,A004,Dispatch voltage quality check,Power Quality,2025-05-20,3.6,1.48,1,
+EV000240,SA01069,Bang Kapi,A004,Dispatch voltage quality check,Power Quality,2025-02-01,3.6,1.48,0,
+EV000241,SA01069,Bang Kapi,A006,Energy efficiency advisory,Efficiency Program,2025-05-19,3.6,1.48,0,
+EV000242,SA01069,Bang Kapi,A006,Energy efficiency advisory,Efficiency Program,2025-03-14,3.6,1.48,0,
+EV000243,SA01070,Bang Kapi,A003,Offer smart meter education,Customer Service,2025-03-01,3.1,1.2,0,4
+EV000244,SA02001,Bang Khen,A002,Schedule preventive inspection,Asset Maintenance,2025-02-20,3.1,1.19,0,
+EV000245,SA02001,Bang Khen,A006,Energy efficiency advisory,Efficiency Program,2025-01-27,3.1,1.19,0,5
+EV000246,SA02001,Bang Khen,A001,Send peak alert,Demand Response,2025-05-19,3.1,1.19,0,
+EV000247,SA02001,Bang Khen,A004,Dispatch voltage quality check,Power Quality,2025-03-05,3.1,1.19,0,
+EV000248,SA02001,Bang Khen,A005,Billing explanation callback,Billing Service,2025-01-21,3.1,1.19,0,
+EV000249,SA02002,Bang Khen,A001,Send peak alert,Demand Response,2025-02-25,1.1,1.76,0,
+EV000250,SA02003,Bang Khen,A006,Energy efficiency advisory,Efficiency Program,2025-04-01,3.3,1.17,0,4
+EV000251,SA02003,Bang Khen,A002,Schedule preventive inspection,Asset Maintenance,2025-02-11,3.3,1.17,1,
+EV000252,SA02003,Bang Khen,A002,Schedule preventive inspection,Asset Maintenance,2025-01-22,3.3,1.17,0,
+EV000253,SA02004,Bang Khen,A003,Offer smart meter education,Customer Service,2025-05-04,2.4,1.05,0,
+EV000254,SA02005,Bang Khen,A001,Send peak alert,Demand Response,2025-05-13,6.2,1.42,0,4
+EV000255,SA02005,Bang Khen,A001,Send peak alert,Demand Response,2025-01-24,6.2,1.42,1,
+EV000256,SA02005,Bang Khen,A004,Dispatch voltage quality check,Power Quality,2025-02-17,6.2,1.42,0,
+EV000257,SA02005,Bang Khen,A001,Send peak alert,Demand Response,2025-04-14,6.2,1.42,0,
+EV000258,SA02005,Bang Khen,A006,Energy efficiency advisory,Efficiency Program,2025-03-19,6.2,1.42,1,
+EV000259,SA02005,Bang Khen,A005,Billing explanation callback,Billing Service,2025-02-23,6.2,1.42,1,
+EV000260,SA02006,Bang Khen,A002,Schedule preventive inspection,Asset Maintenance,2025-02-17,3,1.16,0,
+EV000261,SA02006,Bang Khen,A005,Billing explanation callback,Billing Service,2025-04-01,3,1.16,1,
+EV000262,SA02006,Bang Khen,A004,Dispatch voltage quality check,Power Quality,2025-01-19,3,1.16,0,
+EV000263,SA02006,Bang Khen,A004,Dispatch voltage quality check,Power Quality,2025-04-29,3,1.16,0,
+EV000264,SA02006,Bang Khen,A006,Energy efficiency advisory,Efficiency Program,2025-03-01,3,1.16,0,
+EV000265,SA02006,Bang Khen,A001,Send peak alert,Demand Response,2025-04-05,3,1.16,0,4
+EV000266,SA02007,Bang Khen,A004,Dispatch voltage quality check,Power Quality,2025-01-03,0.3,1.49,0,
+EV000267,SA02008,Bang Khen,A003,Offer smart meter education,Customer Service,2025-06-03,1.6,1.5,0,
+EV000268,SA02008,Bang Khen,A001,Send peak alert,Demand Response,2025-03-22,1.6,1.5,1,
+EV000269,SA02008,Bang Khen,A004,Dispatch voltage quality check,Power Quality,2025-03-04,1.6,1.5,0,
+EV000270,SA02008,Bang Khen,A003,Offer smart meter education,Customer Service,2025-05-25,1.6,1.5,0,
+EV000271,SA02008,Bang Khen,A004,Dispatch voltage quality check,Power Quality,2025-01-11,1.6,1.5,0,
+EV000272,SA02008,Bang Khen,A003,Offer smart meter education,Customer Service,2025-03-27,1.6,1.5,0,4
+EV000273,SA02009,Bang Khen,A004,Dispatch voltage quality check,Power Quality,2025-04-25,2.1,1.35,0,4
+EV000274,SA02009,Bang Khen,A003,Offer smart meter education,Customer Service,2025-03-05,2.1,1.35,0,4
+EV000275,SA02009,Bang Khen,A006,Energy efficiency advisory,Efficiency Program,2025-05-11,2.1,1.35,0,
+EV000276,SA02009,Bang Khen,A004,Dispatch voltage quality check,Power Quality,2025-04-15,2.1,1.35,1,
+EV000277,SA02009,Bang Khen,A004,Dispatch voltage quality check,Power Quality,2025-01-04,2.1,1.35,0,
+EV000278,SA02010,Bang Khen,A002,Schedule preventive inspection,Asset Maintenance,2025-04-18,2.7,1.99,1,
+EV000279,SA02011,Bang Khen,A004,Dispatch voltage quality check,Power Quality,2025-06-01,2,1.6,0,
+EV000280,SA02012,Bang Khen,A003,Offer smart meter education,Customer Service,2025-04-13,3.4,1.33,0,
+EV000281,SA02012,Bang Khen,A001,Send peak alert,Demand Response,2025-01-10,3.4,1.33,0,
+EV000282,SA02012,Bang Khen,A002,Schedule preventive inspection,Asset Maintenance,2025-02-17,3.4,1.33,0,5
+EV000283,SA02012,Bang Khen,A005,Billing explanation callback,Billing Service,2025-04-05,3.4,1.33,1,
+EV000284,SA02012,Bang Khen,A001,Send peak alert,Demand Response,2025-03-31,3.4,1.33,0,
+EV000285,SA02013,Bang Khen,A006,Energy efficiency advisory,Efficiency Program,2025-04-19,4.1,1.35,1,
+EV000286,SA02013,Bang Khen,A002,Schedule preventive inspection,Asset Maintenance,2025-05-04,4.1,1.35,0,
+EV000287,SA02013,Bang Khen,A003,Offer smart meter education,Customer Service,2025-03-31,4.1,1.35,0,
+EV000288,SA02013,Bang Khen,A003,Offer smart meter education,Customer Service,2025-04-13,4.1,1.35,0,4
+EV000289,SA02014,Bang Khen,A005,Billing explanation callback,Billing Service,2025-02-15,2.3,1.86,0,3
+EV000290,SA02014,Bang Khen,A005,Billing explanation callback,Billing Service,2025-05-15,2.3,1.86,1,
+EV000291,SA02015,Bang Khen,A006,Energy efficiency advisory,Efficiency Program,2025-06-02,3.5,1.4,0,
+EV000292,SA02015,Bang Khen,A003,Offer smart meter education,Customer Service,2025-01-26,3.5,1.4,0,
+EV000293,SA02015,Bang Khen,A006,Energy efficiency advisory,Efficiency Program,2025-05-03,3.5,1.4,0,
+EV000294,SA02016,Bang Khen,A006,Energy efficiency advisory,Efficiency Program,2025-05-08,1.5,1.18,0,
+EV000295,SA02017,Bang Khen,A006,Energy efficiency advisory,Efficiency Program,2025-01-13,3.7,1.73,0,
+EV000296,SA02017,Bang Khen,A006,Energy efficiency advisory,Efficiency Program,2025-03-31,3.7,1.73,0,4
+EV000297,SA02017,Bang Khen,A003,Offer smart meter education,Customer Service,2025-02-18,3.7,1.73,0,
+EV000298,SA02017,Bang Khen,A006,Energy efficiency advisory,Efficiency Program,2025-06-05,3.7,1.73,1,
+EV000299,SA02017,Bang Khen,A002,Schedule preventive inspection,Asset Maintenance,2025-02-14,3.7,1.73,1,
+EV000300,SA02017,Bang Khen,A005,Billing explanation callback,Billing Service,2025-04-03,3.7,1.73,0,4
+EV000301,SA02017,Bang Khen,A004,Dispatch voltage quality check,Power Quality,2025-06-01,3.7,1.73,0,4
+EV000302,SA02017,Bang Khen,A006,Energy efficiency advisory,Efficiency Program,2025-01-28,3.7,1.73,0,
+EV000303,SA02017,Bang Khen,A005,Billing explanation callback,Billing Service,2025-05-12,3.7,1.73,1,
+EV000304,SA02018,Bang Khen,A002,Schedule preventive inspection,Asset Maintenance,2025-05-26,3.9,1.27,1,
+EV000305,SA02019,Bang Khen,A002,Schedule preventive inspection,Asset Maintenance,2025-03-07,3.6,1.28,0,
+EV000306,SA02019,Bang Khen,A002,Schedule preventive inspection,Asset Maintenance,2025-03-05,3.6,1.28,0,
+EV000307,SA02019,Bang Khen,A005,Billing explanation callback,Billing Service,2025-04-27,3.6,1.28,0,
+EV000308,SA02019,Bang Khen,A002,Schedule preventive inspection,Asset Maintenance,2025-02-01,3.6,1.28,0,3
+EV000309,SA02019,Bang Khen,A006,Energy efficiency advisory,Efficiency Program,2025-03-26,3.6,1.28,0,5
+EV000310,SA02020,Bang Khen,A002,Schedule preventive inspection,Asset Maintenance,2025-03-24,1.6,1.48,0,
+EV000311,SA02020,Bang Khen,A004,Dispatch voltage quality check,Power Quality,2025-05-05,1.6,1.48,0,
+EV000312,SA02020,Bang Khen,A002,Schedule preventive inspection,Asset Maintenance,2025-03-10,1.6,1.48,0,5
+EV000313,SA02020,Bang Khen,A006,Energy efficiency advisory,Efficiency Program,2025-02-05,1.6,1.48,0,3
+EV000314,SA02021,Bang Khen,A003,Offer smart meter education,Customer Service,2025-04-18,4.8,1.5,0,
+EV000315,SA02021,Bang Khen,A005,Billing explanation callback,Billing Service,2025-03-03,4.8,1.5,1,
+EV000316,SA02022,Bang Khen,A005,Billing explanation callback,Billing Service,2025-01-01,3.8,1.78,0,
+EV000317,SA02022,Bang Khen,A004,Dispatch voltage quality check,Power Quality,2025-01-07,3.8,1.78,0,
+EV000318,SA02022,Bang Khen,A006,Energy efficiency advisory,Efficiency Program,2025-01-31,3.8,1.78,0,
+EV000319,SA02022,Bang Khen,A004,Dispatch voltage quality check,Power Quality,2025-04-09,3.8,1.78,0,
+EV000320,SA02023,Bang Khen,A001,Send peak alert,Demand Response,2025-02-01,0.2,1.14,0,
+EV000321,SA02023,Bang Khen,A001,Send peak alert,Demand Response,2025-03-08,0.2,1.14,0,
+EV000322,SA02024,Bang Khen,A002,Schedule preventive inspection,Asset Maintenance,2025-02-09,4.5,1.39,0,
+EV000323,SA02024,Bang Khen,A002,Schedule preventive inspection,Asset Maintenance,2025-01-22,4.5,1.39,0,
+EV000324,SA02024,Bang Khen,A002,Schedule preventive inspection,Asset Maintenance,2025-05-18,4.5,1.39,0,3
+EV000325,SA02025,Bang Khen,A004,Dispatch voltage quality check,Power Quality,2025-03-14,2.6,1.33,0,
+EV000326,SA02025,Bang Khen,A004,Dispatch voltage quality check,Power Quality,2025-02-06,2.6,1.33,0,
+EV000327,SA02025,Bang Khen,A002,Schedule preventive inspection,Asset Maintenance,2025-04-20,2.6,1.33,0,
+EV000328,SA02025,Bang Khen,A002,Schedule preventive inspection,Asset Maintenance,2025-05-14,2.6,1.33,0,
+EV000329,SA02025,Bang Khen,A005,Billing explanation callback,Billing Service,2025-04-05,2.6,1.33,0,5
+EV000330,SA02026,Bang Khen,A001,Send peak alert,Demand Response,2025-02-04,2.6,1.81,0,5
+EV000331,SA02027,Bang Khen,A004,Dispatch voltage quality check,Power Quality,2025-02-26,3,1.83,0,
+EV000332,SA02027,Bang Khen,A005,Billing explanation callback,Billing Service,2025-05-23,3,1.83,0,
+EV000333,SA02027,Bang Khen,A001,Send peak alert,Demand Response,2025-02-22,3,1.83,0,
+EV000334,SA02028,Bang Khen,A003,Offer smart meter education,Customer Service,2025-02-14,2.4,1.68,0,
+EV000335,SA02029,Bang Khen,A002,Schedule preventive inspection,Asset Maintenance,2025-05-20,3.5,1.36,0,
+EV000336,SA02029,Bang Khen,A004,Dispatch voltage quality check,Power Quality,2025-05-13,3.5,1.36,0,
+EV000337,SA02029,Bang Khen,A005,Billing explanation callback,Billing Service,2025-05-07,3.5,1.36,0,
+EV000338,SA02029,Bang Khen,A002,Schedule preventive inspection,Asset Maintenance,2025-03-30,3.5,1.36,1,
+EV000339,SA02030,Bang Khen,A001,Send peak alert,Demand Response,2025-04-14,4.6,1.9,0,
+EV000340,SA02030,Bang Khen,A004,Dispatch voltage quality check,Power Quality,2025-05-14,4.6,1.9,1,
+EV000341,SA02030,Bang Khen,A005,Billing explanation callback,Billing Service,2025-02-08,4.6,1.9,1,
+EV000342,SA02030,Bang Khen,A005,Billing explanation callback,Billing Service,2025-05-04,4.6,1.9,0,
+EV000343,SA02031,Bang Khen,A001,Send peak alert,Demand Response,2025-02-04,4.2,1.23,0,
+EV000344,SA02031,Bang Khen,A002,Schedule preventive inspection,Asset Maintenance,2025-01-25,4.2,1.23,1,
+EV000345,SA02031,Bang Khen,A006,Energy efficiency advisory,Efficiency Program,2025-04-01,4.2,1.23,0,
+EV000346,SA02031,Bang Khen,A004,Dispatch voltage quality check,Power Quality,2025-03-10,4.2,1.23,0,
+EV000347,SA02032,Bang Khen,A006,Energy efficiency advisory,Efficiency Program,2025-05-20,4.3,1.45,0,
+EV000348,SA02032,Bang Khen,A005,Billing explanation callback,Billing Service,2025-03-23,4.3,1.45,0,
+EV000349,SA02032,Bang Khen,A004,Dispatch voltage quality check,Power Quality,2025-02-09,4.3,1.45,0,5
+EV000350,SA02032,Bang Khen,A004,Dispatch voltage quality check,Power Quality,2025-04-11,4.3,1.45,0,5
+EV000351,SA02032,Bang Khen,A003,Offer smart meter education,Customer Service,2025-05-29,4.3,1.45,0,3
+EV000352,SA02032,Bang Khen,A003,Offer smart meter education,Customer Service,2025-03-10,4.3,1.45,0,
+EV000353,SA02033,Bang Khen,A006,Energy efficiency advisory,Efficiency Program,2025-04-04,3.7,2.05,0,
+EV000354,SA02033,Bang Khen,A004,Dispatch voltage quality check,Power Quality,2025-04-12,3.7,2.05,0,
+EV000355,SA02033,Bang Khen,A003,Offer smart meter education,Customer Service,2025-01-11,3.7,2.05,0,
+EV000356,SA02033,Bang Khen,A005,Billing explanation callback,Billing Service,2025-01-25,3.7,2.05,1,4
+EV000357,SA02033,Bang Khen,A005,Billing explanation callback,Billing Service,2025-01-21,3.7,2.05,0,
+EV000358,SA02034,Bang Khen,A006,Energy efficiency advisory,Efficiency Program,2025-02-18,4.4,1.05,0,
+EV000359,SA02034,Bang Khen,A005,Billing explanation callback,Billing Service,2025-02-14,4.4,1.05,0,
+EV000360,SA02035,Bang Khen,A002,Schedule preventive inspection,Asset Maintenance,2025-05-22,5.8,1.56,0,
+EV000361,SA02036,Bang Khen,A006,Energy efficiency advisory,Efficiency Program,2025-05-01,3.2,1.48,0,4
+EV000362,SA02036,Bang Khen,A002,Schedule preventive inspection,Asset Maintenance,2025-03-11,3.2,1.48,0,4
+EV000363,SA02036,Bang Khen,A001,Send peak alert,Demand Response,2025-04-21,3.2,1.48,0,
+EV000364,SA02036,Bang Khen,A001,Send peak alert,Demand Response,2025-01-13,3.2,1.48,1,
+EV000365,SA02036,Bang Khen,A006,Energy efficiency advisory,Efficiency Program,2025-02-24,3.2,1.48,0,
+EV000366,SA02037,Bang Khen,A003,Offer smart meter education,Customer Service,2025-05-16,2.4,1.77,0,
+EV000367,SA02037,Bang Khen,A006,Energy efficiency advisory,Efficiency Program,2025-04-02,2.4,1.77,1,
+EV000368,SA02037,Bang Khen,A002,Schedule preventive inspection,Asset Maintenance,2025-06-09,2.4,1.77,1,
+EV000369,SA02037,Bang Khen,A005,Billing explanation callback,Billing Service,2025-01-31,2.4,1.77,0,
+EV000370,SA02037,Bang Khen,A004,Dispatch voltage quality check,Power Quality,2025-02-15,2.4,1.77,0,
+EV000371,SA02037,Bang Khen,A005,Billing explanation callback,Billing Service,2025-01-08,2.4,1.77,0,
+EV000372,SA02038,Bang Khen,A005,Billing explanation callback,Billing Service,2025-01-13,1.9,1.41,0,
+EV000373,SA02038,Bang Khen,A003,Offer smart meter education,Customer Service,2025-05-31,1.9,1.41,0,
+EV000374,SA02038,Bang Khen,A001,Send peak alert,Demand Response,2025-02-03,1.9,1.41,0,
+EV000375,SA02038,Bang Khen,A005,Billing explanation callback,Billing Service,2025-02-23,1.9,1.41,0,4
+EV000376,SA02039,Bang Khen,A002,Schedule preventive inspection,Asset Maintenance,2025-05-13,3.7,1.66,0,
+EV000377,SA02039,Bang Khen,A005,Billing explanation callback,Billing Service,2025-04-20,3.7,1.66,0,
+EV000378,SA02039,Bang Khen,A003,Offer smart meter education,Customer Service,2025-02-16,3.7,1.66,0,
+EV000379,SA02040,Bang Khen,A002,Schedule preventive inspection,Asset Maintenance,2025-01-16,2.3,1.44,1,
+EV000380,SA02040,Bang Khen,A005,Billing explanation callback,Billing Service,2025-01-14,2.3,1.44,0,4
+EV000381,SA02040,Bang Khen,A004,Dispatch voltage quality check,Power Quality,2025-04-29,2.3,1.44,0,
+EV000382,SA02040,Bang Khen,A004,Dispatch voltage quality check,Power Quality,2025-03-11,2.3,1.44,1,4
+EV000383,SA02041,Bang Khen,A002,Schedule preventive inspection,Asset Maintenance,2025-01-02,1.8,1.38,1,
+EV000384,SA02041,Bang Khen,A006,Energy efficiency advisory,Efficiency Program,2025-04-11,1.8,1.38,0,
+EV000385,SA02041,Bang Khen,A002,Schedule preventive inspection,Asset Maintenance,2025-05-01,1.8,1.38,0,
+EV000386,SA02041,Bang Khen,A004,Dispatch voltage quality check,Power Quality,2025-04-25,1.8,1.38,1,
+EV000387,SA02041,Bang Khen,A001,Send peak alert,Demand Response,2025-01-07,1.8,1.38,0,
+EV000388,SA02041,Bang Khen,A002,Schedule preventive inspection,Asset Maintenance,2025-01-10,1.8,1.38,0,
+EV000389,SA02041,Bang Khen,A004,Dispatch voltage quality check,Power Quality,2025-01-07,1.8,1.38,0,4
+EV000390,SA02042,Bang Khen,A005,Billing explanation callback,Billing Service,2025-05-04,4.9,1.44,0,
+EV000391,SA02042,Bang Khen,A006,Energy efficiency advisory,Efficiency Program,2025-05-23,4.9,1.44,1,4
+EV000392,SA02043,Bang Khen,A001,Send peak alert,Demand Response,2025-02-04,1.2,1.5,0,
+EV000393,SA02044,Bang Khen,A003,Offer smart meter education,Customer Service,2025-04-15,0.8,1.44,0,
+EV000394,SA02044,Bang Khen,A004,Dispatch voltage quality check,Power Quality,2025-04-23,0.8,1.44,0,
+EV000395,SA02045,Bang Khen,A003,Offer smart meter education,Customer Service,2025-04-18,0.8,1.05,0,4
+EV000396,SA02045,Bang Khen,A002,Schedule preventive inspection,Asset Maintenance,2025-05-12,0.8,1.05,0,
+EV000397,SA02046,Bang Khen,A001,Send peak alert,Demand Response,2025-01-16,2.7,2.06,0,
+EV000398,SA02046,Bang Khen,A004,Dispatch voltage quality check,Power Quality,2025-06-01,2.7,2.06,0,
+EV000399,SA02046,Bang Khen,A005,Billing explanation callback,Billing Service,2025-05-16,2.7,2.06,0,
+EV000400,SA02047,Bang Khen,A004,Dispatch voltage quality check,Power Quality,2025-03-24,3,1.46,1,
+EV000401,SA02047,Bang Khen,A004,Dispatch voltage quality check,Power Quality,2025-04-04,3,1.46,0,4
+EV000402,SA02047,Bang Khen,A006,Energy efficiency advisory,Efficiency Program,2025-01-13,3,1.46,1,
+EV000403,SA02048,Bang Khen,A005,Billing explanation callback,Billing Service,2025-01-24,0.2,1.32,0,
+EV000404,SA02048,Bang Khen,A001,Send peak alert,Demand Response,2025-03-28,0.2,1.32,1,
+EV000405,SA02048,Bang Khen,A005,Billing explanation callback,Billing Service,2025-02-28,0.2,1.32,0,
+EV000406,SA02048,Bang Khen,A001,Send peak alert,Demand Response,2025-03-16,0.2,1.32,0,
+EV000407,SA02049,Bang Khen,A005,Billing explanation callback,Billing Service,2025-06-07,3.9,1.43,0,
+EV000408,SA02049,Bang Khen,A001,Send peak alert,Demand Response,2025-03-17,3.9,1.43,1,
+EV000409,SA02050,Bang Khen,A003,Offer smart meter education,Customer Service,2025-05-13,3.6,1.79,0,
+EV000410,SA02051,Bang Khen,A006,Energy efficiency advisory,Efficiency Program,2025-01-19,4.7,1.26,0,
+EV000411,SA02051,Bang Khen,A003,Offer smart meter education,Customer Service,2025-05-29,4.7,1.26,0,
+EV000412,SA02051,Bang Khen,A004,Dispatch voltage quality check,Power Quality,2025-03-10,4.7,1.26,0,
+EV000413,SA02051,Bang Khen,A002,Schedule preventive inspection,Asset Maintenance,2025-03-21,4.7,1.26,0,
+EV000414,SA02051,Bang Khen,A003,Offer smart meter education,Customer Service,2025-03-19,4.7,1.26,0,
+EV000415,SA02051,Bang Khen,A005,Billing explanation callback,Billing Service,2025-02-10,4.7,1.26,0,5
+EV000416,SA02051,Bang Khen,A005,Billing explanation callback,Billing Service,2025-06-01,4.7,1.26,1,5
+EV000417,SA02052,Bang Khen,A004,Dispatch voltage quality check,Power Quality,2025-06-06,4.4,1.8,0,3
+EV000418,SA02052,Bang Khen,A005,Billing explanation callback,Billing Service,2025-01-12,4.4,1.8,0,5
+EV000419,SA02052,Bang Khen,A002,Schedule preventive inspection,Asset Maintenance,2025-01-09,4.4,1.8,0,4
+EV000420,SA02052,Bang Khen,A003,Offer smart meter education,Customer Service,2025-04-06,4.4,1.8,0,
+EV000421,SA02053,Bang Khen,A005,Billing explanation callback,Billing Service,2025-04-12,3.4,1.85,0,
+EV000422,SA02054,Bang Khen,A005,Billing explanation callback,Billing Service,2025-01-16,3.2,1.71,0,
+EV000423,SA02054,Bang Khen,A004,Dispatch voltage quality check,Power Quality,2025-02-02,3.2,1.71,0,4
+EV000424,SA02054,Bang Khen,A003,Offer smart meter education,Customer Service,2025-01-03,3.2,1.71,1,
+EV000425,SA02054,Bang Khen,A006,Energy efficiency advisory,Efficiency Program,2025-05-20,3.2,1.71,0,
+EV000426,SA02055,Bang Khen,A001,Send peak alert,Demand Response,2025-06-06,3.9,1.54,0,
+EV000427,SA02055,Bang Khen,A001,Send peak alert,Demand Response,2025-01-10,3.9,1.54,1,
+EV000428,SA02055,Bang Khen,A006,Energy efficiency advisory,Efficiency Program,2025-01-22,3.9,1.54,0,
+EV000429,SA02055,Bang Khen,A001,Send peak alert,Demand Response,2025-01-04,3.9,1.54,0,4
+EV000430,SA02056,Bang Khen,A002,Schedule preventive inspection,Asset Maintenance,2025-01-02,3.4,1.98,1,4
+EV000431,SA02057,Bang Khen,A002,Schedule preventive inspection,Asset Maintenance,2025-03-20,0.2,1.3,0,4
+EV000432,SA02057,Bang Khen,A001,Send peak alert,Demand Response,2025-03-14,0.2,1.3,0,
+EV000433,SA02057,Bang Khen,A003,Offer smart meter education,Customer Service,2025-05-14,0.2,1.3,0,
+EV000434,SA02057,Bang Khen,A002,Schedule preventive inspection,Asset Maintenance,2025-03-04,0.2,1.3,1,
+EV000435,SA02057,Bang Khen,A005,Billing explanation callback,Billing Service,2025-02-01,0.2,1.3,0,
+EV000436,SA02057,Bang Khen,A004,Dispatch voltage quality check,Power Quality,2025-02-22,0.2,1.3,1,
+EV000437,SA02057,Bang Khen,A002,Schedule preventive inspection,Asset Maintenance,2025-05-09,0.2,1.3,0,
+EV000438,SA02058,Bang Khen,A006,Energy efficiency advisory,Efficiency Program,2025-04-20,2.2,1.37,0,
+EV000439,SA02058,Bang Khen,A006,Energy efficiency advisory,Efficiency Program,2025-04-24,2.2,1.37,0,
+EV000440,SA02058,Bang Khen,A005,Billing explanation callback,Billing Service,2025-02-05,2.2,1.37,0,4
+EV000441,SA02059,Bang Khen,A003,Offer smart meter education,Customer Service,2025-05-20,2.9,1.51,0,
+EV000442,SA02059,Bang Khen,A001,Send peak alert,Demand Response,2025-05-07,2.9,1.51,0,
+EV000443,SA02059,Bang Khen,A006,Energy efficiency advisory,Efficiency Program,2025-04-05,2.9,1.51,0,4
+EV000444,SA02060,Bang Khen,A006,Energy efficiency advisory,Efficiency Program,2025-01-27,1.3,1.93,0,4
+EV000445,SA02060,Bang Khen,A004,Dispatch voltage quality check,Power Quality,2025-06-08,1.3,1.93,0,
+EV000446,SA02061,Bang Khen,A004,Dispatch voltage quality check,Power Quality,2025-01-23,3.9,1.44,0,
+EV000447,SA02061,Bang Khen,A003,Offer smart meter education,Customer Service,2025-02-13,3.9,1.44,0,
+EV000448,SA02061,Bang Khen,A003,Offer smart meter education,Customer Service,2025-01-07,3.9,1.44,0,
+EV000449,SA02062,Bang Khen,A001,Send peak alert,Demand Response,2025-02-02,0.2,1.5,1,
+EV000450,SA02062,Bang Khen,A003,Offer smart meter education,Customer Service,2025-03-19,0.2,1.5,0,5
+EV000451,SA02062,Bang Khen,A005,Billing explanation callback,Billing Service,2025-01-09,0.2,1.5,0,
+EV000452,SA02063,Bang Khen,A005,Billing explanation callback,Billing Service,2025-03-19,2.5,1.62,0,
+EV000453,SA02064,Bang Khen,A001,Send peak alert,Demand Response,2025-02-03,3.5,1.33,0,
+EV000454,SA02064,Bang Khen,A006,Energy efficiency advisory,Efficiency Program,2025-05-08,3.5,1.33,0,
+EV000455,SA02064,Bang Khen,A006,Energy efficiency advisory,Efficiency Program,2025-03-20,3.5,1.33,0,
+EV000456,SA02064,Bang Khen,A005,Billing explanation callback,Billing Service,2025-02-01,3.5,1.33,0,
+EV000457,SA02064,Bang Khen,A006,Energy efficiency advisory,Efficiency Program,2025-04-16,3.5,1.33,0,
+EV000458,SA02064,Bang Khen,A004,Dispatch voltage quality check,Power Quality,2025-03-07,3.5,1.33,0,4
+EV000459,SA02065,Bang Khen,A003,Offer smart meter education,Customer Service,2025-04-14,5.4,1.64,1,
+EV000460,SA02065,Bang Khen,A003,Offer smart meter education,Customer Service,2025-02-12,5.4,1.64,0,
+EV000461,SA02065,Bang Khen,A001,Send peak alert,Demand Response,2025-05-29,5.4,1.64,0,
+EV000462,SA02065,Bang Khen,A004,Dispatch voltage quality check,Power Quality,2025-03-14,5.4,1.64,1,
+EV000463,SA02065,Bang Khen,A006,Energy efficiency advisory,Efficiency Program,2025-01-02,5.4,1.64,1,4
+EV000464,SA02065,Bang Khen,A002,Schedule preventive inspection,Asset Maintenance,2025-03-26,5.4,1.64,0,
+EV000465,SA02066,Bang Khen,A004,Dispatch voltage quality check,Power Quality,2025-03-19,2.7,1.46,0,
+EV000466,SA02066,Bang Khen,A005,Billing explanation callback,Billing Service,2025-04-24,2.7,1.46,0,
+EV000467,SA02066,Bang Khen,A005,Billing explanation callback,Billing Service,2025-01-30,2.7,1.46,0,
+EV000468,SA02067,Bang Khen,A006,Energy efficiency advisory,Efficiency Program,2025-01-19,2.1,1.64,0,
+EV000469,SA02067,Bang Khen,A003,Offer smart meter education,Customer Service,2025-01-12,2.1,1.64,0,4
+EV000470,SA02067,Bang Khen,A004,Dispatch voltage quality check,Power Quality,2025-04-18,2.1,1.64,0,
+EV000471,SA02068,Bang Khen,A002,Schedule preventive inspection,Asset Maintenance,2025-01-18,1.7,1.26,0,
+EV000472,SA02068,Bang Khen,A002,Schedule preventive inspection,Asset Maintenance,2025-03-12,1.7,1.26,0,
+EV000473,SA02069,Bang Khen,A002,Schedule preventive inspection,Asset Maintenance,2025-05-12,4.4,1.56,0,
+EV000474,SA02069,Bang Khen,A002,Schedule preventive inspection,Asset Maintenance,2025-05-04,4.4,1.56,0,
+EV000475,SA02069,Bang Khen,A001,Send peak alert,Demand Response,2025-05-06,4.4,1.56,0,
+EV000476,SA02069,Bang Khen,A004,Dispatch voltage quality check,Power Quality,2025-05-02,4.4,1.56,0,
+EV000477,SA02069,Bang Khen,A003,Offer smart meter education,Customer Service,2025-02-23,4.4,1.56,0,4
+EV000478,SA02070,Bang Khen,A001,Send peak alert,Demand Response,2025-04-01,3.2,1.46,0,
+EV000479,SA02070,Bang Khen,A004,Dispatch voltage quality check,Power Quality,2025-05-08,3.2,1.46,0,
+EV000480,SA02070,Bang Khen,A006,Energy efficiency advisory,Efficiency Program,2025-01-31,3.2,1.46,1,
+EV000481,SA02070,Bang Khen,A006,Energy efficiency advisory,Efficiency Program,2025-01-28,3.2,1.46,0,
+EV000482,SA03001,Bang Kho Laem,A004,Dispatch voltage quality check,Power Quality,2025-04-26,4.4,1.3,1,
+EV000483,SA03001,Bang Kho Laem,A003,Offer smart meter education,Customer Service,2025-01-23,4.4,1.3,1,2
+EV000484,SA03001,Bang Kho Laem,A004,Dispatch voltage quality check,Power Quality,2025-04-27,4.4,1.3,1,
+EV000485,SA03001,Bang Kho Laem,A001,Send peak alert,Demand Response,2025-05-08,4.4,1.3,0,4
+EV000486,SA03002,Bang Kho Laem,A003,Offer smart meter education,Customer Service,2025-03-14,0.6,1.33,0,
+EV000487,SA03002,Bang Kho Laem,A002,Schedule preventive inspection,Asset Maintenance,2025-02-26,0.6,1.33,1,5
+EV000488,SA03003,Bang Kho Laem,A001,Send peak alert,Demand Response,2025-02-06,1.7,1.3,0,
+EV000489,SA03003,Bang Kho Laem,A005,Billing explanation callback,Billing Service,2025-01-24,1.7,1.3,0,
+EV000490,SA03003,Bang Kho Laem,A002,Schedule preventive inspection,Asset Maintenance,2025-03-21,1.7,1.3,0,
+EV000491,SA03003,Bang Kho Laem,A005,Billing explanation callback,Billing Service,2025-04-22,1.7,1.3,0,
+EV000492,SA03003,Bang Kho Laem,A005,Billing explanation callback,Billing Service,2025-02-25,1.7,1.3,0,
+EV000493,SA03004,Bang Kho Laem,A004,Dispatch voltage quality check,Power Quality,2025-06-05,1.5,1.81,0,3
+EV000494,SA03004,Bang Kho Laem,A004,Dispatch voltage quality check,Power Quality,2025-04-18,1.5,1.81,1,3
+EV000495,SA03004,Bang Kho Laem,A006,Energy efficiency advisory,Efficiency Program,2025-05-15,1.5,1.81,0,
+EV000496,SA03004,Bang Kho Laem,A005,Billing explanation callback,Billing Service,2025-05-27,1.5,1.81,0,
+EV000497,SA03004,Bang Kho Laem,A002,Schedule preventive inspection,Asset Maintenance,2025-03-31,1.5,1.81,0,
+EV000498,SA03005,Bang Kho Laem,A002,Schedule preventive inspection,Asset Maintenance,2025-04-02,0.4,1.63,0,5
+EV000499,SA03005,Bang Kho Laem,A005,Billing explanation callback,Billing Service,2025-01-15,0.4,1.63,1,
+EV000500,SA03005,Bang Kho Laem,A001,Send peak alert,Demand Response,2025-01-27,0.4,1.63,0,
+EV000501,SA03005,Bang Kho Laem,A001,Send peak alert,Demand Response,2025-05-04,0.4,1.63,0,
+EV000502,SA03005,Bang Kho Laem,A005,Billing explanation callback,Billing Service,2025-06-09,0.4,1.63,0,4
+EV000503,SA03006,Bang Kho Laem,A006,Energy efficiency advisory,Efficiency Program,2025-03-12,0.2,1.55,0,
+EV000504,SA03006,Bang Kho Laem,A003,Offer smart meter education,Customer Service,2025-05-22,0.2,1.55,0,
+EV000505,SA03006,Bang Kho Laem,A004,Dispatch voltage quality check,Power Quality,2025-03-27,0.2,1.55,1,5
+EV000506,SA03007,Bang Kho Laem,A002,Schedule preventive inspection,Asset Maintenance,2025-02-22,1.8,1.47,0,
+EV000507,SA03007,Bang Kho Laem,A004,Dispatch voltage quality check,Power Quality,2025-02-21,1.8,1.47,0,
+EV000508,SA03007,Bang Kho Laem,A006,Energy efficiency advisory,Efficiency Program,2025-05-05,1.8,1.47,0,
+EV000509,SA03008,Bang Kho Laem,A005,Billing explanation callback,Billing Service,2025-01-06,0.2,1.73,0,
+EV000510,SA03008,Bang Kho Laem,A005,Billing explanation callback,Billing Service,2025-04-25,0.2,1.73,1,
+EV000511,SA03008,Bang Kho Laem,A003,Offer smart meter education,Customer Service,2025-03-30,0.2,1.73,0,
+EV000512,SA03009,Bang Kho Laem,A001,Send peak alert,Demand Response,2025-02-26,0.6,1.6,0,3
+EV000513,SA03009,Bang Kho Laem,A003,Offer smart meter education,Customer Service,2025-03-11,0.6,1.6,1,
+EV000514,SA03009,Bang Kho Laem,A004,Dispatch voltage quality check,Power Quality,2025-05-17,0.6,1.6,0,
+EV000515,SA03010,Bang Kho Laem,A003,Offer smart meter education,Customer Service,2025-01-15,2.4,1.49,0,
+EV000516,SA03010,Bang Kho Laem,A006,Energy efficiency advisory,Efficiency Program,2025-03-19,2.4,1.49,0,
+EV000517,SA03010,Bang Kho Laem,A001,Send peak alert,Demand Response,2025-05-19,2.4,1.49,0,
+EV000518,SA03010,Bang Kho Laem,A002,Schedule preventive inspection,Asset Maintenance,2025-06-01,2.4,1.49,0,4
+EV000519,SA03010,Bang Kho Laem,A004,Dispatch voltage quality check,Power Quality,2025-03-02,2.4,1.49,1,
+EV000520,SA03011,Bang Kho Laem,A004,Dispatch voltage quality check,Power Quality,2025-04-03,2.2,1.64,1,
+EV000521,SA03011,Bang Kho Laem,A006,Energy efficiency advisory,Efficiency Program,2025-04-10,2.2,1.64,0,
+EV000522,SA03011,Bang Kho Laem,A004,Dispatch voltage quality check,Power Quality,2025-03-02,2.2,1.64,0,
+EV000523,SA03011,Bang Kho Laem,A002,Schedule preventive inspection,Asset Maintenance,2025-06-05,2.2,1.64,0,
+EV000524,SA03011,Bang Kho Laem,A002,Schedule preventive inspection,Asset Maintenance,2025-03-26,2.2,1.64,1,
+EV000525,SA03012,Bang Kho Laem,A001,Send peak alert,Demand Response,2025-05-11,1.7,2.01,0,5
+EV000526,SA03012,Bang Kho Laem,A003,Offer smart meter education,Customer Service,2025-01-29,1.7,2.01,0,
+EV000527,SA03012,Bang Kho Laem,A005,Billing explanation callback,Billing Service,2025-04-18,1.7,2.01,0,
+EV000528,SA03012,Bang Kho Laem,A002,Schedule preventive inspection,Asset Maintenance,2025-04-16,1.7,2.01,0,4
+EV000529,SA03012,Bang Kho Laem,A003,Offer smart meter education,Customer Service,2025-01-17,1.7,2.01,0,
+EV000530,SA03012,Bang Kho Laem,A003,Offer smart meter education,Customer Service,2025-05-04,1.7,2.01,1,5
+EV000531,SA03012,Bang Kho Laem,A001,Send peak alert,Demand Response,2025-05-31,1.7,2.01,0,
+EV000532,SA03013,Bang Kho Laem,A005,Billing explanation callback,Billing Service,2025-05-03,0.2,1.52,1,
+EV000533,SA03013,Bang Kho Laem,A003,Offer smart meter education,Customer Service,2025-02-07,0.2,1.52,0,
+EV000534,SA03013,Bang Kho Laem,A001,Send peak alert,Demand Response,2025-02-08,0.2,1.52,0,
+EV000535,SA03014,Bang Kho Laem,A003,Offer smart meter education,Customer Service,2025-03-01,6,1.12,0,4
+EV000536,SA03014,Bang Kho Laem,A003,Offer smart meter education,Customer Service,2025-01-19,6,1.12,0,4
+EV000537,SA03014,Bang Kho Laem,A003,Offer smart meter education,Customer Service,2025-04-28,6,1.12,0,4
+EV000538,SA03014,Bang Kho Laem,A003,Offer smart meter education,Customer Service,2025-04-14,6,1.12,1,
+EV000539,SA03014,Bang Kho Laem,A003,Offer smart meter education,Customer Service,2025-02-13,6,1.12,0,
+EV000540,SA03014,Bang Kho Laem,A003,Offer smart meter education,Customer Service,2025-03-14,6,1.12,0,
+EV000541,SA03014,Bang Kho Laem,A002,Schedule preventive inspection,Asset Maintenance,2025-06-08,6,1.12,1,
+EV000542,SA03014,Bang Kho Laem,A006,Energy efficiency advisory,Efficiency Program,2025-04-02,6,1.12,0,
+EV000543,SA03014,Bang Kho Laem,A006,Energy efficiency advisory,Efficiency Program,2025-05-01,6,1.12,1,
+EV000544,SA03015,Bang Kho Laem,A005,Billing explanation callback,Billing Service,2025-04-08,5.5,1.26,1,5
+EV000545,SA03016,Bang Kho Laem,A004,Dispatch voltage quality check,Power Quality,2025-02-19,5.5,1.48,1,
+EV000546,SA03016,Bang Kho Laem,A002,Schedule preventive inspection,Asset Maintenance,2025-04-19,5.5,1.48,0,
+EV000547,SA03016,Bang Kho Laem,A001,Send peak alert,Demand Response,2025-06-04,5.5,1.48,0,4
+EV000548,SA03016,Bang Kho Laem,A002,Schedule preventive inspection,Asset Maintenance,2025-02-08,5.5,1.48,0,
+EV000549,SA03016,Bang Kho Laem,A001,Send peak alert,Demand Response,2025-03-24,5.5,1.48,1,
+EV000550,SA03017,Bang Kho Laem,A001,Send peak alert,Demand Response,2025-03-01,0.6,1.35,0,
+EV000551,SA03017,Bang Kho Laem,A002,Schedule preventive inspection,Asset Maintenance,2025-04-13,0.6,1.35,0,
+EV000552,SA03017,Bang Kho Laem,A004,Dispatch voltage quality check,Power Quality,2025-03-04,0.6,1.35,0,4
+EV000553,SA03017,Bang Kho Laem,A001,Send peak alert,Demand Response,2025-02-22,0.6,1.35,0,5
+EV000554,SA03017,Bang Kho Laem,A001,Send peak alert,Demand Response,2025-03-08,0.6,1.35,0,
+EV000555,SA03018,Bang Kho Laem,A004,Dispatch voltage quality check,Power Quality,2025-05-20,5.1,1.26,0,
+EV000556,SA03018,Bang Kho Laem,A003,Offer smart meter education,Customer Service,2025-04-21,5.1,1.26,0,5
+EV000557,SA03018,Bang Kho Laem,A003,Offer smart meter education,Customer Service,2025-05-31,5.1,1.26,0,
+EV000558,SA03018,Bang Kho Laem,A002,Schedule preventive inspection,Asset Maintenance,2025-04-16,5.1,1.26,1,
+EV000559,SA03018,Bang Kho Laem,A004,Dispatch voltage quality check,Power Quality,2025-02-22,5.1,1.26,1,
+EV000560,SA03018,Bang Kho Laem,A005,Billing explanation callback,Billing Service,2025-01-11,5.1,1.26,0,
+EV000561,SA03019,Bang Kho Laem,A003,Offer smart meter education,Customer Service,2025-05-26,4.1,1.34,0,
+EV000562,SA03019,Bang Kho Laem,A006,Energy efficiency advisory,Efficiency Program,2025-06-01,4.1,1.34,0,
+EV000563,SA03019,Bang Kho Laem,A001,Send peak alert,Demand Response,2025-04-21,4.1,1.34,0,
+EV000564,SA03019,Bang Kho Laem,A001,Send peak alert,Demand Response,2025-05-03,4.1,1.34,0,
+EV000565,SA03019,Bang Kho Laem,A005,Billing explanation callback,Billing Service,2025-01-25,4.1,1.34,0,
+EV000566,SA03019,Bang Kho Laem,A001,Send peak alert,Demand Response,2025-05-30,4.1,1.34,1,
+EV000567,SA03020,Bang Kho Laem,A002,Schedule preventive inspection,Asset Maintenance,2025-01-26,2.9,1.75,0,
+EV000568,SA03021,Bang Kho Laem,A003,Offer smart meter education,Customer Service,2025-04-13,5.6,1.38,0,
+EV000569,SA03021,Bang Kho Laem,A001,Send peak alert,Demand Response,2025-03-20,5.6,1.38,1,
+EV000570,SA03021,Bang Kho Laem,A005,Billing explanation callback,Billing Service,2025-02-21,5.6,1.38,0,
+EV000571,SA03021,Bang Kho Laem,A003,Offer smart meter education,Customer Service,2025-02-20,5.6,1.38,0,
+EV000572,SA03022,Bang Kho Laem,A006,Energy efficiency advisory,Efficiency Program,2025-05-23,3.6,1.05,0,3
+EV000573,SA03023,Bang Kho Laem,A001,Send peak alert,Demand Response,2025-02-10,3.8,1.4,0,
+EV000574,SA03023,Bang Kho Laem,A005,Billing explanation callback,Billing Service,2025-05-24,3.8,1.4,0,4
+EV000575,SA03023,Bang Kho Laem,A006,Energy efficiency advisory,Efficiency Program,2025-05-26,3.8,1.4,1,
+EV000576,SA03023,Bang Kho Laem,A003,Offer smart meter education,Customer Service,2025-04-23,3.8,1.4,0,
+EV000577,SA03023,Bang Kho Laem,A005,Billing explanation callback,Billing Service,2025-04-12,3.8,1.4,1,
+EV000578,SA03024,Bang Kho Laem,A005,Billing explanation callback,Billing Service,2025-06-01,2.7,1.35,0,
+EV000579,SA03024,Bang Kho Laem,A006,Energy efficiency advisory,Efficiency Program,2025-06-08,2.7,1.35,0,4
+EV000580,SA03024,Bang Kho Laem,A003,Offer smart meter education,Customer Service,2025-02-24,2.7,1.35,0,4
+EV000581,SA03024,Bang Kho Laem,A001,Send peak alert,Demand Response,2025-03-10,2.7,1.35,1,
+EV000582,SA03024,Bang Kho Laem,A001,Send peak alert,Demand Response,2025-04-21,2.7,1.35,0,
+EV000583,SA03024,Bang Kho Laem,A006,Energy efficiency advisory,Efficiency Program,2025-04-05,2.7,1.35,0,
+EV000584,SA03025,Bang Kho Laem,A004,Dispatch voltage quality check,Power Quality,2025-04-06,4.8,1.31,0,
+EV000585,SA03025,Bang Kho Laem,A006,Energy efficiency advisory,Efficiency Program,2025-04-06,4.8,1.31,0,
+EV000586,SA03025,Bang Kho Laem,A002,Schedule preventive inspection,Asset Maintenance,2025-05-20,4.8,1.31,0,
+EV000587,SA03026,Bang Kho Laem,A006,Energy efficiency advisory,Efficiency Program,2025-04-12,0.2,1.89,1,4
+EV000588,SA03026,Bang Kho Laem,A005,Billing explanation callback,Billing Service,2025-01-24,0.2,1.89,0,4
+EV000589,SA03026,Bang Kho Laem,A005,Billing explanation callback,Billing Service,2025-03-02,0.2,1.89,0,
+EV000590,SA03027,Bang Kho Laem,A001,Send peak alert,Demand Response,2025-01-01,3.3,1.77,0,
+EV000591,SA03027,Bang Kho Laem,A002,Schedule preventive inspection,Asset Maintenance,2025-05-19,3.3,1.77,1,
+EV000592,SA03027,Bang Kho Laem,A001,Send peak alert,Demand Response,2025-05-17,3.3,1.77,1,
+EV000593,SA03027,Bang Kho Laem,A006,Energy efficiency advisory,Efficiency Program,2025-05-05,3.3,1.77,0,
+EV000594,SA03027,Bang Kho Laem,A005,Billing explanation callback,Billing Service,2025-03-20,3.3,1.77,1,5
+EV000595,SA03028,Bang Kho Laem,A005,Billing explanation callback,Billing Service,2025-05-25,1.5,1.65,0,3
+EV000596,SA03028,Bang Kho Laem,A006,Energy efficiency advisory,Efficiency Program,2025-04-24,1.5,1.65,0,
+EV000597,SA03029,Bang Kho Laem,A001,Send peak alert,Demand Response,2025-03-12,4,1.35,0,
+EV000598,SA03029,Bang Kho Laem,A001,Send peak alert,Demand Response,2025-03-24,4,1.35,0,
+EV000599,SA03029,Bang Kho Laem,A001,Send peak alert,Demand Response,2025-01-12,4,1.35,1,
+EV000600,SA03029,Bang Kho Laem,A005,Billing explanation callback,Billing Service,2025-02-27,4,1.35,0,
+EV000601,SA03030,Bang Kho Laem,A001,Send peak alert,Demand Response,2025-02-21,5.2,1.78,0,4
+EV000602,SA03030,Bang Kho Laem,A003,Offer smart meter education,Customer Service,2025-06-05,5.2,1.78,0,
+EV000603,SA03031,Bang Kho Laem,A001,Send peak alert,Demand Response,2025-06-04,7.2,1.37,0,
+EV000604,SA03031,Bang Kho Laem,A005,Billing explanation callback,Billing Service,2025-05-28,7.2,1.37,1,5
+EV000605,SA03031,Bang Kho Laem,A005,Billing explanation callback,Billing Service,2025-01-09,7.2,1.37,0,
+EV000606,SA03031,Bang Kho Laem,A001,Send peak alert,Demand Response,2025-01-21,7.2,1.37,0,
+EV000607,SA03031,Bang Kho Laem,A001,Send peak alert,Demand Response,2025-05-09,7.2,1.37,0,
+EV000608,SA03032,Bang Kho Laem,A002,Schedule preventive inspection,Asset Maintenance,2025-04-08,2.2,1.72,0,
+EV000609,SA03033,Bang Kho Laem,A005,Billing explanation callback,Billing Service,2025-01-06,1.9,1.99,1,
+EV000610,SA03033,Bang Kho Laem,A002,Schedule preventive inspection,Asset Maintenance,2025-02-13,1.9,1.99,0,
+EV000611,SA03033,Bang Kho Laem,A005,Billing explanation callback,Billing Service,2025-02-13,1.9,1.99,0,
+EV000612,SA03034,Bang Kho Laem,A001,Send peak alert,Demand Response,2025-06-01,4.5,1.97,0,
+EV000613,SA03034,Bang Kho Laem,A003,Offer smart meter education,Customer Service,2025-02-04,4.5,1.97,0,
+EV000614,SA03034,Bang Kho Laem,A002,Schedule preventive inspection,Asset Maintenance,2025-03-06,4.5,1.97,0,
+EV000615,SA03035,Bang Kho Laem,A005,Billing explanation callback,Billing Service,2025-02-08,3.5,1.64,0,
+EV000616,SA03035,Bang Kho Laem,A003,Offer smart meter education,Customer Service,2025-03-23,3.5,1.64,0,
+EV000617,SA03035,Bang Kho Laem,A004,Dispatch voltage quality check,Power Quality,2025-03-24,3.5,1.64,0,
+EV000618,SA03035,Bang Kho Laem,A003,Offer smart meter education,Customer Service,2025-05-08,3.5,1.64,0,
+EV000619,SA03036,Bang Kho Laem,A002,Schedule preventive inspection,Asset Maintenance,2025-03-31,0.6,1.64,0,
+EV000620,SA03036,Bang Kho Laem,A004,Dispatch voltage quality check,Power Quality,2025-04-30,0.6,1.64,0,4
+EV000621,SA03036,Bang Kho Laem,A006,Energy efficiency advisory,Efficiency Program,2025-03-05,0.6,1.64,0,
+EV000622,SA03036,Bang Kho Laem,A002,Schedule preventive inspection,Asset Maintenance,2025-01-24,0.6,1.64,0,
+EV000623,SA03037,Bang Kho Laem,A006,Energy efficiency advisory,Efficiency Program,2025-01-20,4.3,1.05,0,3
+EV000624,SA03037,Bang Kho Laem,A004,Dispatch voltage quality check,Power Quality,2025-05-15,4.3,1.05,1,4
+EV000625,SA03037,Bang Kho Laem,A002,Schedule preventive inspection,Asset Maintenance,2025-05-26,4.3,1.05,0,
+EV000626,SA03037,Bang Kho Laem,A004,Dispatch voltage quality check,Power Quality,2025-05-23,4.3,1.05,0,
+EV000627,SA03038,Bang Kho Laem,A006,Energy efficiency advisory,Efficiency Program,2025-05-29,2,2.05,1,
+EV000628,SA03038,Bang Kho Laem,A002,Schedule preventive inspection,Asset Maintenance,2025-05-17,2,2.05,1,
+EV000629,SA03038,Bang Kho Laem,A004,Dispatch voltage quality check,Power Quality,2025-05-23,2,2.05,0,
+EV000630,SA03038,Bang Kho Laem,A002,Schedule preventive inspection,Asset Maintenance,2025-05-25,2,2.05,0,
+EV000631,SA03039,Bang Kho Laem,A006,Energy efficiency advisory,Efficiency Program,2025-06-09,2.9,1.73,0,
+EV000632,SA03039,Bang Kho Laem,A004,Dispatch voltage quality check,Power Quality,2025-06-02,2.9,1.73,1,5
+EV000633,SA03040,Bang Kho Laem,A006,Energy efficiency advisory,Efficiency Program,2025-05-21,0.5,1.45,0,
+EV000634,SA03040,Bang Kho Laem,A003,Offer smart meter education,Customer Service,2025-02-12,0.5,1.45,0,
+EV000635,SA03041,Bang Kho Laem,A005,Billing explanation callback,Billing Service,2025-02-08,2,1.58,0,
+EV000636,SA03041,Bang Kho Laem,A005,Billing explanation callback,Billing Service,2025-05-21,2,1.58,0,
+EV000637,SA03041,Bang Kho Laem,A005,Billing explanation callback,Billing Service,2025-01-27,2,1.58,0,
+EV000638,SA03041,Bang Kho Laem,A002,Schedule preventive inspection,Asset Maintenance,2025-04-03,2,1.58,0,
+EV000639,SA03041,Bang Kho Laem,A004,Dispatch voltage quality check,Power Quality,2025-01-27,2,1.58,0,
+EV000640,SA03041,Bang Kho Laem,A005,Billing explanation callback,Billing Service,2025-03-12,2,1.58,1,4
+EV000641,SA03041,Bang Kho Laem,A006,Energy efficiency advisory,Efficiency Program,2025-03-09,2,1.58,1,
+EV000642,SA03041,Bang Kho Laem,A005,Billing explanation callback,Billing Service,2025-05-22,2,1.58,0,
+EV000643,SA03042,Bang Kho Laem,A004,Dispatch voltage quality check,Power Quality,2025-02-21,2,1.31,1,5
+EV000644,SA03042,Bang Kho Laem,A004,Dispatch voltage quality check,Power Quality,2025-05-28,2,1.31,0,4
+EV000645,SA03042,Bang Kho Laem,A002,Schedule preventive inspection,Asset Maintenance,2025-05-14,2,1.31,0,
+EV000646,SA03042,Bang Kho Laem,A006,Energy efficiency advisory,Efficiency Program,2025-05-22,2,1.31,1,
+EV000647,SA03042,Bang Kho Laem,A003,Offer smart meter education,Customer Service,2025-05-20,2,1.31,0,
+EV000648,SA03043,Bang Kho Laem,A005,Billing explanation callback,Billing Service,2025-03-05,1.3,1.21,0,
+EV000649,SA03043,Bang Kho Laem,A005,Billing explanation callback,Billing Service,2025-01-07,1.3,1.21,0,
+EV000650,SA03043,Bang Kho Laem,A003,Offer smart meter education,Customer Service,2025-04-21,1.3,1.21,0,
+EV000651,SA03044,Bang Kho Laem,A006,Energy efficiency advisory,Efficiency Program,2025-04-22,3.7,1.76,0,
+EV000652,SA03044,Bang Kho Laem,A001,Send peak alert,Demand Response,2025-02-03,3.7,1.76,1,
+EV000653,SA03044,Bang Kho Laem,A004,Dispatch voltage quality check,Power Quality,2025-05-31,3.7,1.76,1,4
+EV000654,SA03045,Bang Kho Laem,A005,Billing explanation callback,Billing Service,2025-03-17,1.3,2.04,0,
+EV000655,SA03045,Bang Kho Laem,A001,Send peak alert,Demand Response,2025-05-17,1.3,2.04,1,
+EV000656,SA03045,Bang Kho Laem,A003,Offer smart meter education,Customer Service,2025-02-23,1.3,2.04,1,
+EV000657,SA03045,Bang Kho Laem,A001,Send peak alert,Demand Response,2025-01-04,1.3,2.04,0,
+EV000658,SA03046,Bang Kho Laem,A005,Billing explanation callback,Billing Service,2025-05-25,2.7,1.1,0,
+EV000659,SA03046,Bang Kho Laem,A005,Billing explanation callback,Billing Service,2025-04-25,2.7,1.1,0,
+EV000660,SA03046,Bang Kho Laem,A006,Energy efficiency advisory,Efficiency Program,2025-04-29,2.7,1.1,1,
+EV000661,SA03046,Bang Kho Laem,A002,Schedule preventive inspection,Asset Maintenance,2025-03-11,2.7,1.1,0,
+EV000662,SA03046,Bang Kho Laem,A001,Send peak alert,Demand Response,2025-03-01,2.7,1.1,0,
+EV000663,SA03047,Bang Kho Laem,A002,Schedule preventive inspection,Asset Maintenance,2025-05-17,1.6,1.96,1,
+EV000664,SA03047,Bang Kho Laem,A006,Energy efficiency advisory,Efficiency Program,2025-01-20,1.6,1.96,0,
+EV000665,SA03047,Bang Kho Laem,A004,Dispatch voltage quality check,Power Quality,2025-01-04,1.6,1.96,1,
+EV000666,SA03048,Bang Kho Laem,A002,Schedule preventive inspection,Asset Maintenance,2025-02-18,2.7,1.22,0,
+EV000667,SA03048,Bang Kho Laem,A001,Send peak alert,Demand Response,2025-01-04,2.7,1.22,0,
+EV000668,SA03049,Bang Kho Laem,A002,Schedule preventive inspection,Asset Maintenance,2025-02-14,4.1,1.36,0,
+EV000669,SA03049,Bang Kho Laem,A004,Dispatch voltage quality check,Power Quality,2025-05-04,4.1,1.36,0,
+EV000670,SA03049,Bang Kho Laem,A003,Offer smart meter education,Customer Service,2025-04-29,4.1,1.36,0,
+EV000671,SA03049,Bang Kho Laem,A002,Schedule preventive inspection,Asset Maintenance,2025-01-03,4.1,1.36,0,3
+EV000672,SA03050,Bang Kho Laem,A005,Billing explanation callback,Billing Service,2025-06-03,4.5,1.36,0,
+EV000673,SA03050,Bang Kho Laem,A001,Send peak alert,Demand Response,2025-02-06,4.5,1.36,0,4
+EV000674,SA03051,Bang Kho Laem,A004,Dispatch voltage quality check,Power Quality,2025-02-08,4.3,1.38,0,4
+EV000675,SA03051,Bang Kho Laem,A001,Send peak alert,Demand Response,2025-04-18,4.3,1.38,1,
+EV000676,SA03051,Bang Kho Laem,A005,Billing explanation callback,Billing Service,2025-05-23,4.3,1.38,0,
+EV000677,SA03051,Bang Kho Laem,A001,Send peak alert,Demand Response,2025-03-27,4.3,1.38,0,
+EV000678,SA03051,Bang Kho Laem,A003,Offer smart meter education,Customer Service,2025-03-19,4.3,1.38,0,
+EV000679,SA03051,Bang Kho Laem,A004,Dispatch voltage quality check,Power Quality,2025-01-14,4.3,1.38,1,
+EV000680,SA03051,Bang Kho Laem,A006,Energy efficiency advisory,Efficiency Program,2025-01-16,4.3,1.38,0,
+EV000681,SA03051,Bang Kho Laem,A001,Send peak alert,Demand Response,2025-01-15,4.3,1.38,0,4
+EV000682,SA03052,Bang Kho Laem,A006,Energy efficiency advisory,Efficiency Program,2025-02-01,0.7,1.25,0,
+EV000683,SA03052,Bang Kho Laem,A002,Schedule preventive inspection,Asset Maintenance,2025-05-26,0.7,1.25,0,
+EV000684,SA03052,Bang Kho Laem,A004,Dispatch voltage quality check,Power Quality,2025-03-26,0.7,1.25,1,
+EV000685,SA03053,Bang Kho Laem,A001,Send peak alert,Demand Response,2025-02-13,3.3,1.36,0,
+EV000686,SA03053,Bang Kho Laem,A003,Offer smart meter education,Customer Service,2025-01-30,3.3,1.36,1,
+EV000687,SA03053,Bang Kho Laem,A005,Billing explanation callback,Billing Service,2025-05-29,3.3,1.36,0,5
+EV000688,SA03054,Bang Kho Laem,A004,Dispatch voltage quality check,Power Quality,2025-02-11,3,1.8,0,
+EV000689,SA03054,Bang Kho Laem,A005,Billing explanation callback,Billing Service,2025-04-13,3,1.8,0,
+EV000690,SA03054,Bang Kho Laem,A003,Offer smart meter education,Customer Service,2025-04-22,3,1.8,0,3
+EV000691,SA03054,Bang Kho Laem,A003,Offer smart meter education,Customer Service,2025-05-01,3,1.8,0,
+EV000692,SA03054,Bang Kho Laem,A006,Energy efficiency advisory,Efficiency Program,2025-03-05,3,1.8,0,
+EV000693,SA03054,Bang Kho Laem,A005,Billing explanation callback,Billing Service,2025-06-03,3,1.8,1,
+EV000694,SA03054,Bang Kho Laem,A002,Schedule preventive inspection,Asset Maintenance,2025-05-29,3,1.8,0,
+EV000695,SA03055,Bang Kho Laem,A004,Dispatch voltage quality check,Power Quality,2025-01-27,1.7,1.94,0,4
+EV000696,SA03055,Bang Kho Laem,A001,Send peak alert,Demand Response,2025-04-30,1.7,1.94,0,
+EV000697,SA03055,Bang Kho Laem,A004,Dispatch voltage quality check,Power Quality,2025-06-09,1.7,1.94,0,
+EV000698,SA03055,Bang Kho Laem,A003,Offer smart meter education,Customer Service,2025-04-04,1.7,1.94,0,4
+EV000699,SA03055,Bang Kho Laem,A004,Dispatch voltage quality check,Power Quality,2025-01-13,1.7,1.94,0,
+EV000700,SA03055,Bang Kho Laem,A003,Offer smart meter education,Customer Service,2025-01-09,1.7,1.94,0,
+EV000701,SA03056,Bang Kho Laem,A004,Dispatch voltage quality check,Power Quality,2025-01-08,0.2,1.44,0,
+EV000702,SA03056,Bang Kho Laem,A001,Send peak alert,Demand Response,2025-01-24,0.2,1.44,0,
+EV000703,SA03056,Bang Kho Laem,A001,Send peak alert,Demand Response,2025-02-15,0.2,1.44,0,
+EV000704,SA03056,Bang Kho Laem,A001,Send peak alert,Demand Response,2025-02-17,0.2,1.44,1,
+EV000705,SA03056,Bang Kho Laem,A003,Offer smart meter education,Customer Service,2025-01-20,0.2,1.44,0,
+EV000706,SA03056,Bang Kho Laem,A005,Billing explanation callback,Billing Service,2025-06-01,0.2,1.44,0,
+EV000707,SA03056,Bang Kho Laem,A006,Energy efficiency advisory,Efficiency Program,2025-03-13,0.2,1.44,0,
+EV000708,SA03057,Bang Kho Laem,A005,Billing explanation callback,Billing Service,2025-04-24,2.7,1.62,0,
+EV000709,SA03057,Bang Kho Laem,A005,Billing explanation callback,Billing Service,2025-03-18,2.7,1.62,0,
+EV000710,SA03057,Bang Kho Laem,A002,Schedule preventive inspection,Asset Maintenance,2025-01-22,2.7,1.62,1,
+EV000711,SA03057,Bang Kho Laem,A004,Dispatch voltage quality check,Power Quality,2025-02-10,2.7,1.62,0,
+EV000712,SA03057,Bang Kho Laem,A004,Dispatch voltage quality check,Power Quality,2025-04-05,2.7,1.62,0,
+EV000713,SA03058,Bang Kho Laem,A004,Dispatch voltage quality check,Power Quality,2025-04-27,2,1.67,0,4
+EV000714,SA03058,Bang Kho Laem,A006,Energy efficiency advisory,Efficiency Program,2025-04-18,2,1.67,0,
+EV000715,SA03058,Bang Kho Laem,A005,Billing explanation callback,Billing Service,2025-01-13,2,1.67,0,4
+EV000716,SA03058,Bang Kho Laem,A006,Energy efficiency advisory,Efficiency Program,2025-05-14,2,1.67,0,
+EV000717,SA03058,Bang Kho Laem,A002,Schedule preventive inspection,Asset Maintenance,2025-03-08,2,1.67,0,
+EV000718,SA03059,Bang Kho Laem,A005,Billing explanation callback,Billing Service,2025-02-24,3.5,1.69,0,
+EV000719,SA03059,Bang Kho Laem,A005,Billing explanation callback,Billing Service,2025-04-14,3.5,1.69,1,
+EV000720,SA03060,Bang Kho Laem,A002,Schedule preventive inspection,Asset Maintenance,2025-04-15,6.5,1.6,0,4
+EV000721,SA03060,Bang Kho Laem,A001,Send peak alert,Demand Response,2025-03-12,6.5,1.6,0,3
+EV000722,SA03060,Bang Kho Laem,A003,Offer smart meter education,Customer Service,2025-02-10,6.5,1.6,0,3
+EV000723,SA03060,Bang Kho Laem,A003,Offer smart meter education,Customer Service,2025-05-12,6.5,1.6,0,5
+EV000724,SA03061,Bang Kho Laem,A001,Send peak alert,Demand Response,2025-02-05,6.2,1.83,0,
+EV000725,SA03061,Bang Kho Laem,A004,Dispatch voltage quality check,Power Quality,2025-03-04,6.2,1.83,0,5
+EV000726,SA03061,Bang Kho Laem,A002,Schedule preventive inspection,Asset Maintenance,2025-04-25,6.2,1.83,0,4
+EV000727,SA03061,Bang Kho Laem,A006,Energy efficiency advisory,Efficiency Program,2025-05-04,6.2,1.83,1,
+EV000728,SA03062,Bang Kho Laem,A003,Offer smart meter education,Customer Service,2025-01-21,1.7,1.76,0,
+EV000729,SA03062,Bang Kho Laem,A003,Offer smart meter education,Customer Service,2025-02-18,1.7,1.76,0,
+EV000730,SA03062,Bang Kho Laem,A003,Offer smart meter education,Customer Service,2025-04-19,1.7,1.76,0,
+EV000731,SA03063,Bang Kho Laem,A005,Billing explanation callback,Billing Service,2025-04-05,4.9,1.05,0,
+EV000732,SA03063,Bang Kho Laem,A004,Dispatch voltage quality check,Power Quality,2025-03-12,4.9,1.05,0,
+EV000733,SA03063,Bang Kho Laem,A001,Send peak alert,Demand Response,2025-04-25,4.9,1.05,0,
+EV000734,SA03063,Bang Kho Laem,A001,Send peak alert,Demand Response,2025-05-05,4.9,1.05,0,
+EV000735,SA03063,Bang Kho Laem,A001,Send peak alert,Demand Response,2025-03-04,4.9,1.05,0,
+EV000736,SA03063,Bang Kho Laem,A003,Offer smart meter education,Customer Service,2025-06-03,4.9,1.05,0,
+EV000737,SA03064,Bang Kho Laem,A001,Send peak alert,Demand Response,2025-01-30,2.7,1.5,0,
+EV000738,SA03064,Bang Kho Laem,A005,Billing explanation callback,Billing Service,2025-03-03,2.7,1.5,0,
+EV000739,SA03064,Bang Kho Laem,A006,Energy efficiency advisory,Efficiency Program,2025-03-20,2.7,1.5,1,4
+EV000740,SA03064,Bang Kho Laem,A006,Energy efficiency advisory,Efficiency Program,2025-05-02,2.7,1.5,0,
+EV000741,SA03065,Bang Kho Laem,A004,Dispatch voltage quality check,Power Quality,2025-05-13,3,1.05,0,
+EV000742,SA03065,Bang Kho Laem,A002,Schedule preventive inspection,Asset Maintenance,2025-06-03,3,1.05,0,4
+EV000743,SA03065,Bang Kho Laem,A003,Offer smart meter education,Customer Service,2025-04-08,3,1.05,0,
+EV000744,SA03065,Bang Kho Laem,A002,Schedule preventive inspection,Asset Maintenance,2025-05-09,3,1.05,0,
+EV000745,SA03066,Bang Kho Laem,A006,Energy efficiency advisory,Efficiency Program,2025-05-20,1.6,1.05,0,
+EV000746,SA03066,Bang Kho Laem,A002,Schedule preventive inspection,Asset Maintenance,2025-06-03,1.6,1.05,0,4
+EV000747,SA03066,Bang Kho Laem,A002,Schedule preventive inspection,Asset Maintenance,2025-01-16,1.6,1.05,1,
+EV000748,SA03066,Bang Kho Laem,A002,Schedule preventive inspection,Asset Maintenance,2025-01-14,1.6,1.05,0,
+EV000749,SA03066,Bang Kho Laem,A005,Billing explanation callback,Billing Service,2025-04-30,1.6,1.05,0,3
+EV000750,SA03067,Bang Kho Laem,A002,Schedule preventive inspection,Asset Maintenance,2025-06-09,2,1.52,0,
+EV000751,SA03067,Bang Kho Laem,A002,Schedule preventive inspection,Asset Maintenance,2025-01-18,2,1.52,0,
+EV000752,SA03067,Bang Kho Laem,A003,Offer smart meter education,Customer Service,2025-01-03,2,1.52,0,
+EV000753,SA03067,Bang Kho Laem,A001,Send peak alert,Demand Response,2025-03-27,2,1.52,0,
+EV000754,SA03067,Bang Kho Laem,A001,Send peak alert,Demand Response,2025-05-27,2,1.52,0,3
+EV000755,SA03067,Bang Kho Laem,A002,Schedule preventive inspection,Asset Maintenance,2025-04-20,2,1.52,1,
+EV000756,SA03068,Bang Kho Laem,A004,Dispatch voltage quality check,Power Quality,2025-02-17,2.6,1.24,1,
+EV000757,SA03068,Bang Kho Laem,A002,Schedule preventive inspection,Asset Maintenance,2025-02-28,2.6,1.24,0,
+EV000758,SA03068,Bang Kho Laem,A002,Schedule preventive inspection,Asset Maintenance,2025-02-09,2.6,1.24,0,
+EV000759,SA03068,Bang Kho Laem,A001,Send peak alert,Demand Response,2025-03-07,2.6,1.24,0,
+EV000760,SA03068,Bang Kho Laem,A006,Energy efficiency advisory,Efficiency Program,2025-02-09,2.6,1.24,0,
+EV000761,SA03068,Bang Kho Laem,A004,Dispatch voltage quality check,Power Quality,2025-03-22,2.6,1.24,1,
+EV000762,SA03069,Bang Kho Laem,A005,Billing explanation callback,Billing Service,2025-04-07,2.9,1.05,0,
+EV000763,SA03069,Bang Kho Laem,A003,Offer smart meter education,Customer Service,2025-05-22,2.9,1.05,1,4
+EV000764,SA03069,Bang Kho Laem,A006,Energy efficiency advisory,Efficiency Program,2025-04-21,2.9,1.05,0,
+EV000765,SA03069,Bang Kho Laem,A004,Dispatch voltage quality check,Power Quality,2025-03-13,2.9,1.05,0,
+EV000766,SA03070,Bang Kho Laem,A004,Dispatch voltage quality check,Power Quality,2025-06-06,2.8,1.5,1,
+EV000767,SA04001,Din Daeng,A005,Billing explanation callback,Billing Service,2025-01-13,2.1,1.99,0,
+EV000768,SA04001,Din Daeng,A004,Dispatch voltage quality check,Power Quality,2025-02-26,2.1,1.99,0,
+EV000769,SA04001,Din Daeng,A004,Dispatch voltage quality check,Power Quality,2025-05-26,2.1,1.99,1,
+EV000770,SA04002,Din Daeng,A003,Offer smart meter education,Customer Service,2025-03-19,5.1,1.6,0,3
+EV000771,SA04002,Din Daeng,A003,Offer smart meter education,Customer Service,2025-02-24,5.1,1.6,0,
+EV000772,SA04002,Din Daeng,A006,Energy efficiency advisory,Efficiency Program,2025-05-17,5.1,1.6,1,
+EV000773,SA04002,Din Daeng,A002,Schedule preventive inspection,Asset Maintenance,2025-02-17,5.1,1.6,0,4
+EV000774,SA04002,Din Daeng,A002,Schedule preventive inspection,Asset Maintenance,2025-02-20,5.1,1.6,0,
+EV000775,SA04002,Din Daeng,A004,Dispatch voltage quality check,Power Quality,2025-02-20,5.1,1.6,0,
+EV000776,SA04002,Din Daeng,A006,Energy efficiency advisory,Efficiency Program,2025-01-17,5.1,1.6,0,
+EV000777,SA04002,Din Daeng,A006,Energy efficiency advisory,Efficiency Program,2025-03-31,5.1,1.6,0,3
+EV000778,SA04003,Din Daeng,A005,Billing explanation callback,Billing Service,2025-04-29,4,1.33,0,
+EV000779,SA04003,Din Daeng,A006,Energy efficiency advisory,Efficiency Program,2025-05-16,4,1.33,0,
+EV000780,SA04003,Din Daeng,A002,Schedule preventive inspection,Asset Maintenance,2025-03-15,4,1.33,0,4
+EV000781,SA04003,Din Daeng,A004,Dispatch voltage quality check,Power Quality,2025-04-26,4,1.33,0,4
+EV000782,SA04003,Din Daeng,A003,Offer smart meter education,Customer Service,2025-04-03,4,1.33,0,4
+EV000783,SA04004,Din Daeng,A002,Schedule preventive inspection,Asset Maintenance,2025-02-06,5.4,1.05,1,
+EV000784,SA04004,Din Daeng,A001,Send peak alert,Demand Response,2025-02-27,5.4,1.05,1,
+EV000785,SA04004,Din Daeng,A002,Schedule preventive inspection,Asset Maintenance,2025-05-22,5.4,1.05,0,
+EV000786,SA04004,Din Daeng,A006,Energy efficiency advisory,Efficiency Program,2025-01-08,5.4,1.05,1,
+EV000787,SA04004,Din Daeng,A002,Schedule preventive inspection,Asset Maintenance,2025-03-20,5.4,1.05,0,
+EV000788,SA04004,Din Daeng,A002,Schedule preventive inspection,Asset Maintenance,2025-06-05,5.4,1.05,0,
+EV000789,SA04005,Din Daeng,A001,Send peak alert,Demand Response,2025-02-08,4.4,1.71,0,
+EV000790,SA04005,Din Daeng,A001,Send peak alert,Demand Response,2025-05-31,4.4,1.71,0,5
+EV000791,SA04005,Din Daeng,A005,Billing explanation callback,Billing Service,2025-01-07,4.4,1.71,0,
+EV000792,SA04006,Din Daeng,A006,Energy efficiency advisory,Efficiency Program,2025-01-24,5.3,1.08,1,
+EV000793,SA04006,Din Daeng,A002,Schedule preventive inspection,Asset Maintenance,2025-04-14,5.3,1.08,0,
+EV000794,SA04006,Din Daeng,A002,Schedule preventive inspection,Asset Maintenance,2025-05-18,5.3,1.08,0,
+EV000795,SA04006,Din Daeng,A001,Send peak alert,Demand Response,2025-04-23,5.3,1.08,0,
+EV000796,SA04006,Din Daeng,A004,Dispatch voltage quality check,Power Quality,2025-05-16,5.3,1.08,0,
+EV000797,SA04006,Din Daeng,A006,Energy efficiency advisory,Efficiency Program,2025-03-23,5.3,1.08,0,3
+EV000798,SA04007,Din Daeng,A002,Schedule preventive inspection,Asset Maintenance,2025-05-30,2.1,1.86,0,
+EV000799,SA04007,Din Daeng,A001,Send peak alert,Demand Response,2025-02-25,2.1,1.86,0,
+EV000800,SA04007,Din Daeng,A003,Offer smart meter education,Customer Service,2025-02-25,2.1,1.86,0,
+EV000801,SA04007,Din Daeng,A002,Schedule preventive inspection,Asset Maintenance,2025-03-23,2.1,1.86,0,
+EV000802,SA04007,Din Daeng,A005,Billing explanation callback,Billing Service,2025-03-18,2.1,1.86,0,
+EV000803,SA04008,Din Daeng,A004,Dispatch voltage quality check,Power Quality,2025-02-08,3.2,1.64,0,
+EV000804,SA04008,Din Daeng,A006,Energy efficiency advisory,Efficiency Program,2025-01-28,3.2,1.64,1,
+EV000805,SA04009,Din Daeng,A002,Schedule preventive inspection,Asset Maintenance,2025-02-19,5.7,1.51,0,
+EV000806,SA04009,Din Daeng,A002,Schedule preventive inspection,Asset Maintenance,2025-01-19,5.7,1.51,1,
+EV000807,SA04009,Din Daeng,A005,Billing explanation callback,Billing Service,2025-04-12,5.7,1.51,1,5
+EV000808,SA04010,Din Daeng,A001,Send peak alert,Demand Response,2025-04-25,1.5,1.58,0,
+EV000809,SA04010,Din Daeng,A001,Send peak alert,Demand Response,2025-03-05,1.5,1.58,1,
+EV000810,SA04010,Din Daeng,A003,Offer smart meter education,Customer Service,2025-05-08,1.5,1.58,0,
+EV000811,SA04010,Din Daeng,A005,Billing explanation callback,Billing Service,2025-03-02,1.5,1.58,0,
+EV000812,SA04010,Din Daeng,A005,Billing explanation callback,Billing Service,2025-05-17,1.5,1.58,0,
+EV000813,SA04010,Din Daeng,A003,Offer smart meter education,Customer Service,2025-04-13,1.5,1.58,0,
+EV000814,SA04010,Din Daeng,A001,Send peak alert,Demand Response,2025-03-18,1.5,1.58,0,5
+EV000815,SA04011,Din Daeng,A006,Energy efficiency advisory,Efficiency Program,2025-02-17,3.7,1.61,0,
+EV000816,SA04011,Din Daeng,A001,Send peak alert,Demand Response,2025-02-04,3.7,1.61,0,
+EV000817,SA04011,Din Daeng,A005,Billing explanation callback,Billing Service,2025-06-01,3.7,1.61,1,
+EV000818,SA04011,Din Daeng,A006,Energy efficiency advisory,Efficiency Program,2025-01-26,3.7,1.61,0,
+EV000819,SA04011,Din Daeng,A004,Dispatch voltage quality check,Power Quality,2025-04-11,3.7,1.61,0,
+EV000820,SA04011,Din Daeng,A005,Billing explanation callback,Billing Service,2025-02-09,3.7,1.61,1,
+EV000821,SA04012,Din Daeng,A003,Offer smart meter education,Customer Service,2025-03-03,4,1.9,0,
+EV000822,SA04012,Din Daeng,A001,Send peak alert,Demand Response,2025-04-15,4,1.9,0,
+EV000823,SA04012,Din Daeng,A003,Offer smart meter education,Customer Service,2025-06-08,4,1.9,0,5
+EV000824,SA04012,Din Daeng,A002,Schedule preventive inspection,Asset Maintenance,2025-04-23,4,1.9,1,
+EV000825,SA04013,Din Daeng,A003,Offer smart meter education,Customer Service,2025-02-04,3,1.86,1,
+EV000826,SA04014,Din Daeng,A004,Dispatch voltage quality check,Power Quality,2025-03-06,0.2,1.05,0,
+EV000827,SA04015,Din Daeng,A006,Energy efficiency advisory,Efficiency Program,2025-02-10,4.9,1.49,0,
+EV000828,SA04015,Din Daeng,A006,Energy efficiency advisory,Efficiency Program,2025-03-13,4.9,1.49,0,
+EV000829,SA04015,Din Daeng,A004,Dispatch voltage quality check,Power Quality,2025-04-14,4.9,1.49,0,
+EV000830,SA04016,Din Daeng,A003,Offer smart meter education,Customer Service,2025-05-03,1.1,1.75,0,
+EV000831,SA04016,Din Daeng,A004,Dispatch voltage quality check,Power Quality,2025-01-24,1.1,1.75,0,
+EV000832,SA04017,Din Daeng,A003,Offer smart meter education,Customer Service,2025-03-17,1.6,1.5,0,
+EV000833,SA04017,Din Daeng,A001,Send peak alert,Demand Response,2025-05-07,1.6,1.5,1,
+EV000834,SA04017,Din Daeng,A006,Energy efficiency advisory,Efficiency Program,2025-05-13,1.6,1.5,1,
+EV000835,SA04018,Din Daeng,A002,Schedule preventive inspection,Asset Maintenance,2025-02-01,4.1,1.81,0,
+EV000836,SA04018,Din Daeng,A003,Offer smart meter education,Customer Service,2025-06-03,4.1,1.81,0,4
+EV000837,SA04018,Din Daeng,A002,Schedule preventive inspection,Asset Maintenance,2025-02-19,4.1,1.81,0,
+EV000838,SA04018,Din Daeng,A002,Schedule preventive inspection,Asset Maintenance,2025-03-12,4.1,1.81,0,
+EV000839,SA04019,Din Daeng,A006,Energy efficiency advisory,Efficiency Program,2025-05-25,3.4,1.23,0,
+EV000840,SA04019,Din Daeng,A002,Schedule preventive inspection,Asset Maintenance,2025-03-02,3.4,1.23,0,
+EV000841,SA04019,Din Daeng,A002,Schedule preventive inspection,Asset Maintenance,2025-03-25,3.4,1.23,0,
+EV000842,SA04019,Din Daeng,A004,Dispatch voltage quality check,Power Quality,2025-04-24,3.4,1.23,1,
+EV000843,SA04019,Din Daeng,A006,Energy efficiency advisory,Efficiency Program,2025-04-26,3.4,1.23,0,3
+EV000844,SA04019,Din Daeng,A001,Send peak alert,Demand Response,2025-04-27,3.4,1.23,0,4
+EV000845,SA04019,Din Daeng,A001,Send peak alert,Demand Response,2025-04-25,3.4,1.23,1,
+EV000846,SA04019,Din Daeng,A001,Send peak alert,Demand Response,2025-05-21,3.4,1.23,0,
+EV000847,SA04020,Din Daeng,A002,Schedule preventive inspection,Asset Maintenance,2025-05-21,4.3,1.42,0,
+EV000848,SA04020,Din Daeng,A002,Schedule preventive inspection,Asset Maintenance,2025-01-16,4.3,1.42,0,
+EV000849,SA04020,Din Daeng,A001,Send peak alert,Demand Response,2025-05-13,4.3,1.42,0,
+EV000850,SA04020,Din Daeng,A003,Offer smart meter education,Customer Service,2025-05-19,4.3,1.42,0,
+EV000851,SA04020,Din Daeng,A002,Schedule preventive inspection,Asset Maintenance,2025-03-17,4.3,1.42,0,
+EV000852,SA04020,Din Daeng,A004,Dispatch voltage quality check,Power Quality,2025-01-14,4.3,1.42,1,
+EV000853,SA04021,Din Daeng,A003,Offer smart meter education,Customer Service,2025-04-17,1.7,1.35,0,
+EV000854,SA04021,Din Daeng,A001,Send peak alert,Demand Response,2025-03-17,1.7,1.35,0,
+EV000855,SA04021,Din Daeng,A006,Energy efficiency advisory,Efficiency Program,2025-01-09,1.7,1.35,0,4
+EV000856,SA04021,Din Daeng,A005,Billing explanation callback,Billing Service,2025-01-01,1.7,1.35,1,
+EV000857,SA04022,Din Daeng,A003,Offer smart meter education,Customer Service,2025-04-02,0.2,1.29,0,
+EV000858,SA04022,Din Daeng,A004,Dispatch voltage quality check,Power Quality,2025-05-30,0.2,1.29,0,
+EV000859,SA04022,Din Daeng,A005,Billing explanation callback,Billing Service,2025-03-23,0.2,1.29,0,
+EV000860,SA04022,Din Daeng,A003,Offer smart meter education,Customer Service,2025-03-09,0.2,1.29,0,
+EV000861,SA04023,Din Daeng,A003,Offer smart meter education,Customer Service,2025-01-26,2.3,1.6,0,
+EV000862,SA04023,Din Daeng,A002,Schedule preventive inspection,Asset Maintenance,2025-01-26,2.3,1.6,0,
+EV000863,SA04023,Din Daeng,A001,Send peak alert,Demand Response,2025-03-03,2.3,1.6,0,
+EV000864,SA04023,Din Daeng,A006,Energy efficiency advisory,Efficiency Program,2025-05-28,2.3,1.6,0,4
+EV000865,SA04023,Din Daeng,A006,Energy efficiency advisory,Efficiency Program,2025-05-28,2.3,1.6,0,
+EV000866,SA04023,Din Daeng,A002,Schedule preventive inspection,Asset Maintenance,2025-05-02,2.3,1.6,0,4
+EV000867,SA04023,Din Daeng,A006,Energy efficiency advisory,Efficiency Program,2025-03-03,2.3,1.6,1,
+EV000868,SA04024,Din Daeng,A003,Offer smart meter education,Customer Service,2025-01-10,3.2,1.28,0,4
+EV000869,SA04024,Din Daeng,A005,Billing explanation callback,Billing Service,2025-01-05,3.2,1.28,0,
+EV000870,SA04025,Din Daeng,A006,Energy efficiency advisory,Efficiency Program,2025-03-22,6.4,1.41,0,
+EV000871,SA04026,Din Daeng,A006,Energy efficiency advisory,Efficiency Program,2025-01-17,3.5,1.1,1,
+EV000872,SA04026,Din Daeng,A002,Schedule preventive inspection,Asset Maintenance,2025-03-15,3.5,1.1,0,
+EV000873,SA04026,Din Daeng,A004,Dispatch voltage quality check,Power Quality,2025-03-15,3.5,1.1,0,
+EV000874,SA04027,Din Daeng,A003,Offer smart meter education,Customer Service,2025-03-07,5.2,1.31,0,
+EV000875,SA04028,Din Daeng,A002,Schedule preventive inspection,Asset Maintenance,2025-03-24,3.2,1.49,0,
+EV000876,SA04028,Din Daeng,A004,Dispatch voltage quality check,Power Quality,2025-03-05,3.2,1.49,0,
+EV000877,SA04028,Din Daeng,A006,Energy efficiency advisory,Efficiency Program,2025-02-19,3.2,1.49,0,4
+EV000878,SA04029,Din Daeng,A005,Billing explanation callback,Billing Service,2025-02-16,1.3,1.17,0,
+EV000879,SA04029,Din Daeng,A006,Energy efficiency advisory,Efficiency Program,2025-01-07,1.3,1.17,0,5
+EV000880,SA04029,Din Daeng,A004,Dispatch voltage quality check,Power Quality,2025-02-26,1.3,1.17,1,
+EV000881,SA04029,Din Daeng,A001,Send peak alert,Demand Response,2025-02-28,1.3,1.17,0,
+EV000882,SA04030,Din Daeng,A002,Schedule preventive inspection,Asset Maintenance,2025-03-18,3,2.08,0,3
+EV000883,SA04030,Din Daeng,A005,Billing explanation callback,Billing Service,2025-05-17,3,2.08,0,5
+EV000884,SA04030,Din Daeng,A001,Send peak alert,Demand Response,2025-04-17,3,2.08,0,
+EV000885,SA04030,Din Daeng,A006,Energy efficiency advisory,Efficiency Program,2025-02-17,3,2.08,1,
+EV000886,SA04030,Din Daeng,A005,Billing explanation callback,Billing Service,2025-02-11,3,2.08,0,
+EV000887,SA04031,Din Daeng,A002,Schedule preventive inspection,Asset Maintenance,2025-02-07,6.5,1.68,0,
+EV000888,SA04031,Din Daeng,A004,Dispatch voltage quality check,Power Quality,2025-04-03,6.5,1.68,1,
+EV000889,SA04031,Din Daeng,A003,Offer smart meter education,Customer Service,2025-04-04,6.5,1.68,0,4
+EV000890,SA04031,Din Daeng,A002,Schedule preventive inspection,Asset Maintenance,2025-02-08,6.5,1.68,1,
+EV000891,SA04031,Din Daeng,A004,Dispatch voltage quality check,Power Quality,2025-02-02,6.5,1.68,0,
+EV000892,SA04032,Din Daeng,A004,Dispatch voltage quality check,Power Quality,2025-04-05,2.1,1.11,0,
+EV000893,SA04032,Din Daeng,A001,Send peak alert,Demand Response,2025-06-07,2.1,1.11,1,
+EV000894,SA04032,Din Daeng,A001,Send peak alert,Demand Response,2025-03-09,2.1,1.11,0,
+EV000895,SA04032,Din Daeng,A005,Billing explanation callback,Billing Service,2025-01-22,2.1,1.11,0,
+EV000896,SA04033,Din Daeng,A005,Billing explanation callback,Billing Service,2025-02-03,2.7,1.36,1,
+EV000897,SA04033,Din Daeng,A004,Dispatch voltage quality check,Power Quality,2025-06-01,2.7,1.36,0,5
+EV000898,SA04033,Din Daeng,A006,Energy efficiency advisory,Efficiency Program,2025-03-23,2.7,1.36,1,
+EV000899,SA04034,Din Daeng,A005,Billing explanation callback,Billing Service,2025-04-09,1.6,1.58,1,
+EV000900,SA04034,Din Daeng,A005,Billing explanation callback,Billing Service,2025-05-17,1.6,1.58,0,
+EV000901,SA04034,Din Daeng,A003,Offer smart meter education,Customer Service,2025-03-10,1.6,1.58,0,
+EV000902,SA04035,Din Daeng,A001,Send peak alert,Demand Response,2025-03-24,3.8,1.31,0,
+EV000903,SA04035,Din Daeng,A006,Energy efficiency advisory,Efficiency Program,2025-04-04,3.8,1.31,0,
+EV000904,SA04035,Din Daeng,A005,Billing explanation callback,Billing Service,2025-05-10,3.8,1.31,0,
+EV000905,SA04035,Din Daeng,A004,Dispatch voltage quality check,Power Quality,2025-04-03,3.8,1.31,0,
+EV000906,SA04036,Din Daeng,A001,Send peak alert,Demand Response,2025-03-18,6.1,1.69,1,4
+EV000907,SA04036,Din Daeng,A003,Offer smart meter education,Customer Service,2025-03-19,6.1,1.69,1,
+EV000908,SA04036,Din Daeng,A005,Billing explanation callback,Billing Service,2025-05-11,6.1,1.69,1,
+EV000909,SA04036,Din Daeng,A003,Offer smart meter education,Customer Service,2025-03-08,6.1,1.69,0,
+EV000910,SA04036,Din Daeng,A005,Billing explanation callback,Billing Service,2025-05-16,6.1,1.69,0,
+EV000911,SA04036,Din Daeng,A005,Billing explanation callback,Billing Service,2025-01-27,6.1,1.69,0,
+EV000912,SA04036,Din Daeng,A003,Offer smart meter education,Customer Service,2025-01-04,6.1,1.69,0,
+EV000913,SA04036,Din Daeng,A005,Billing explanation callback,Billing Service,2025-04-27,6.1,1.69,0,5
+EV000914,SA04037,Din Daeng,A005,Billing explanation callback,Billing Service,2025-05-29,4.3,1.58,1,
+EV000915,SA04037,Din Daeng,A004,Dispatch voltage quality check,Power Quality,2025-01-04,4.3,1.58,0,
+EV000916,SA04037,Din Daeng,A002,Schedule preventive inspection,Asset Maintenance,2025-01-27,4.3,1.58,0,
+EV000917,SA04038,Din Daeng,A003,Offer smart meter education,Customer Service,2025-05-29,3.4,1.46,0,
+EV000918,SA04039,Din Daeng,A006,Energy efficiency advisory,Efficiency Program,2025-02-13,3.1,1.07,0,
+EV000919,SA04039,Din Daeng,A005,Billing explanation callback,Billing Service,2025-03-30,3.1,1.07,0,
+EV000920,SA04040,Din Daeng,A004,Dispatch voltage quality check,Power Quality,2025-05-31,4.2,1.41,0,
+EV000921,SA04040,Din Daeng,A002,Schedule preventive inspection,Asset Maintenance,2025-01-22,4.2,1.41,0,
+EV000922,SA04040,Din Daeng,A001,Send peak alert,Demand Response,2025-01-31,4.2,1.41,1,
+EV000923,SA04040,Din Daeng,A006,Energy efficiency advisory,Efficiency Program,2025-04-28,4.2,1.41,1,
+EV000924,SA04041,Din Daeng,A005,Billing explanation callback,Billing Service,2025-04-30,1.8,1.54,0,
+EV000925,SA04041,Din Daeng,A004,Dispatch voltage quality check,Power Quality,2025-05-25,1.8,1.54,0,
+EV000926,SA04041,Din Daeng,A003,Offer smart meter education,Customer Service,2025-01-19,1.8,1.54,0,4
+EV000927,SA04041,Din Daeng,A005,Billing explanation callback,Billing Service,2025-04-20,1.8,1.54,0,
+EV000928,SA04042,Din Daeng,A001,Send peak alert,Demand Response,2025-03-10,5.3,1.54,1,
+EV000929,SA04042,Din Daeng,A004,Dispatch voltage quality check,Power Quality,2025-02-11,5.3,1.54,0,
+EV000930,SA04042,Din Daeng,A002,Schedule preventive inspection,Asset Maintenance,2025-04-12,5.3,1.54,0,
+EV000931,SA04042,Din Daeng,A003,Offer smart meter education,Customer Service,2025-03-23,5.3,1.54,0,4
+EV000932,SA04043,Din Daeng,A006,Energy efficiency advisory,Efficiency Program,2025-03-08,4,2.15,1,
+EV000933,SA04043,Din Daeng,A005,Billing explanation callback,Billing Service,2025-02-08,4,2.15,0,
+EV000934,SA04043,Din Daeng,A004,Dispatch voltage quality check,Power Quality,2025-01-21,4,2.15,1,2
+EV000935,SA04043,Din Daeng,A005,Billing explanation callback,Billing Service,2025-02-03,4,2.15,0,3
+EV000936,SA04043,Din Daeng,A002,Schedule preventive inspection,Asset Maintenance,2025-05-19,4,2.15,0,
+EV000937,SA04044,Din Daeng,A003,Offer smart meter education,Customer Service,2025-03-19,0.9,1.27,0,
+EV000938,SA04044,Din Daeng,A001,Send peak alert,Demand Response,2025-01-08,0.9,1.27,0,
+EV000939,SA04044,Din Daeng,A002,Schedule preventive inspection,Asset Maintenance,2025-02-21,0.9,1.27,0,
+EV000940,SA04044,Din Daeng,A003,Offer smart meter education,Customer Service,2025-01-17,0.9,1.27,0,5
+EV000941,SA04044,Din Daeng,A003,Offer smart meter education,Customer Service,2025-03-19,0.9,1.27,1,
+EV000942,SA04045,Din Daeng,A004,Dispatch voltage quality check,Power Quality,2025-05-10,2.5,1.68,0,
+EV000943,SA04045,Din Daeng,A002,Schedule preventive inspection,Asset Maintenance,2025-05-11,2.5,1.68,0,
+EV000944,SA04045,Din Daeng,A006,Energy efficiency advisory,Efficiency Program,2025-02-25,2.5,1.68,1,
+EV000945,SA04045,Din Daeng,A006,Energy efficiency advisory,Efficiency Program,2025-05-15,2.5,1.68,0,3
+EV000946,SA04046,Din Daeng,A005,Billing explanation callback,Billing Service,2025-01-27,4.9,1.3,0,4
+EV000947,SA04046,Din Daeng,A006,Energy efficiency advisory,Efficiency Program,2025-01-07,4.9,1.3,0,
+EV000948,SA04046,Din Daeng,A002,Schedule preventive inspection,Asset Maintenance,2025-01-03,4.9,1.3,0,
+EV000949,SA04046,Din Daeng,A003,Offer smart meter education,Customer Service,2025-06-03,4.9,1.3,1,
+EV000950,SA04047,Din Daeng,A002,Schedule preventive inspection,Asset Maintenance,2025-01-19,4.5,1.44,0,
+EV000951,SA04048,Din Daeng,A002,Schedule preventive inspection,Asset Maintenance,2025-04-02,4.8,1.05,0,
+EV000952,SA04048,Din Daeng,A006,Energy efficiency advisory,Efficiency Program,2025-02-27,4.8,1.05,0,3
+EV000953,SA04048,Din Daeng,A002,Schedule preventive inspection,Asset Maintenance,2025-03-20,4.8,1.05,0,4
+EV000954,SA04048,Din Daeng,A002,Schedule preventive inspection,Asset Maintenance,2025-05-31,4.8,1.05,0,4
+EV000955,SA04049,Din Daeng,A004,Dispatch voltage quality check,Power Quality,2025-01-24,3.1,1.75,1,
+EV000956,SA04049,Din Daeng,A002,Schedule preventive inspection,Asset Maintenance,2025-04-15,3.1,1.75,1,
+EV000957,SA04049,Din Daeng,A001,Send peak alert,Demand Response,2025-04-08,3.1,1.75,0,
+EV000958,SA04049,Din Daeng,A006,Energy efficiency advisory,Efficiency Program,2025-04-26,3.1,1.75,1,
+EV000959,SA04050,Din Daeng,A005,Billing explanation callback,Billing Service,2025-06-03,0.2,1.13,0,
+EV000960,SA04050,Din Daeng,A005,Billing explanation callback,Billing Service,2025-04-17,0.2,1.13,0,4
+EV000961,SA04050,Din Daeng,A003,Offer smart meter education,Customer Service,2025-05-17,0.2,1.13,0,
+EV000962,SA04050,Din Daeng,A001,Send peak alert,Demand Response,2025-05-16,0.2,1.13,0,
+EV000963,SA04051,Din Daeng,A004,Dispatch voltage quality check,Power Quality,2025-05-26,4.6,1.51,0,
+EV000964,SA04052,Din Daeng,A005,Billing explanation callback,Billing Service,2025-04-16,6.5,1.94,1,
+EV000965,SA04052,Din Daeng,A006,Energy efficiency advisory,Efficiency Program,2025-03-26,6.5,1.94,0,
+EV000966,SA04052,Din Daeng,A002,Schedule preventive inspection,Asset Maintenance,2025-04-17,6.5,1.94,0,
+EV000967,SA04053,Din Daeng,A001,Send peak alert,Demand Response,2025-03-05,5.1,1.55,0,
+EV000968,SA04053,Din Daeng,A003,Offer smart meter education,Customer Service,2025-04-18,5.1,1.55,0,5
+EV000969,SA04053,Din Daeng,A005,Billing explanation callback,Billing Service,2025-04-11,5.1,1.55,0,
+EV000970,SA04053,Din Daeng,A004,Dispatch voltage quality check,Power Quality,2025-05-04,5.1,1.55,1,3
+EV000971,SA04054,Din Daeng,A003,Offer smart meter education,Customer Service,2025-04-29,0.2,1.9,0,
+EV000972,SA04055,Din Daeng,A004,Dispatch voltage quality check,Power Quality,2025-04-28,2.5,1.08,0,
+EV000973,SA04055,Din Daeng,A005,Billing explanation callback,Billing Service,2025-03-27,2.5,1.08,0,
+EV000974,SA04056,Din Daeng,A003,Offer smart meter education,Customer Service,2025-05-05,0.3,1.91,0,
+EV000975,SA04056,Din Daeng,A003,Offer smart meter education,Customer Service,2025-05-11,0.3,1.91,0,5
+EV000976,SA04057,Din Daeng,A004,Dispatch voltage quality check,Power Quality,2025-03-23,3.9,1.54,0,
+EV000977,SA04057,Din Daeng,A006,Energy efficiency advisory,Efficiency Program,2025-04-15,3.9,1.54,0,
+EV000978,SA04057,Din Daeng,A002,Schedule preventive inspection,Asset Maintenance,2025-03-15,3.9,1.54,0,
+EV000979,SA04057,Din Daeng,A005,Billing explanation callback,Billing Service,2025-03-02,3.9,1.54,0,
+EV000980,SA04057,Din Daeng,A003,Offer smart meter education,Customer Service,2025-03-21,3.9,1.54,0,
+EV000981,SA04057,Din Daeng,A002,Schedule preventive inspection,Asset Maintenance,2025-05-06,3.9,1.54,0,
+EV000982,SA04058,Din Daeng,A001,Send peak alert,Demand Response,2025-05-04,1.9,1.32,0,
+EV000983,SA04058,Din Daeng,A003,Offer smart meter education,Customer Service,2025-05-23,1.9,1.32,0,4
+EV000984,SA04058,Din Daeng,A004,Dispatch voltage quality check,Power Quality,2025-02-16,1.9,1.32,0,
+EV000985,SA04058,Din Daeng,A002,Schedule preventive inspection,Asset Maintenance,2025-04-27,1.9,1.32,0,
+EV000986,SA04058,Din Daeng,A005,Billing explanation callback,Billing Service,2025-01-14,1.9,1.32,0,4
+EV000987,SA04059,Din Daeng,A004,Dispatch voltage quality check,Power Quality,2025-03-22,3.4,1.67,0,
+EV000988,SA04060,Din Daeng,A005,Billing explanation callback,Billing Service,2025-01-18,3,1.51,0,5
+EV000989,SA04060,Din Daeng,A004,Dispatch voltage quality check,Power Quality,2025-05-14,3,1.51,0,3
+EV000990,SA04060,Din Daeng,A001,Send peak alert,Demand Response,2025-06-04,3,1.51,0,
+EV000991,SA04060,Din Daeng,A004,Dispatch voltage quality check,Power Quality,2025-01-28,3,1.51,1,
+EV000992,SA04061,Din Daeng,A002,Schedule preventive inspection,Asset Maintenance,2025-05-11,5.2,1.85,0,4
+EV000993,SA04061,Din Daeng,A004,Dispatch voltage quality check,Power Quality,2025-03-31,5.2,1.85,1,
+EV000994,SA04062,Din Daeng,A004,Dispatch voltage quality check,Power Quality,2025-04-19,4.2,1.34,0,3
+EV000995,SA04062,Din Daeng,A003,Offer smart meter education,Customer Service,2025-03-22,4.2,1.34,0,
+EV000996,SA04062,Din Daeng,A004,Dispatch voltage quality check,Power Quality,2025-04-22,4.2,1.34,0,
+EV000997,SA04063,Din Daeng,A002,Schedule preventive inspection,Asset Maintenance,2025-01-08,3,1.05,0,4
+EV000998,SA04064,Din Daeng,A003,Offer smart meter education,Customer Service,2025-03-06,4.4,1.59,0,
+EV000999,SA04064,Din Daeng,A005,Billing explanation callback,Billing Service,2025-04-26,4.4,1.59,0,
+EV001000,SA04064,Din Daeng,A003,Offer smart meter education,Customer Service,2025-04-11,4.4,1.59,0,
+EV001001,SA04064,Din Daeng,A004,Dispatch voltage quality check,Power Quality,2025-05-11,4.4,1.59,0,4
+EV001002,SA04064,Din Daeng,A005,Billing explanation callback,Billing Service,2025-01-13,4.4,1.59,1,4
+EV001003,SA04065,Din Daeng,A002,Schedule preventive inspection,Asset Maintenance,2025-04-29,3.2,1.78,0,4
+EV001004,SA04065,Din Daeng,A001,Send peak alert,Demand Response,2025-03-22,3.2,1.78,1,3
+EV001005,SA04066,Din Daeng,A006,Energy efficiency advisory,Efficiency Program,2025-04-30,4.9,1.51,1,
+EV001006,SA04066,Din Daeng,A006,Energy efficiency advisory,Efficiency Program,2025-06-06,4.9,1.51,0,
+EV001007,SA04066,Din Daeng,A002,Schedule preventive inspection,Asset Maintenance,2025-05-31,4.9,1.51,1,
+EV001008,SA04066,Din Daeng,A001,Send peak alert,Demand Response,2025-03-29,4.9,1.51,0,
+EV001009,SA04066,Din Daeng,A004,Dispatch voltage quality check,Power Quality,2025-01-05,4.9,1.51,0,
+EV001010,SA04066,Din Daeng,A002,Schedule preventive inspection,Asset Maintenance,2025-03-22,4.9,1.51,0,5
+EV001011,SA04066,Din Daeng,A006,Energy efficiency advisory,Efficiency Program,2025-03-14,4.9,1.51,1,
+EV001012,SA04067,Din Daeng,A003,Offer smart meter education,Customer Service,2025-01-19,2.9,2.01,0,5
+EV001013,SA04068,Din Daeng,A005,Billing explanation callback,Billing Service,2025-05-21,3.2,1.28,0,
+EV001014,SA04068,Din Daeng,A001,Send peak alert,Demand Response,2025-06-02,3.2,1.28,0,
+EV001015,SA04068,Din Daeng,A004,Dispatch voltage quality check,Power Quality,2025-06-05,3.2,1.28,0,
+EV001016,SA04068,Din Daeng,A002,Schedule preventive inspection,Asset Maintenance,2025-04-10,3.2,1.28,0,
+EV001017,SA04068,Din Daeng,A002,Schedule preventive inspection,Asset Maintenance,2025-05-31,3.2,1.28,0,
+EV001018,SA04068,Din Daeng,A006,Energy efficiency advisory,Efficiency Program,2025-01-17,3.2,1.28,0,
+EV001019,SA04069,Din Daeng,A002,Schedule preventive inspection,Asset Maintenance,2025-05-11,4.1,1.54,0,5
+EV001020,SA04069,Din Daeng,A005,Billing explanation callback,Billing Service,2025-03-13,4.1,1.54,0,
+EV001021,SA04069,Din Daeng,A005,Billing explanation callback,Billing Service,2025-04-27,4.1,1.54,1,
+EV001022,SA04069,Din Daeng,A003,Offer smart meter education,Customer Service,2025-04-11,4.1,1.54,0,
+EV001023,SA04070,Din Daeng,A006,Energy efficiency advisory,Efficiency Program,2025-03-18,4.5,1.52,0,
+EV001024,SA04070,Din Daeng,A001,Send peak alert,Demand Response,2025-05-06,4.5,1.52,0,
+EV001025,SA04070,Din Daeng,A003,Offer smart meter education,Customer Service,2025-06-02,4.5,1.52,0,
+EV001026,SA04070,Din Daeng,A005,Billing explanation callback,Billing Service,2025-04-01,4.5,1.52,1,
+EV001027,SA04070,Din Daeng,A005,Billing explanation callback,Billing Service,2025-01-02,4.5,1.52,0,
+EV001028,SA05001,Khlong Toei,A005,Billing explanation callback,Billing Service,2025-03-25,2.9,1.22,0,
+EV001029,SA05001,Khlong Toei,A006,Energy efficiency advisory,Efficiency Program,2025-05-10,2.9,1.22,1,
+EV001030,SA05001,Khlong Toei,A006,Energy efficiency advisory,Efficiency Program,2025-02-24,2.9,1.22,1,
+EV001031,SA05001,Khlong Toei,A001,Send peak alert,Demand Response,2025-02-27,2.9,1.22,0,3
+EV001032,SA05001,Khlong Toei,A002,Schedule preventive inspection,Asset Maintenance,2025-03-06,2.9,1.22,0,
+EV001033,SA05002,Khlong Toei,A002,Schedule preventive inspection,Asset Maintenance,2025-04-14,1,1.84,0,
+EV001034,SA05002,Khlong Toei,A006,Energy efficiency advisory,Efficiency Program,2025-03-07,1,1.84,0,
+EV001035,SA05002,Khlong Toei,A002,Schedule preventive inspection,Asset Maintenance,2025-01-20,1,1.84,0,
+EV001036,SA05002,Khlong Toei,A004,Dispatch voltage quality check,Power Quality,2025-04-23,1,1.84,1,
+EV001037,SA05002,Khlong Toei,A003,Offer smart meter education,Customer Service,2025-01-10,1,1.84,0,
+EV001038,SA05003,Khlong Toei,A005,Billing explanation callback,Billing Service,2025-02-08,0.9,1.6,0,
+EV001039,SA05003,Khlong Toei,A003,Offer smart meter education,Customer Service,2025-03-27,0.9,1.6,0,
+EV001040,SA05003,Khlong Toei,A003,Offer smart meter education,Customer Service,2025-04-02,0.9,1.6,0,
+EV001041,SA05003,Khlong Toei,A004,Dispatch voltage quality check,Power Quality,2025-03-01,0.9,1.6,0,4
+EV001042,SA05004,Khlong Toei,A006,Energy efficiency advisory,Efficiency Program,2025-03-07,1.2,1.81,0,
+EV001043,SA05005,Khlong Toei,A005,Billing explanation callback,Billing Service,2025-05-15,5.9,1.7,0,
+EV001044,SA05005,Khlong Toei,A005,Billing explanation callback,Billing Service,2025-01-04,5.9,1.7,0,
+EV001045,SA05005,Khlong Toei,A004,Dispatch voltage quality check,Power Quality,2025-02-08,5.9,1.7,0,
+EV001046,SA05005,Khlong Toei,A005,Billing explanation callback,Billing Service,2025-04-17,5.9,1.7,0,4
+EV001047,SA05006,Khlong Toei,A002,Schedule preventive inspection,Asset Maintenance,2025-04-15,0.8,1.34,0,
+EV001048,SA05006,Khlong Toei,A003,Offer smart meter education,Customer Service,2025-04-01,0.8,1.34,1,
+EV001049,SA05006,Khlong Toei,A003,Offer smart meter education,Customer Service,2025-02-26,0.8,1.34,0,
+EV001050,SA05006,Khlong Toei,A001,Send peak alert,Demand Response,2025-05-15,0.8,1.34,1,
+EV001051,SA05007,Khlong Toei,A001,Send peak alert,Demand Response,2025-04-21,5.2,1.35,1,
+EV001052,SA05007,Khlong Toei,A006,Energy efficiency advisory,Efficiency Program,2025-05-23,5.2,1.35,0,
+EV001053,SA05007,Khlong Toei,A001,Send peak alert,Demand Response,2025-03-11,5.2,1.35,1,
+EV001054,SA05007,Khlong Toei,A004,Dispatch voltage quality check,Power Quality,2025-04-11,5.2,1.35,1,4
+EV001055,SA05008,Khlong Toei,A002,Schedule preventive inspection,Asset Maintenance,2025-03-28,2.9,1.87,0,
+EV001056,SA05008,Khlong Toei,A002,Schedule preventive inspection,Asset Maintenance,2025-03-21,2.9,1.87,0,
+EV001057,SA05009,Khlong Toei,A002,Schedule preventive inspection,Asset Maintenance,2025-03-11,3.6,1.53,0,
+EV001058,SA05009,Khlong Toei,A001,Send peak alert,Demand Response,2025-03-26,3.6,1.53,0,5
+EV001059,SA05009,Khlong Toei,A001,Send peak alert,Demand Response,2025-01-12,3.6,1.53,0,
+EV001060,SA05009,Khlong Toei,A005,Billing explanation callback,Billing Service,2025-01-17,3.6,1.53,1,
+EV001061,SA05010,Khlong Toei,A003,Offer smart meter education,Customer Service,2025-01-23,2,1.95,0,
+EV001062,SA05011,Khlong Toei,A002,Schedule preventive inspection,Asset Maintenance,2025-01-03,5.1,1.54,1,
+EV001063,SA05011,Khlong Toei,A001,Send peak alert,Demand Response,2025-05-02,5.1,1.54,0,
+EV001064,SA05011,Khlong Toei,A006,Energy efficiency advisory,Efficiency Program,2025-02-07,5.1,1.54,0,4
+EV001065,SA05011,Khlong Toei,A002,Schedule preventive inspection,Asset Maintenance,2025-06-02,5.1,1.54,0,
+EV001066,SA05011,Khlong Toei,A003,Offer smart meter education,Customer Service,2025-03-11,5.1,1.54,0,
+EV001067,SA05011,Khlong Toei,A001,Send peak alert,Demand Response,2025-03-28,5.1,1.54,1,
+EV001068,SA05012,Khlong Toei,A003,Offer smart meter education,Customer Service,2025-01-08,5.1,1.49,0,
+EV001069,SA05013,Khlong Toei,A003,Offer smart meter education,Customer Service,2025-03-08,5.1,1.3,1,
+EV001070,SA05013,Khlong Toei,A001,Send peak alert,Demand Response,2025-02-27,5.1,1.3,1,
+EV001071,SA05014,Khlong Toei,A002,Schedule preventive inspection,Asset Maintenance,2025-03-12,1.6,1.74,0,
+EV001072,SA05014,Khlong Toei,A001,Send peak alert,Demand Response,2025-03-04,1.6,1.74,0,
+EV001073,SA05014,Khlong Toei,A004,Dispatch voltage quality check,Power Quality,2025-04-09,1.6,1.74,0,
+EV001074,SA05014,Khlong Toei,A003,Offer smart meter education,Customer Service,2025-02-23,1.6,1.74,0,4
+EV001075,SA05015,Khlong Toei,A001,Send peak alert,Demand Response,2025-05-14,4.9,1.54,0,
+EV001076,SA05015,Khlong Toei,A005,Billing explanation callback,Billing Service,2025-04-02,4.9,1.54,1,
+EV001077,SA05015,Khlong Toei,A002,Schedule preventive inspection,Asset Maintenance,2025-02-07,4.9,1.54,0,
+EV001078,SA05015,Khlong Toei,A004,Dispatch voltage quality check,Power Quality,2025-01-31,4.9,1.54,0,
+EV001079,SA05016,Khlong Toei,A002,Schedule preventive inspection,Asset Maintenance,2025-01-26,4.3,1.22,1,3
+EV001080,SA05016,Khlong Toei,A004,Dispatch voltage quality check,Power Quality,2025-03-21,4.3,1.22,1,5
+EV001081,SA05016,Khlong Toei,A004,Dispatch voltage quality check,Power Quality,2025-01-19,4.3,1.22,0,4
+EV001082,SA05017,Khlong Toei,A001,Send peak alert,Demand Response,2025-05-08,1.7,1.49,0,
+EV001083,SA05017,Khlong Toei,A003,Offer smart meter education,Customer Service,2025-03-08,1.7,1.49,0,
+EV001084,SA05017,Khlong Toei,A006,Energy efficiency advisory,Efficiency Program,2025-01-19,1.7,1.49,0,4
+EV001085,SA05018,Khlong Toei,A001,Send peak alert,Demand Response,2025-01-08,1.2,1.61,0,
+EV001086,SA05019,Khlong Toei,A002,Schedule preventive inspection,Asset Maintenance,2025-02-01,3.3,1.69,0,
+EV001087,SA05019,Khlong Toei,A003,Offer smart meter education,Customer Service,2025-01-23,3.3,1.69,0,
+EV001088,SA05019,Khlong Toei,A002,Schedule preventive inspection,Asset Maintenance,2025-03-06,3.3,1.69,0,
+EV001089,SA05020,Khlong Toei,A005,Billing explanation callback,Billing Service,2025-05-17,1.1,1.78,0,
+EV001090,SA05020,Khlong Toei,A003,Offer smart meter education,Customer Service,2025-03-26,1.1,1.78,0,
+EV001091,SA05021,Khlong Toei,A002,Schedule preventive inspection,Asset Maintenance,2025-05-08,1.3,1.05,0,4
+EV001092,SA05021,Khlong Toei,A005,Billing explanation callback,Billing Service,2025-04-10,1.3,1.05,1,
+EV001093,SA05021,Khlong Toei,A002,Schedule preventive inspection,Asset Maintenance,2025-05-31,1.3,1.05,0,
+EV001094,SA05021,Khlong Toei,A001,Send peak alert,Demand Response,2025-02-17,1.3,1.05,0,
+EV001095,SA05021,Khlong Toei,A001,Send peak alert,Demand Response,2025-01-02,1.3,1.05,0,
+EV001096,SA05022,Khlong Toei,A006,Energy efficiency advisory,Efficiency Program,2025-06-03,0.2,1.72,0,
+EV001097,SA05022,Khlong Toei,A006,Energy efficiency advisory,Efficiency Program,2025-04-07,0.2,1.72,0,
+EV001098,SA05023,Khlong Toei,A005,Billing explanation callback,Billing Service,2025-04-12,2.9,1.49,0,
+EV001099,SA05023,Khlong Toei,A003,Offer smart meter education,Customer Service,2025-02-20,2.9,1.49,0,
+EV001100,SA05023,Khlong Toei,A004,Dispatch voltage quality check,Power Quality,2025-03-20,2.9,1.49,0,
+EV001101,SA05023,Khlong Toei,A002,Schedule preventive inspection,Asset Maintenance,2025-05-13,2.9,1.49,1,
+EV001102,SA05023,Khlong Toei,A002,Schedule preventive inspection,Asset Maintenance,2025-04-13,2.9,1.49,0,
+EV001103,SA05024,Khlong Toei,A005,Billing explanation callback,Billing Service,2025-05-19,4.7,1.39,0,5
+EV001104,SA05024,Khlong Toei,A004,Dispatch voltage quality check,Power Quality,2025-03-31,4.7,1.39,0,
+EV001105,SA05024,Khlong Toei,A005,Billing explanation callback,Billing Service,2025-05-08,4.7,1.39,1,4
+EV001106,SA05025,Khlong Toei,A004,Dispatch voltage quality check,Power Quality,2025-04-14,4.7,1.89,1,
+EV001107,SA05025,Khlong Toei,A003,Offer smart meter education,Customer Service,2025-05-20,4.7,1.89,0,
+EV001108,SA05025,Khlong Toei,A004,Dispatch voltage quality check,Power Quality,2025-03-23,4.7,1.89,0,4
+EV001109,SA05026,Khlong Toei,A003,Offer smart meter education,Customer Service,2025-06-04,4.9,1.7,0,
+EV001110,SA05026,Khlong Toei,A006,Energy efficiency advisory,Efficiency Program,2025-01-24,4.9,1.7,1,
+EV001111,SA05026,Khlong Toei,A003,Offer smart meter education,Customer Service,2025-02-28,4.9,1.7,0,4
+EV001112,SA05026,Khlong Toei,A001,Send peak alert,Demand Response,2025-04-24,4.9,1.7,1,
+EV001113,SA05026,Khlong Toei,A002,Schedule preventive inspection,Asset Maintenance,2025-04-30,4.9,1.7,0,4
+EV001114,SA05026,Khlong Toei,A005,Billing explanation callback,Billing Service,2025-04-18,4.9,1.7,1,
+EV001115,SA05026,Khlong Toei,A006,Energy efficiency advisory,Efficiency Program,2025-04-05,4.9,1.7,1,
+EV001116,SA05027,Khlong Toei,A004,Dispatch voltage quality check,Power Quality,2025-05-29,3,1.78,0,
+EV001117,SA05027,Khlong Toei,A002,Schedule preventive inspection,Asset Maintenance,2025-02-27,3,1.78,0,5
+EV001118,SA05028,Khlong Toei,A003,Offer smart meter education,Customer Service,2025-05-24,1.2,1.68,0,
+EV001119,SA05028,Khlong Toei,A001,Send peak alert,Demand Response,2025-03-24,1.2,1.68,1,
+EV001120,SA05028,Khlong Toei,A006,Energy efficiency advisory,Efficiency Program,2025-03-05,1.2,1.68,0,3
+EV001121,SA05029,Khlong Toei,A001,Send peak alert,Demand Response,2025-02-05,4,1.64,0,
+EV001122,SA05029,Khlong Toei,A001,Send peak alert,Demand Response,2025-05-31,4,1.64,0,
+EV001123,SA05029,Khlong Toei,A003,Offer smart meter education,Customer Service,2025-01-16,4,1.64,0,
+EV001124,SA05030,Khlong Toei,A006,Energy efficiency advisory,Efficiency Program,2025-04-09,2.4,1.79,0,
+EV001125,SA05030,Khlong Toei,A006,Energy efficiency advisory,Efficiency Program,2025-03-29,2.4,1.79,1,
+EV001126,SA05030,Khlong Toei,A002,Schedule preventive inspection,Asset Maintenance,2025-01-02,2.4,1.79,0,
+EV001127,SA05030,Khlong Toei,A004,Dispatch voltage quality check,Power Quality,2025-03-18,2.4,1.79,0,
+EV001128,SA05031,Khlong Toei,A001,Send peak alert,Demand Response,2025-05-27,1.1,1.31,0,
+EV001129,SA05031,Khlong Toei,A005,Billing explanation callback,Billing Service,2025-02-02,1.1,1.31,1,
+EV001130,SA05031,Khlong Toei,A003,Offer smart meter education,Customer Service,2025-01-20,1.1,1.31,0,
+EV001131,SA05032,Khlong Toei,A004,Dispatch voltage quality check,Power Quality,2025-06-08,0.2,1.36,0,
+EV001132,SA05032,Khlong Toei,A006,Energy efficiency advisory,Efficiency Program,2025-05-18,0.2,1.36,0,
+EV001133,SA05032,Khlong Toei,A002,Schedule preventive inspection,Asset Maintenance,2025-02-07,0.2,1.36,0,
+EV001134,SA05033,Khlong Toei,A004,Dispatch voltage quality check,Power Quality,2025-05-17,1.7,1.33,0,
+EV001135,SA05033,Khlong Toei,A004,Dispatch voltage quality check,Power Quality,2025-03-19,1.7,1.33,0,
+EV001136,SA05033,Khlong Toei,A004,Dispatch voltage quality check,Power Quality,2025-04-08,1.7,1.33,0,
+EV001137,SA05034,Khlong Toei,A002,Schedule preventive inspection,Asset Maintenance,2025-05-04,3.3,1.48,0,
+EV001138,SA05034,Khlong Toei,A004,Dispatch voltage quality check,Power Quality,2025-05-15,3.3,1.48,0,5
+EV001139,SA05034,Khlong Toei,A003,Offer smart meter education,Customer Service,2025-03-17,3.3,1.48,1,
+EV001140,SA05035,Khlong Toei,A006,Energy efficiency advisory,Efficiency Program,2025-01-30,1.7,1.17,0,
+EV001141,SA05035,Khlong Toei,A004,Dispatch voltage quality check,Power Quality,2025-04-06,1.7,1.17,0,
+EV001142,SA05035,Khlong Toei,A005,Billing explanation callback,Billing Service,2025-04-05,1.7,1.17,0,5
+EV001143,SA05035,Khlong Toei,A005,Billing explanation callback,Billing Service,2025-03-21,1.7,1.17,0,4
+EV001144,SA05035,Khlong Toei,A006,Energy efficiency advisory,Efficiency Program,2025-02-24,1.7,1.17,0,4
+EV001145,SA05035,Khlong Toei,A005,Billing explanation callback,Billing Service,2025-05-19,1.7,1.17,0,
+EV001146,SA05036,Khlong Toei,A001,Send peak alert,Demand Response,2025-04-01,1.8,1.3,1,
+EV001147,SA05036,Khlong Toei,A003,Offer smart meter education,Customer Service,2025-03-04,1.8,1.3,0,
+EV001148,SA05036,Khlong Toei,A001,Send peak alert,Demand Response,2025-02-28,1.8,1.3,1,
+EV001149,SA05036,Khlong Toei,A002,Schedule preventive inspection,Asset Maintenance,2025-05-05,1.8,1.3,1,
+EV001150,SA05037,Khlong Toei,A001,Send peak alert,Demand Response,2025-03-02,2.9,1.58,0,
+EV001151,SA05037,Khlong Toei,A001,Send peak alert,Demand Response,2025-05-13,2.9,1.58,0,5
+EV001152,SA05037,Khlong Toei,A003,Offer smart meter education,Customer Service,2025-02-10,2.9,1.58,0,
+EV001153,SA05037,Khlong Toei,A004,Dispatch voltage quality check,Power Quality,2025-01-28,2.9,1.58,0,
+EV001154,SA05038,Khlong Toei,A002,Schedule preventive inspection,Asset Maintenance,2025-02-25,3.4,1.06,0,
+EV001155,SA05038,Khlong Toei,A002,Schedule preventive inspection,Asset Maintenance,2025-06-01,3.4,1.06,0,
+EV001156,SA05038,Khlong Toei,A002,Schedule preventive inspection,Asset Maintenance,2025-01-04,3.4,1.06,0,
+EV001157,SA05038,Khlong Toei,A005,Billing explanation callback,Billing Service,2025-04-01,3.4,1.06,0,
+EV001158,SA05038,Khlong Toei,A004,Dispatch voltage quality check,Power Quality,2025-01-12,3.4,1.06,0,
+EV001159,SA05038,Khlong Toei,A002,Schedule preventive inspection,Asset Maintenance,2025-05-23,3.4,1.06,0,
+EV001160,SA05039,Khlong Toei,A002,Schedule preventive inspection,Asset Maintenance,2025-02-16,1.6,1.53,0,
+EV001161,SA05039,Khlong Toei,A002,Schedule preventive inspection,Asset Maintenance,2025-05-07,1.6,1.53,0,4
+EV001162,SA05039,Khlong Toei,A001,Send peak alert,Demand Response,2025-02-11,1.6,1.53,0,4
+EV001163,SA05040,Khlong Toei,A006,Energy efficiency advisory,Efficiency Program,2025-02-01,1.5,1.13,1,
+EV001164,SA05040,Khlong Toei,A005,Billing explanation callback,Billing Service,2025-04-06,1.5,1.13,1,
+EV001165,SA05040,Khlong Toei,A004,Dispatch voltage quality check,Power Quality,2025-06-01,1.5,1.13,1,
+EV001166,SA05040,Khlong Toei,A001,Send peak alert,Demand Response,2025-03-23,1.5,1.13,0,5
+EV001167,SA05041,Khlong Toei,A005,Billing explanation callback,Billing Service,2025-03-20,5.3,1.88,1,
+EV001168,SA05041,Khlong Toei,A006,Energy efficiency advisory,Efficiency Program,2025-03-15,5.3,1.88,0,
+EV001169,SA05041,Khlong Toei,A004,Dispatch voltage quality check,Power Quality,2025-03-17,5.3,1.88,1,4
+EV001170,SA05041,Khlong Toei,A004,Dispatch voltage quality check,Power Quality,2025-02-12,5.3,1.88,0,
+EV001171,SA05041,Khlong Toei,A003,Offer smart meter education,Customer Service,2025-05-15,5.3,1.88,1,4
+EV001172,SA05041,Khlong Toei,A001,Send peak alert,Demand Response,2025-01-02,5.3,1.88,0,
+EV001173,SA05041,Khlong Toei,A003,Offer smart meter education,Customer Service,2025-06-01,5.3,1.88,1,
+EV001174,SA05042,Khlong Toei,A006,Energy efficiency advisory,Efficiency Program,2025-02-26,2.3,2.21,0,
+EV001175,SA05042,Khlong Toei,A004,Dispatch voltage quality check,Power Quality,2025-03-06,2.3,2.21,0,
+EV001176,SA05042,Khlong Toei,A002,Schedule preventive inspection,Asset Maintenance,2025-01-14,2.3,2.21,0,
+EV001177,SA05042,Khlong Toei,A003,Offer smart meter education,Customer Service,2025-04-01,2.3,2.21,0,
+EV001178,SA05042,Khlong Toei,A001,Send peak alert,Demand Response,2025-04-30,2.3,2.21,0,
+EV001179,SA05043,Khlong Toei,A005,Billing explanation callback,Billing Service,2025-04-07,2,1.61,0,
+EV001180,SA05044,Khlong Toei,A001,Send peak alert,Demand Response,2025-01-26,1.9,1.97,0,4
+EV001181,SA05044,Khlong Toei,A005,Billing explanation callback,Billing Service,2025-03-21,1.9,1.97,1,
+EV001182,SA05045,Khlong Toei,A006,Energy efficiency advisory,Efficiency Program,2025-04-07,2.9,1.39,0,
+EV001183,SA05045,Khlong Toei,A004,Dispatch voltage quality check,Power Quality,2025-03-24,2.9,1.39,0,
+EV001184,SA05045,Khlong Toei,A003,Offer smart meter education,Customer Service,2025-04-07,2.9,1.39,0,4
+EV001185,SA05045,Khlong Toei,A006,Energy efficiency advisory,Efficiency Program,2025-02-21,2.9,1.39,1,
+EV001186,SA05045,Khlong Toei,A003,Offer smart meter education,Customer Service,2025-06-06,2.9,1.39,0,
+EV001187,SA05046,Khlong Toei,A005,Billing explanation callback,Billing Service,2025-01-29,3.2,1.4,0,
+EV001188,SA05046,Khlong Toei,A004,Dispatch voltage quality check,Power Quality,2025-02-09,3.2,1.4,0,
+EV001189,SA05046,Khlong Toei,A006,Energy efficiency advisory,Efficiency Program,2025-01-23,3.2,1.4,1,
+EV001190,SA05046,Khlong Toei,A004,Dispatch voltage quality check,Power Quality,2025-02-15,3.2,1.4,0,
+EV001191,SA05046,Khlong Toei,A002,Schedule preventive inspection,Asset Maintenance,2025-06-07,3.2,1.4,0,
+EV001192,SA05046,Khlong Toei,A004,Dispatch voltage quality check,Power Quality,2025-02-02,3.2,1.4,0,
+EV001193,SA05047,Khlong Toei,A002,Schedule preventive inspection,Asset Maintenance,2025-01-22,2.1,1.39,1,
+EV001194,SA05047,Khlong Toei,A006,Energy efficiency advisory,Efficiency Program,2025-04-14,2.1,1.39,0,4
+EV001195,SA05047,Khlong Toei,A004,Dispatch voltage quality check,Power Quality,2025-03-04,2.1,1.39,0,
+EV001196,SA05048,Khlong Toei,A003,Offer smart meter education,Customer Service,2025-03-08,5,1.46,0,4
+EV001197,SA05048,Khlong Toei,A006,Energy efficiency advisory,Efficiency Program,2025-05-15,5,1.46,0,
+EV001198,SA05048,Khlong Toei,A006,Energy efficiency advisory,Efficiency Program,2025-05-06,5,1.46,1,
+EV001199,SA05048,Khlong Toei,A003,Offer smart meter education,Customer Service,2025-02-08,5,1.46,0,
+EV001200,SA05048,Khlong Toei,A004,Dispatch voltage quality check,Power Quality,2025-01-10,5,1.46,1,
+EV001201,SA05049,Khlong Toei,A002,Schedule preventive inspection,Asset Maintenance,2025-01-09,2.8,1.64,1,
+EV001202,SA05049,Khlong Toei,A005,Billing explanation callback,Billing Service,2025-04-04,2.8,1.64,1,
+EV001203,SA05049,Khlong Toei,A003,Offer smart meter education,Customer Service,2025-06-03,2.8,1.64,0,
+EV001204,SA05049,Khlong Toei,A006,Energy efficiency advisory,Efficiency Program,2025-02-09,2.8,1.64,1,
+EV001205,SA05050,Khlong Toei,A005,Billing explanation callback,Billing Service,2025-04-22,4.9,2.21,1,
+EV001206,SA05050,Khlong Toei,A004,Dispatch voltage quality check,Power Quality,2025-03-07,4.9,2.21,1,
+EV001207,SA05050,Khlong Toei,A002,Schedule preventive inspection,Asset Maintenance,2025-04-25,4.9,2.21,0,
+EV001208,SA05050,Khlong Toei,A006,Energy efficiency advisory,Efficiency Program,2025-03-27,4.9,2.21,0,
+EV001209,SA05051,Khlong Toei,A003,Offer smart meter education,Customer Service,2025-06-05,2.4,2.04,0,
+EV001210,SA05052,Khlong Toei,A001,Send peak alert,Demand Response,2025-01-27,3.8,1.61,0,
+EV001211,SA05052,Khlong Toei,A005,Billing explanation callback,Billing Service,2025-05-05,3.8,1.61,0,
+EV001212,SA05052,Khlong Toei,A001,Send peak alert,Demand Response,2025-01-18,3.8,1.61,0,
+EV001213,SA05052,Khlong Toei,A006,Energy efficiency advisory,Efficiency Program,2025-02-24,3.8,1.61,0,5
+EV001214,SA05052,Khlong Toei,A005,Billing explanation callback,Billing Service,2025-02-13,3.8,1.61,1,5
+EV001215,SA05053,Khlong Toei,A006,Energy efficiency advisory,Efficiency Program,2025-01-29,3.1,1.05,0,
+EV001216,SA05053,Khlong Toei,A006,Energy efficiency advisory,Efficiency Program,2025-06-06,3.1,1.05,1,
+EV001217,SA05053,Khlong Toei,A006,Energy efficiency advisory,Efficiency Program,2025-04-22,3.1,1.05,0,
+EV001218,SA05054,Khlong Toei,A006,Energy efficiency advisory,Efficiency Program,2025-05-16,4.4,1.65,1,
+EV001219,SA05054,Khlong Toei,A002,Schedule preventive inspection,Asset Maintenance,2025-02-22,4.4,1.65,0,
+EV001220,SA05055,Khlong Toei,A004,Dispatch voltage quality check,Power Quality,2025-02-01,2.7,1.77,0,
+EV001221,SA05055,Khlong Toei,A003,Offer smart meter education,Customer Service,2025-03-15,2.7,1.77,1,
+EV001222,SA05055,Khlong Toei,A002,Schedule preventive inspection,Asset Maintenance,2025-06-02,2.7,1.77,0,4
+EV001223,SA05055,Khlong Toei,A006,Energy efficiency advisory,Efficiency Program,2025-04-28,2.7,1.77,0,5
+EV001224,SA05056,Khlong Toei,A005,Billing explanation callback,Billing Service,2025-03-01,0.6,1.63,1,
+EV001225,SA05056,Khlong Toei,A001,Send peak alert,Demand Response,2025-03-30,0.6,1.63,0,
+EV001226,SA05056,Khlong Toei,A002,Schedule preventive inspection,Asset Maintenance,2025-02-25,0.6,1.63,0,
+EV001227,SA05056,Khlong Toei,A002,Schedule preventive inspection,Asset Maintenance,2025-02-06,0.6,1.63,0,
+EV001228,SA05057,Khlong Toei,A002,Schedule preventive inspection,Asset Maintenance,2025-02-20,2.2,1.19,0,
+EV001229,SA05057,Khlong Toei,A004,Dispatch voltage quality check,Power Quality,2025-01-27,2.2,1.19,0,
+EV001230,SA05058,Khlong Toei,A001,Send peak alert,Demand Response,2025-01-30,5.7,1.38,0,
+EV001231,SA05058,Khlong Toei,A002,Schedule preventive inspection,Asset Maintenance,2025-05-05,5.7,1.38,0,
+EV001232,SA05058,Khlong Toei,A002,Schedule preventive inspection,Asset Maintenance,2025-01-15,5.7,1.38,0,
+EV001233,SA05059,Khlong Toei,A006,Energy efficiency advisory,Efficiency Program,2025-01-07,4.1,1.26,1,
+EV001234,SA05059,Khlong Toei,A002,Schedule preventive inspection,Asset Maintenance,2025-03-26,4.1,1.26,0,
+EV001235,SA05059,Khlong Toei,A003,Offer smart meter education,Customer Service,2025-03-27,4.1,1.26,1,3
+EV001236,SA05060,Khlong Toei,A004,Dispatch voltage quality check,Power Quality,2025-02-25,7.4,1.43,1,
+EV001237,SA05060,Khlong Toei,A005,Billing explanation callback,Billing Service,2025-01-02,7.4,1.43,1,
+EV001238,SA05061,Khlong Toei,A005,Billing explanation callback,Billing Service,2025-05-23,0.6,1.13,0,
+EV001239,SA05061,Khlong Toei,A006,Energy efficiency advisory,Efficiency Program,2025-05-16,0.6,1.13,1,
+EV001240,SA05061,Khlong Toei,A001,Send peak alert,Demand Response,2025-04-02,0.6,1.13,0,
+EV001241,SA05062,Khlong Toei,A004,Dispatch voltage quality check,Power Quality,2025-01-25,3.9,1.25,1,
+EV001242,SA05063,Khlong Toei,A004,Dispatch voltage quality check,Power Quality,2025-02-03,1.3,1.59,0,4
+EV001243,SA05063,Khlong Toei,A004,Dispatch voltage quality check,Power Quality,2025-01-31,1.3,1.59,0,
+EV001244,SA05063,Khlong Toei,A006,Energy efficiency advisory,Efficiency Program,2025-05-11,1.3,1.59,0,
+EV001245,SA05063,Khlong Toei,A002,Schedule preventive inspection,Asset Maintenance,2025-01-02,1.3,1.59,0,
+EV001246,SA05063,Khlong Toei,A002,Schedule preventive inspection,Asset Maintenance,2025-01-27,1.3,1.59,1,
+EV001247,SA05063,Khlong Toei,A002,Schedule preventive inspection,Asset Maintenance,2025-02-24,1.3,1.59,0,
+EV001248,SA05064,Khlong Toei,A004,Dispatch voltage quality check,Power Quality,2025-02-16,1.9,1.51,0,4
+EV001249,SA05064,Khlong Toei,A001,Send peak alert,Demand Response,2025-04-05,1.9,1.51,0,
+EV001250,SA05064,Khlong Toei,A005,Billing explanation callback,Billing Service,2025-03-11,1.9,1.51,1,
+EV001251,SA05064,Khlong Toei,A002,Schedule preventive inspection,Asset Maintenance,2025-01-30,1.9,1.51,0,
+EV001252,SA05064,Khlong Toei,A002,Schedule preventive inspection,Asset Maintenance,2025-05-18,1.9,1.51,0,
+EV001253,SA05065,Khlong Toei,A006,Energy efficiency advisory,Efficiency Program,2025-05-03,0.2,1.21,0,4
+EV001254,SA05065,Khlong Toei,A001,Send peak alert,Demand Response,2025-01-16,0.2,1.21,0,4
+EV001255,SA05065,Khlong Toei,A006,Energy efficiency advisory,Efficiency Program,2025-02-11,0.2,1.21,0,
+EV001256,SA05065,Khlong Toei,A006,Energy efficiency advisory,Efficiency Program,2025-03-29,0.2,1.21,0,
+EV001257,SA05066,Khlong Toei,A004,Dispatch voltage quality check,Power Quality,2025-04-06,0.2,1.66,1,
+EV001258,SA05066,Khlong Toei,A004,Dispatch voltage quality check,Power Quality,2025-02-14,0.2,1.66,0,
+EV001259,SA05066,Khlong Toei,A002,Schedule preventive inspection,Asset Maintenance,2025-01-15,0.2,1.66,0,
+EV001260,SA05067,Khlong Toei,A002,Schedule preventive inspection,Asset Maintenance,2025-04-15,4.4,1.05,0,
+EV001261,SA05067,Khlong Toei,A005,Billing explanation callback,Billing Service,2025-04-26,4.4,1.05,1,
+EV001262,SA05067,Khlong Toei,A006,Energy efficiency advisory,Efficiency Program,2025-04-22,4.4,1.05,0,
+EV001263,SA05068,Khlong Toei,A001,Send peak alert,Demand Response,2025-05-20,0.2,1.46,0,
+EV001264,SA05068,Khlong Toei,A002,Schedule preventive inspection,Asset Maintenance,2025-02-14,0.2,1.46,0,4
+EV001265,SA05068,Khlong Toei,A001,Send peak alert,Demand Response,2025-05-30,0.2,1.46,1,
+EV001266,SA05068,Khlong Toei,A004,Dispatch voltage quality check,Power Quality,2025-04-08,0.2,1.46,0,
+EV001267,SA05069,Khlong Toei,A002,Schedule preventive inspection,Asset Maintenance,2025-05-09,1.9,1.74,1,3
+EV001268,SA05069,Khlong Toei,A006,Energy efficiency advisory,Efficiency Program,2025-05-14,1.9,1.74,0,5
+EV001269,SA05069,Khlong Toei,A003,Offer smart meter education,Customer Service,2025-06-08,1.9,1.74,1,4
+EV001270,SA05069,Khlong Toei,A003,Offer smart meter education,Customer Service,2025-06-06,1.9,1.74,1,
+EV001271,SA05069,Khlong Toei,A004,Dispatch voltage quality check,Power Quality,2025-04-12,1.9,1.74,0,
+EV001272,SA05070,Khlong Toei,A003,Offer smart meter education,Customer Service,2025-06-08,1.7,2,0,
+EV001273,SA05070,Khlong Toei,A003,Offer smart meter education,Customer Service,2025-05-20,1.7,2,1,
+EV001274,SA05070,Khlong Toei,A004,Dispatch voltage quality check,Power Quality,2025-04-03,1.7,2,0,
+EV001275,SA05070,Khlong Toei,A002,Schedule preventive inspection,Asset Maintenance,2025-04-11,1.7,2,0,
+EV001276,SA05070,Khlong Toei,A005,Billing explanation callback,Billing Service,2025-01-05,1.7,2,1,
+EV001277,SA06001,Lat Phrao,A001,Send peak alert,Demand Response,2025-03-18,3.3,1.87,0,
+EV001278,SA06001,Lat Phrao,A005,Billing explanation callback,Billing Service,2025-05-11,3.3,1.87,0,4
+EV001279,SA06002,Lat Phrao,A004,Dispatch voltage quality check,Power Quality,2025-04-26,1.9,1.64,0,4
+EV001280,SA06002,Lat Phrao,A005,Billing explanation callback,Billing Service,2025-02-21,1.9,1.64,0,
+EV001281,SA06002,Lat Phrao,A001,Send peak alert,Demand Response,2025-04-09,1.9,1.64,1,
+EV001282,SA06002,Lat Phrao,A003,Offer smart meter education,Customer Service,2025-06-06,1.9,1.64,0,
+EV001283,SA06002,Lat Phrao,A002,Schedule preventive inspection,Asset Maintenance,2025-01-25,1.9,1.64,0,
+EV001284,SA06002,Lat Phrao,A002,Schedule preventive inspection,Asset Maintenance,2025-05-03,1.9,1.64,0,
+EV001285,SA06003,Lat Phrao,A002,Schedule preventive inspection,Asset Maintenance,2025-02-28,1.5,1.72,0,
+EV001286,SA06003,Lat Phrao,A005,Billing explanation callback,Billing Service,2025-01-17,1.5,1.72,0,4
+EV001287,SA06003,Lat Phrao,A001,Send peak alert,Demand Response,2025-02-16,1.5,1.72,1,
+EV001288,SA06004,Lat Phrao,A004,Dispatch voltage quality check,Power Quality,2025-02-24,2.2,1.62,0,
+EV001289,SA06004,Lat Phrao,A005,Billing explanation callback,Billing Service,2025-01-04,2.2,1.62,0,
+EV001290,SA06004,Lat Phrao,A005,Billing explanation callback,Billing Service,2025-03-05,2.2,1.62,0,4
+EV001291,SA06005,Lat Phrao,A005,Billing explanation callback,Billing Service,2025-04-11,2.6,1.35,1,4
+EV001292,SA06005,Lat Phrao,A006,Energy efficiency advisory,Efficiency Program,2025-03-03,2.6,1.35,0,3
+EV001293,SA06006,Lat Phrao,A004,Dispatch voltage quality check,Power Quality,2025-04-30,2.1,1.1,1,
+EV001294,SA06006,Lat Phrao,A003,Offer smart meter education,Customer Service,2025-04-24,2.1,1.1,0,
+EV001295,SA06006,Lat Phrao,A004,Dispatch voltage quality check,Power Quality,2025-01-20,2.1,1.1,0,
+EV001296,SA06006,Lat Phrao,A005,Billing explanation callback,Billing Service,2025-06-02,2.1,1.1,1,
+EV001297,SA06006,Lat Phrao,A002,Schedule preventive inspection,Asset Maintenance,2025-03-01,2.1,1.1,0,4
+EV001298,SA06007,Lat Phrao,A004,Dispatch voltage quality check,Power Quality,2025-05-22,5.8,1.77,0,4
+EV001299,SA06007,Lat Phrao,A001,Send peak alert,Demand Response,2025-03-04,5.8,1.77,1,
+EV001300,SA06007,Lat Phrao,A006,Energy efficiency advisory,Efficiency Program,2025-03-29,5.8,1.77,0,
+EV001301,SA06007,Lat Phrao,A002,Schedule preventive inspection,Asset Maintenance,2025-05-04,5.8,1.77,0,
+EV001302,SA06007,Lat Phrao,A001,Send peak alert,Demand Response,2025-02-06,5.8,1.77,0,
+EV001303,SA06007,Lat Phrao,A004,Dispatch voltage quality check,Power Quality,2025-03-03,5.8,1.77,1,
+EV001304,SA06008,Lat Phrao,A003,Offer smart meter education,Customer Service,2025-01-07,3.2,1.8,1,
+EV001305,SA06008,Lat Phrao,A004,Dispatch voltage quality check,Power Quality,2025-05-13,3.2,1.8,1,
+EV001306,SA06008,Lat Phrao,A002,Schedule preventive inspection,Asset Maintenance,2025-01-07,3.2,1.8,1,
+EV001307,SA06009,Lat Phrao,A001,Send peak alert,Demand Response,2025-04-15,1.8,1.57,0,
+EV001308,SA06009,Lat Phrao,A004,Dispatch voltage quality check,Power Quality,2025-05-16,1.8,1.57,1,4
+EV001309,SA06009,Lat Phrao,A003,Offer smart meter education,Customer Service,2025-05-15,1.8,1.57,1,
+EV001310,SA06009,Lat Phrao,A003,Offer smart meter education,Customer Service,2025-03-17,1.8,1.57,0,5
+EV001311,SA06009,Lat Phrao,A002,Schedule preventive inspection,Asset Maintenance,2025-01-11,1.8,1.57,1,
+EV001312,SA06010,Lat Phrao,A004,Dispatch voltage quality check,Power Quality,2025-06-06,3.7,2.01,0,
+EV001313,SA06010,Lat Phrao,A004,Dispatch voltage quality check,Power Quality,2025-03-27,3.7,2.01,1,
+EV001314,SA06010,Lat Phrao,A004,Dispatch voltage quality check,Power Quality,2025-04-08,3.7,2.01,0,
+EV001315,SA06010,Lat Phrao,A004,Dispatch voltage quality check,Power Quality,2025-05-12,3.7,2.01,0,
+EV001316,SA06010,Lat Phrao,A003,Offer smart meter education,Customer Service,2025-04-21,3.7,2.01,0,
+EV001317,SA06011,Lat Phrao,A005,Billing explanation callback,Billing Service,2025-06-02,1.9,1.14,1,
+EV001318,SA06011,Lat Phrao,A002,Schedule preventive inspection,Asset Maintenance,2025-05-16,1.9,1.14,0,5
+EV001319,SA06011,Lat Phrao,A006,Energy efficiency advisory,Efficiency Program,2025-05-01,1.9,1.14,0,
+EV001320,SA06011,Lat Phrao,A004,Dispatch voltage quality check,Power Quality,2025-05-03,1.9,1.14,0,
+EV001321,SA06011,Lat Phrao,A004,Dispatch voltage quality check,Power Quality,2025-06-04,1.9,1.14,0,
+EV001322,SA06011,Lat Phrao,A002,Schedule preventive inspection,Asset Maintenance,2025-05-06,1.9,1.14,0,
+EV001323,SA06011,Lat Phrao,A006,Energy efficiency advisory,Efficiency Program,2025-03-26,1.9,1.14,0,
+EV001324,SA06012,Lat Phrao,A002,Schedule preventive inspection,Asset Maintenance,2025-01-09,4,2.04,1,2
+EV001325,SA06012,Lat Phrao,A004,Dispatch voltage quality check,Power Quality,2025-02-15,4,2.04,0,5
+EV001326,SA06013,Lat Phrao,A004,Dispatch voltage quality check,Power Quality,2025-03-17,6.7,1.45,0,3
+EV001327,SA06014,Lat Phrao,A004,Dispatch voltage quality check,Power Quality,2025-05-16,0.2,1.45,0,
+EV001328,SA06014,Lat Phrao,A005,Billing explanation callback,Billing Service,2025-01-06,0.2,1.45,0,
+EV001329,SA06014,Lat Phrao,A001,Send peak alert,Demand Response,2025-02-18,0.2,1.45,0,
+EV001330,SA06014,Lat Phrao,A001,Send peak alert,Demand Response,2025-01-29,0.2,1.45,0,4
+EV001331,SA06014,Lat Phrao,A003,Offer smart meter education,Customer Service,2025-02-23,0.2,1.45,1,5
+EV001332,SA06014,Lat Phrao,A004,Dispatch voltage quality check,Power Quality,2025-02-15,0.2,1.45,0,4
+EV001333,SA06015,Lat Phrao,A002,Schedule preventive inspection,Asset Maintenance,2025-01-26,3.3,1.61,0,
+EV001334,SA06015,Lat Phrao,A001,Send peak alert,Demand Response,2025-03-04,3.3,1.61,1,
+EV001335,SA06015,Lat Phrao,A003,Offer smart meter education,Customer Service,2025-05-12,3.3,1.61,0,
+EV001336,SA06015,Lat Phrao,A006,Energy efficiency advisory,Efficiency Program,2025-01-09,3.3,1.61,0,
+EV001337,SA06015,Lat Phrao,A002,Schedule preventive inspection,Asset Maintenance,2025-04-28,3.3,1.61,0,
+EV001338,SA06015,Lat Phrao,A001,Send peak alert,Demand Response,2025-03-06,3.3,1.61,1,3
+EV001339,SA06015,Lat Phrao,A006,Energy efficiency advisory,Efficiency Program,2025-03-15,3.3,1.61,1,
+EV001340,SA06016,Lat Phrao,A003,Offer smart meter education,Customer Service,2025-01-23,1.2,1.4,0,
+EV001341,SA06016,Lat Phrao,A002,Schedule preventive inspection,Asset Maintenance,2025-02-19,1.2,1.4,0,4
+EV001342,SA06017,Lat Phrao,A006,Energy efficiency advisory,Efficiency Program,2025-01-24,3.2,1.49,0,
+EV001343,SA06017,Lat Phrao,A001,Send peak alert,Demand Response,2025-03-04,3.2,1.49,0,
+EV001344,SA06017,Lat Phrao,A004,Dispatch voltage quality check,Power Quality,2025-03-04,3.2,1.49,0,
+EV001345,SA06017,Lat Phrao,A004,Dispatch voltage quality check,Power Quality,2025-04-13,3.2,1.49,0,3
+EV001346,SA06017,Lat Phrao,A002,Schedule preventive inspection,Asset Maintenance,2025-03-16,3.2,1.49,0,
+EV001347,SA06018,Lat Phrao,A003,Offer smart meter education,Customer Service,2025-01-04,4.3,1.05,0,4
+EV001348,SA06018,Lat Phrao,A002,Schedule preventive inspection,Asset Maintenance,2025-01-04,4.3,1.05,0,
+EV001349,SA06018,Lat Phrao,A006,Energy efficiency advisory,Efficiency Program,2025-03-23,4.3,1.05,0,
+EV001350,SA06018,Lat Phrao,A006,Energy efficiency advisory,Efficiency Program,2025-04-27,4.3,1.05,0,
+EV001351,SA06018,Lat Phrao,A005,Billing explanation callback,Billing Service,2025-05-27,4.3,1.05,0,
+EV001352,SA06019,Lat Phrao,A005,Billing explanation callback,Billing Service,2025-01-04,3.8,1.14,1,
+EV001353,SA06020,Lat Phrao,A001,Send peak alert,Demand Response,2025-04-16,3.1,1.83,0,
+EV001354,SA06020,Lat Phrao,A006,Energy efficiency advisory,Efficiency Program,2025-01-27,3.1,1.83,0,
+EV001355,SA06020,Lat Phrao,A001,Send peak alert,Demand Response,2025-03-01,3.1,1.83,0,
+EV001356,SA06020,Lat Phrao,A001,Send peak alert,Demand Response,2025-02-21,3.1,1.83,0,
+EV001357,SA06021,Lat Phrao,A004,Dispatch voltage quality check,Power Quality,2025-04-16,5.8,1.42,0,
+EV001358,SA06021,Lat Phrao,A001,Send peak alert,Demand Response,2025-02-13,5.8,1.42,1,
+EV001359,SA06021,Lat Phrao,A003,Offer smart meter education,Customer Service,2025-05-08,5.8,1.42,0,
+EV001360,SA06021,Lat Phrao,A006,Energy efficiency advisory,Efficiency Program,2025-01-21,5.8,1.42,0,
+EV001361,SA06021,Lat Phrao,A001,Send peak alert,Demand Response,2025-02-16,5.8,1.42,1,
+EV001362,SA06022,Lat Phrao,A001,Send peak alert,Demand Response,2025-01-18,4.3,1.61,0,
+EV001363,SA06022,Lat Phrao,A006,Energy efficiency advisory,Efficiency Program,2025-02-12,4.3,1.61,0,
+EV001364,SA06023,Lat Phrao,A006,Energy efficiency advisory,Efficiency Program,2025-06-01,2.1,1.39,0,5
+EV001365,SA06024,Lat Phrao,A003,Offer smart meter education,Customer Service,2025-05-30,3.5,1.19,0,
+EV001366,SA06024,Lat Phrao,A002,Schedule preventive inspection,Asset Maintenance,2025-01-27,3.5,1.19,1,
+EV001367,SA06024,Lat Phrao,A005,Billing explanation callback,Billing Service,2025-05-21,3.5,1.19,0,
+EV001368,SA06025,Lat Phrao,A003,Offer smart meter education,Customer Service,2025-05-08,4.9,1.25,0,3
+EV001369,SA06025,Lat Phrao,A001,Send peak alert,Demand Response,2025-02-21,4.9,1.25,0,
+EV001370,SA06025,Lat Phrao,A004,Dispatch voltage quality check,Power Quality,2025-05-20,4.9,1.25,0,
+EV001371,SA06025,Lat Phrao,A004,Dispatch voltage quality check,Power Quality,2025-05-19,4.9,1.25,0,
+EV001372,SA06026,Lat Phrao,A003,Offer smart meter education,Customer Service,2025-03-19,1.2,1.92,1,
+EV001373,SA06026,Lat Phrao,A003,Offer smart meter education,Customer Service,2025-04-25,1.2,1.92,1,
+EV001374,SA06027,Lat Phrao,A001,Send peak alert,Demand Response,2025-03-16,4.3,1.5,0,
+EV001375,SA06028,Lat Phrao,A005,Billing explanation callback,Billing Service,2025-04-18,0.2,1.85,1,
+EV001376,SA06028,Lat Phrao,A001,Send peak alert,Demand Response,2025-03-24,0.2,1.85,1,
+EV001377,SA06028,Lat Phrao,A006,Energy efficiency advisory,Efficiency Program,2025-01-15,0.2,1.85,0,
+EV001378,SA06028,Lat Phrao,A004,Dispatch voltage quality check,Power Quality,2025-01-31,0.2,1.85,1,3
+EV001379,SA06028,Lat Phrao,A006,Energy efficiency advisory,Efficiency Program,2025-02-23,0.2,1.85,0,
+EV001380,SA06029,Lat Phrao,A002,Schedule preventive inspection,Asset Maintenance,2025-05-04,3.4,1.07,0,
+EV001381,SA06030,Lat Phrao,A004,Dispatch voltage quality check,Power Quality,2025-03-31,1.5,1.21,0,
+EV001382,SA06030,Lat Phrao,A001,Send peak alert,Demand Response,2025-04-27,1.5,1.21,1,
+EV001383,SA06030,Lat Phrao,A002,Schedule preventive inspection,Asset Maintenance,2025-02-22,1.5,1.21,0,
+EV001384,SA06030,Lat Phrao,A002,Schedule preventive inspection,Asset Maintenance,2025-02-28,1.5,1.21,0,
+EV001385,SA06031,Lat Phrao,A006,Energy efficiency advisory,Efficiency Program,2025-06-06,5.3,1.13,0,
+EV001386,SA06031,Lat Phrao,A002,Schedule preventive inspection,Asset Maintenance,2025-03-15,5.3,1.13,0,
+EV001387,SA06031,Lat Phrao,A006,Energy efficiency advisory,Efficiency Program,2025-03-08,5.3,1.13,1,
+EV001388,SA06031,Lat Phrao,A001,Send peak alert,Demand Response,2025-01-08,5.3,1.13,0,
+EV001389,SA06031,Lat Phrao,A003,Offer smart meter education,Customer Service,2025-03-06,5.3,1.13,0,
+EV001390,SA06032,Lat Phrao,A004,Dispatch voltage quality check,Power Quality,2025-06-09,4.4,1.1,1,4
+EV001391,SA06032,Lat Phrao,A005,Billing explanation callback,Billing Service,2025-05-12,4.4,1.1,0,
+EV001392,SA06032,Lat Phrao,A005,Billing explanation callback,Billing Service,2025-01-13,4.4,1.1,0,
+EV001393,SA06032,Lat Phrao,A003,Offer smart meter education,Customer Service,2025-06-07,4.4,1.1,0,
+EV001394,SA06033,Lat Phrao,A004,Dispatch voltage quality check,Power Quality,2025-01-21,1.1,1.33,0,
+EV001395,SA06033,Lat Phrao,A005,Billing explanation callback,Billing Service,2025-05-03,1.1,1.33,0,
+EV001396,SA06033,Lat Phrao,A002,Schedule preventive inspection,Asset Maintenance,2025-02-05,1.1,1.33,0,
+EV001397,SA06033,Lat Phrao,A003,Offer smart meter education,Customer Service,2025-04-03,1.1,1.33,0,
+EV001398,SA06033,Lat Phrao,A006,Energy efficiency advisory,Efficiency Program,2025-06-03,1.1,1.33,1,3
+EV001399,SA06033,Lat Phrao,A006,Energy efficiency advisory,Efficiency Program,2025-03-28,1.1,1.33,0,
+EV001400,SA06034,Lat Phrao,A002,Schedule preventive inspection,Asset Maintenance,2025-02-14,5.5,1.9,0,
+EV001401,SA06034,Lat Phrao,A005,Billing explanation callback,Billing Service,2025-01-12,5.5,1.9,1,
+EV001402,SA06034,Lat Phrao,A005,Billing explanation callback,Billing Service,2025-03-02,5.5,1.9,0,
+EV001403,SA06035,Lat Phrao,A006,Energy efficiency advisory,Efficiency Program,2025-01-19,3.3,1.53,1,
+EV001404,SA06035,Lat Phrao,A003,Offer smart meter education,Customer Service,2025-05-08,3.3,1.53,0,
+EV001405,SA06035,Lat Phrao,A004,Dispatch voltage quality check,Power Quality,2025-04-01,3.3,1.53,1,
+EV001406,SA06036,Lat Phrao,A006,Energy efficiency advisory,Efficiency Program,2025-03-15,5.1,1.09,0,
+EV001407,SA06036,Lat Phrao,A005,Billing explanation callback,Billing Service,2025-02-16,5.1,1.09,1,
+EV001408,SA06036,Lat Phrao,A005,Billing explanation callback,Billing Service,2025-05-25,5.1,1.09,0,
+EV001409,SA06036,Lat Phrao,A005,Billing explanation callback,Billing Service,2025-01-12,5.1,1.09,1,
+EV001410,SA06037,Lat Phrao,A002,Schedule preventive inspection,Asset Maintenance,2025-05-30,2.7,1.1,0,
+EV001411,SA06037,Lat Phrao,A006,Energy efficiency advisory,Efficiency Program,2025-01-09,2.7,1.1,1,3
+EV001412,SA06037,Lat Phrao,A006,Energy efficiency advisory,Efficiency Program,2025-04-06,2.7,1.1,0,
+EV001413,SA06037,Lat Phrao,A004,Dispatch voltage quality check,Power Quality,2025-05-02,2.7,1.1,1,
+EV001414,SA06038,Lat Phrao,A004,Dispatch voltage quality check,Power Quality,2025-01-19,2.2,1.35,0,
+EV001415,SA06038,Lat Phrao,A005,Billing explanation callback,Billing Service,2025-03-01,2.2,1.35,0,
+EV001416,SA06039,Lat Phrao,A004,Dispatch voltage quality check,Power Quality,2025-03-30,4.8,1.28,0,
+EV001417,SA06039,Lat Phrao,A004,Dispatch voltage quality check,Power Quality,2025-05-30,4.8,1.28,0,
+EV001418,SA06039,Lat Phrao,A006,Energy efficiency advisory,Efficiency Program,2025-01-03,4.8,1.28,1,
+EV001419,SA06039,Lat Phrao,A001,Send peak alert,Demand Response,2025-05-26,4.8,1.28,0,
+EV001420,SA06039,Lat Phrao,A003,Offer smart meter education,Customer Service,2025-02-27,4.8,1.28,0,
+EV001421,SA06039,Lat Phrao,A005,Billing explanation callback,Billing Service,2025-03-05,4.8,1.28,0,
+EV001422,SA06040,Lat Phrao,A003,Offer smart meter education,Customer Service,2025-04-25,3,1.81,1,
+EV001423,SA06040,Lat Phrao,A005,Billing explanation callback,Billing Service,2025-03-02,3,1.81,0,
+EV001424,SA06040,Lat Phrao,A006,Energy efficiency advisory,Efficiency Program,2025-03-03,3,1.81,0,
+EV001425,SA06040,Lat Phrao,A001,Send peak alert,Demand Response,2025-04-28,3,1.81,0,
+EV001426,SA06040,Lat Phrao,A004,Dispatch voltage quality check,Power Quality,2025-01-07,3,1.81,1,3
+EV001427,SA06041,Lat Phrao,A006,Energy efficiency advisory,Efficiency Program,2025-05-31,5.2,1.56,0,
+EV001428,SA06041,Lat Phrao,A001,Send peak alert,Demand Response,2025-05-10,5.2,1.56,1,4
+EV001429,SA06041,Lat Phrao,A006,Energy efficiency advisory,Efficiency Program,2025-03-08,5.2,1.56,0,4
+EV001430,SA06041,Lat Phrao,A003,Offer smart meter education,Customer Service,2025-01-16,5.2,1.56,0,4
+EV001431,SA06041,Lat Phrao,A006,Energy efficiency advisory,Efficiency Program,2025-03-10,5.2,1.56,1,
+EV001432,SA06041,Lat Phrao,A003,Offer smart meter education,Customer Service,2025-04-11,5.2,1.56,0,
+EV001433,SA06042,Lat Phrao,A002,Schedule preventive inspection,Asset Maintenance,2025-04-21,2.5,1.6,1,
+EV001434,SA06042,Lat Phrao,A001,Send peak alert,Demand Response,2025-03-04,2.5,1.6,0,
+EV001435,SA06042,Lat Phrao,A002,Schedule preventive inspection,Asset Maintenance,2025-04-01,2.5,1.6,1,
+EV001436,SA06042,Lat Phrao,A002,Schedule preventive inspection,Asset Maintenance,2025-04-07,2.5,1.6,0,
+EV001437,SA06042,Lat Phrao,A006,Energy efficiency advisory,Efficiency Program,2025-01-01,2.5,1.6,0,
+EV001438,SA06043,Lat Phrao,A004,Dispatch voltage quality check,Power Quality,2025-05-28,4.5,1.7,0,
+EV001439,SA06043,Lat Phrao,A002,Schedule preventive inspection,Asset Maintenance,2025-05-04,4.5,1.7,0,4
+EV001440,SA06043,Lat Phrao,A003,Offer smart meter education,Customer Service,2025-02-16,4.5,1.7,0,
+EV001441,SA06043,Lat Phrao,A004,Dispatch voltage quality check,Power Quality,2025-05-15,4.5,1.7,0,
+EV001442,SA06044,Lat Phrao,A006,Energy efficiency advisory,Efficiency Program,2025-02-14,3,1.55,0,
+EV001443,SA06045,Lat Phrao,A003,Offer smart meter education,Customer Service,2025-03-02,5.3,1.21,1,4
+EV001444,SA06045,Lat Phrao,A005,Billing explanation callback,Billing Service,2025-03-31,5.3,1.21,0,5
+EV001445,SA06045,Lat Phrao,A005,Billing explanation callback,Billing Service,2025-01-09,5.3,1.21,1,4
+EV001446,SA06045,Lat Phrao,A006,Energy efficiency advisory,Efficiency Program,2025-01-19,5.3,1.21,1,5
+EV001447,SA06046,Lat Phrao,A001,Send peak alert,Demand Response,2025-01-01,1.6,2.13,1,4
+EV001448,SA06046,Lat Phrao,A006,Energy efficiency advisory,Efficiency Program,2025-02-28,1.6,2.13,0,5
+EV001449,SA06046,Lat Phrao,A001,Send peak alert,Demand Response,2025-05-03,1.6,2.13,0,
+EV001450,SA06047,Lat Phrao,A003,Offer smart meter education,Customer Service,2025-03-28,4.2,1.27,1,
+EV001451,SA06047,Lat Phrao,A001,Send peak alert,Demand Response,2025-05-02,4.2,1.27,0,
+EV001452,SA06047,Lat Phrao,A004,Dispatch voltage quality check,Power Quality,2025-02-28,4.2,1.27,0,
+EV001453,SA06048,Lat Phrao,A003,Offer smart meter education,Customer Service,2025-01-24,2,1.41,0,
+EV001454,SA06048,Lat Phrao,A006,Energy efficiency advisory,Efficiency Program,2025-01-02,2,1.41,0,3
+EV001455,SA06048,Lat Phrao,A006,Energy efficiency advisory,Efficiency Program,2025-04-07,2,1.41,0,
+EV001456,SA06048,Lat Phrao,A003,Offer smart meter education,Customer Service,2025-06-05,2,1.41,0,5
+EV001457,SA06048,Lat Phrao,A002,Schedule preventive inspection,Asset Maintenance,2025-02-15,2,1.41,0,5
+EV001458,SA06049,Lat Phrao,A003,Offer smart meter education,Customer Service,2025-03-24,6.5,1.05,0,
+EV001459,SA06049,Lat Phrao,A002,Schedule preventive inspection,Asset Maintenance,2025-03-02,6.5,1.05,0,
+EV001460,SA06049,Lat Phrao,A002,Schedule preventive inspection,Asset Maintenance,2025-06-07,6.5,1.05,0,4
+EV001461,SA06049,Lat Phrao,A002,Schedule preventive inspection,Asset Maintenance,2025-05-09,6.5,1.05,0,
+EV001462,SA06050,Lat Phrao,A002,Schedule preventive inspection,Asset Maintenance,2025-06-06,4.4,1.31,0,
+EV001463,SA06050,Lat Phrao,A002,Schedule preventive inspection,Asset Maintenance,2025-01-10,4.4,1.31,0,
+EV001464,SA06050,Lat Phrao,A003,Offer smart meter education,Customer Service,2025-01-19,4.4,1.31,0,
+EV001465,SA06050,Lat Phrao,A003,Offer smart meter education,Customer Service,2025-03-10,4.4,1.31,0,
+EV001466,SA06051,Lat Phrao,A004,Dispatch voltage quality check,Power Quality,2025-02-18,3.5,1.37,1,
+EV001467,SA06051,Lat Phrao,A004,Dispatch voltage quality check,Power Quality,2025-06-09,3.5,1.37,0,4
+EV001468,SA06052,Lat Phrao,A002,Schedule preventive inspection,Asset Maintenance,2025-04-22,2,1.91,0,
+EV001469,SA06053,Lat Phrao,A002,Schedule preventive inspection,Asset Maintenance,2025-03-18,5.8,1.24,0,4
+EV001470,SA06054,Lat Phrao,A003,Offer smart meter education,Customer Service,2025-02-17,4,1.28,0,
+EV001471,SA06054,Lat Phrao,A004,Dispatch voltage quality check,Power Quality,2025-05-31,4,1.28,0,4
+EV001472,SA06054,Lat Phrao,A006,Energy efficiency advisory,Efficiency Program,2025-05-18,4,1.28,0,
+EV001473,SA06054,Lat Phrao,A005,Billing explanation callback,Billing Service,2025-04-11,4,1.28,1,
+EV001474,SA06054,Lat Phrao,A004,Dispatch voltage quality check,Power Quality,2025-03-21,4,1.28,0,
+EV001475,SA06055,Lat Phrao,A006,Energy efficiency advisory,Efficiency Program,2025-03-28,7.2,2.09,0,
+EV001476,SA06055,Lat Phrao,A001,Send peak alert,Demand Response,2025-01-14,7.2,2.09,0,
+EV001477,SA06056,Lat Phrao,A006,Energy efficiency advisory,Efficiency Program,2025-02-17,2.4,1.86,0,
+EV001478,SA06056,Lat Phrao,A006,Energy efficiency advisory,Efficiency Program,2025-03-04,2.4,1.86,0,4
+EV001479,SA06056,Lat Phrao,A005,Billing explanation callback,Billing Service,2025-01-04,2.4,1.86,0,4
+EV001480,SA06057,Lat Phrao,A006,Energy efficiency advisory,Efficiency Program,2025-01-04,3.3,1.68,1,
+EV001481,SA06057,Lat Phrao,A006,Energy efficiency advisory,Efficiency Program,2025-03-20,3.3,1.68,0,4
+EV001482,SA06058,Lat Phrao,A002,Schedule preventive inspection,Asset Maintenance,2025-01-17,1.5,1.49,0,2
+EV001483,SA06058,Lat Phrao,A004,Dispatch voltage quality check,Power Quality,2025-04-15,1.5,1.49,0,
+EV001484,SA06058,Lat Phrao,A003,Offer smart meter education,Customer Service,2025-03-02,1.5,1.49,0,4
+EV001485,SA06058,Lat Phrao,A001,Send peak alert,Demand Response,2025-01-02,1.5,1.49,1,
+EV001486,SA06059,Lat Phrao,A004,Dispatch voltage quality check,Power Quality,2025-04-23,3.3,1.57,0,
+EV001487,SA06059,Lat Phrao,A005,Billing explanation callback,Billing Service,2025-05-26,3.3,1.57,1,4
+EV001488,SA06059,Lat Phrao,A004,Dispatch voltage quality check,Power Quality,2025-04-03,3.3,1.57,0,
+EV001489,SA06059,Lat Phrao,A002,Schedule preventive inspection,Asset Maintenance,2025-05-29,3.3,1.57,0,
+EV001490,SA06059,Lat Phrao,A002,Schedule preventive inspection,Asset Maintenance,2025-02-09,3.3,1.57,0,
+EV001491,SA06060,Lat Phrao,A001,Send peak alert,Demand Response,2025-02-10,1.5,1.39,1,
+EV001492,SA06060,Lat Phrao,A002,Schedule preventive inspection,Asset Maintenance,2025-03-30,1.5,1.39,0,
+EV001493,SA06060,Lat Phrao,A003,Offer smart meter education,Customer Service,2025-01-12,1.5,1.39,0,
+EV001494,SA06060,Lat Phrao,A006,Energy efficiency advisory,Efficiency Program,2025-05-03,1.5,1.39,0,
+EV001495,SA06060,Lat Phrao,A001,Send peak alert,Demand Response,2025-04-24,1.5,1.39,1,4
+EV001496,SA06061,Lat Phrao,A005,Billing explanation callback,Billing Service,2025-01-18,2.1,1.94,0,
+EV001497,SA06061,Lat Phrao,A004,Dispatch voltage quality check,Power Quality,2025-03-10,2.1,1.94,0,
+EV001498,SA06061,Lat Phrao,A004,Dispatch voltage quality check,Power Quality,2025-04-11,2.1,1.94,0,2
+EV001499,SA06061,Lat Phrao,A003,Offer smart meter education,Customer Service,2025-02-09,2.1,1.94,1,5
+EV001500,SA06062,Lat Phrao,A003,Offer smart meter education,Customer Service,2025-04-06,2.6,1.3,0,4
+EV001501,SA06062,Lat Phrao,A002,Schedule preventive inspection,Asset Maintenance,2025-03-19,2.6,1.3,0,
+EV001502,SA06062,Lat Phrao,A005,Billing explanation callback,Billing Service,2025-05-11,2.6,1.3,1,
+EV001503,SA06062,Lat Phrao,A001,Send peak alert,Demand Response,2025-01-06,2.6,1.3,1,
+EV001504,SA06063,Lat Phrao,A006,Energy efficiency advisory,Efficiency Program,2025-05-01,2.5,1.56,0,
+EV001505,SA06063,Lat Phrao,A004,Dispatch voltage quality check,Power Quality,2025-05-28,2.5,1.56,1,
+EV001506,SA06063,Lat Phrao,A006,Energy efficiency advisory,Efficiency Program,2025-04-02,2.5,1.56,0,
+EV001507,SA06063,Lat Phrao,A005,Billing explanation callback,Billing Service,2025-02-17,2.5,1.56,1,
+EV001508,SA06063,Lat Phrao,A006,Energy efficiency advisory,Efficiency Program,2025-03-31,2.5,1.56,1,
+EV001509,SA06064,Lat Phrao,A004,Dispatch voltage quality check,Power Quality,2025-04-03,2.6,2,1,
+EV001510,SA06064,Lat Phrao,A001,Send peak alert,Demand Response,2025-05-12,2.6,2,0,
+EV001511,SA06064,Lat Phrao,A004,Dispatch voltage quality check,Power Quality,2025-02-06,2.6,2,1,
+EV001512,SA06065,Lat Phrao,A005,Billing explanation callback,Billing Service,2025-06-08,2.7,1.58,0,5
+EV001513,SA06065,Lat Phrao,A004,Dispatch voltage quality check,Power Quality,2025-06-01,2.7,1.58,0,
+EV001514,SA06065,Lat Phrao,A002,Schedule preventive inspection,Asset Maintenance,2025-01-16,2.7,1.58,0,
+EV001515,SA06065,Lat Phrao,A002,Schedule preventive inspection,Asset Maintenance,2025-05-23,2.7,1.58,0,
+EV001516,SA06065,Lat Phrao,A001,Send peak alert,Demand Response,2025-02-12,2.7,1.58,0,4
+EV001517,SA06066,Lat Phrao,A002,Schedule preventive inspection,Asset Maintenance,2025-06-05,5.1,1.55,0,
+EV001518,SA06066,Lat Phrao,A006,Energy efficiency advisory,Efficiency Program,2025-03-05,5.1,1.55,0,4
+EV001519,SA06066,Lat Phrao,A003,Offer smart meter education,Customer Service,2025-04-04,5.1,1.55,0,
+EV001520,SA06066,Lat Phrao,A003,Offer smart meter education,Customer Service,2025-04-22,5.1,1.55,1,
+EV001521,SA06067,Lat Phrao,A006,Energy efficiency advisory,Efficiency Program,2025-06-08,2.3,1.41,0,4
+EV001522,SA06067,Lat Phrao,A004,Dispatch voltage quality check,Power Quality,2025-02-06,2.3,1.41,0,
+EV001523,SA06067,Lat Phrao,A004,Dispatch voltage quality check,Power Quality,2025-05-22,2.3,1.41,0,
+EV001524,SA06067,Lat Phrao,A006,Energy efficiency advisory,Efficiency Program,2025-01-25,2.3,1.41,1,
+EV001525,SA06068,Lat Phrao,A003,Offer smart meter education,Customer Service,2025-03-15,2.7,1.43,0,4
+EV001526,SA06068,Lat Phrao,A003,Offer smart meter education,Customer Service,2025-02-03,2.7,1.43,0,
+EV001527,SA06069,Lat Phrao,A006,Energy efficiency advisory,Efficiency Program,2025-06-07,1.7,1.65,0,
+EV001528,SA06069,Lat Phrao,A006,Energy efficiency advisory,Efficiency Program,2025-01-05,1.7,1.65,0,4
+EV001529,SA06069,Lat Phrao,A004,Dispatch voltage quality check,Power Quality,2025-05-01,1.7,1.65,1,
+EV001530,SA06070,Lat Phrao,A004,Dispatch voltage quality check,Power Quality,2025-01-07,3,1.28,1,

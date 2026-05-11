@@ -1,0 +1,951 @@
+asset_id,district,feeder_type,customer_mix,asset_age_years,capacity_kva,avg_load_pct_90d,max_load_pct_90d,outage_count_12m,inspection_score,oil_temperature_c,critical_customers_nearby,maintenance_cost_estimate,failure_next_90d
+TR00001,Bang Kapi,Underground,Mixed,22,2000,78,110,4,53,75,7,133523,1
+TR00002,Lat Phrao,Mixed,Government,12,2000,72,99,4,30,78,4,136662,1
+TR00003,Khlong Toei,Overhead,Commercial,19,250,64,77,1,58,82,7,122129,0
+TR00004,Phaya Thai,Mixed,Mixed,8,750,63,60,1,70,76,5,115055,0
+TR00005,Thon Buri,Underground,Commercial,19,1000,73,103,4,52,69,5,108585,1
+TR00006,Khlong Toei,Mixed,Residential,8,500,67,82,0,64,82,4,82091,0
+TR00007,Lat Phrao,Overhead,Commercial,12,1500,66,80,0,74,77,0,128723,0
+TR00008,Din Daeng,Overhead,Industrial,17,1000,61,80,2,37,75,16,77475,0
+TR00009,Khlong Toei,Overhead,Government,23,1000,74,77,3,44,75,4,143796,0
+TR00010,Phaya Thai,Mixed,Government,4,2000,69,91,0,72,70,8,70324,0
+TR00011,Bang Khen,Mixed,Mixed,18,1500,91,110,5,41,68,4,140670,0
+TR00012,Khlong Toei,Underground,Residential,15,750,78,104,2,63,74,3,135747,0
+TR00013,Bang Kho Laem,Underground,Mixed,14,1500,84,100,4,67,69,2,150932,0
+TR00014,Phaya Thai,Mixed,Residential,7,1500,69,99,2,74,80,8,111512,0
+TR00015,Khlong Toei,Underground,Mixed,3,2000,65,70,1,54,80,6,77030,0
+TR00016,Khlong Toei,Underground,Commercial,15,250,61,98,4,56,75,0,126780,0
+TR00017,Phaya Thai,Mixed,Industrial,4,1500,58,84,0,61,62,3,73634,0
+TR00018,Bang Kho Laem,Mixed,Mixed,14,1500,65,82,1,74,72,1,91252,0
+TR00019,Thon Buri,Underground,Government,25,500,81,92,1,77,79,0,135627,0
+TR00020,Din Daeng,Overhead,Residential,20,2000,71,83,4,45,83,4,152062,1
+TR00021,Bang Kapi,Overhead,Industrial,18,750,83,116,2,60,72,10,166130,1
+TR00022,Thon Buri,Underground,Residential,12,750,71,74,0,70,79,11,112403,0
+TR00023,Din Daeng,Overhead,Industrial,9,2000,72,90,0,70,80,1,82508,0
+TR00024,Khlong Toei,Underground,Industrial,7,2000,78,84,1,80,72,8,66817,0
+TR00025,Bang Khen,Underground,Government,16,2000,83,111,5,61,74,9,130875,0
+TR00026,Phaya Thai,Overhead,Mixed,7,750,74,79,0,86,79,4,79186,0
+TR00027,Khlong Toei,Overhead,Industrial,14,2000,86,103,1,70,84,2,105165,0
+TR00028,Thon Buri,Mixed,Government,5,1000,64,70,0,75,70,0,113427,0
+TR00029,Din Daeng,Mixed,Government,10,2000,57,55,2,62,71,4,83463,0
+TR00030,Khlong Toei,Mixed,Government,2,2000,43,48,0,94,63,9,70613,0
+TR00031,Din Daeng,Underground,Residential,9,250,78,87,1,78,76,2,131215,0
+TR00032,Thon Buri,Underground,Commercial,11,2000,76,108,3,66,71,1,117120,1
+TR00033,Bang Khen,Underground,Mixed,12,250,84,110,2,59,82,3,126933,0
+TR00034,Thon Buri,Mixed,Mixed,13,750,70,90,1,70,79,7,106205,0
+TR00035,Phaya Thai,Underground,Government,4,750,48,46,0,67,61,5,75579,0
+TR00036,Bang Kapi,Underground,Residential,13,250,82,103,3,50,95,2,125425,0
+TR00037,Bang Kho Laem,Underground,Commercial,7,500,89,107,2,79,92,8,102029,0
+TR00038,Khlong Toei,Underground,Industrial,12,500,37,59,2,68,64,0,95231,0
+TR00039,Bang Kapi,Underground,Industrial,16,500,88,114,3,43,75,3,113932,0
+TR00040,Thon Buri,Overhead,Government,15,750,41,56,0,80,71,14,83016,0
+TR00041,Din Daeng,Underground,Commercial,8,1000,75,101,3,60,69,0,91684,0
+TR00042,Bang Kho Laem,Overhead,Mixed,6,250,75,83,0,69,75,11,86062,0
+TR00043,Din Daeng,Underground,Residential,9,750,72,67,3,64,84,2,82058,0
+TR00044,Bang Khen,Underground,Commercial,12,1000,66,80,0,76,87,0,130415,0
+TR00045,Phaya Thai,Underground,Government,8,500,68,72,1,73,68,8,64232,0
+TR00046,Bang Kho Laem,Underground,Commercial,11,1000,76,98,4,62,77,5,103547,0
+TR00047,Bang Kapi,Overhead,Government,2,2000,44,78,1,76,77,4,70696,0
+TR00048,Phaya Thai,Mixed,Residential,11,750,65,86,3,76,80,0,104937,0
+TR00049,Khlong Toei,Overhead,Government,15,750,106,133,3,45,90,0,140722,0
+TR00050,Din Daeng,Overhead,Industrial,9,750,85,106,4,46,71,7,121877,0
+TR00051,Lat Phrao,Overhead,Government,11,750,47,53,2,71,77,4,113824,0
+TR00052,Khlong Toei,Underground,Commercial,19,750,78,90,2,68,80,8,142082,0
+TR00053,Bang Kapi,Underground,Government,17,500,76,75,0,65,84,1,114441,0
+TR00054,Phaya Thai,Overhead,Industrial,17,500,52,78,1,54,77,10,111981,0
+TR00055,Bang Kapi,Overhead,Government,15,500,61,65,3,69,76,13,72747,0
+TR00056,Khlong Toei,Mixed,Mixed,11,750,70,89,1,65,73,7,87145,0
+TR00057,Bang Khen,Underground,Government,27,750,92,109,3,37,80,3,142072,1
+TR00058,Khlong Toei,Overhead,Government,21,250,82,108,2,67,78,10,141156,0
+TR00059,Lat Phrao,Mixed,Commercial,10,250,74,85,3,63,70,5,110094,0
+TR00060,Khlong Toei,Mixed,Government,24,1000,81,93,4,60,80,5,159203,0
+TR00061,Bang Khen,Underground,Mixed,23,1000,55,62,3,45,72,2,124531,0
+TR00062,Khlong Toei,Underground,Commercial,13,1000,67,95,2,72,80,6,114824,0
+TR00063,Phaya Thai,Overhead,Commercial,23,750,54,67,1,58,71,3,174472,0
+TR00064,Bang Khen,Underground,Mixed,13,1500,58,69,1,71,70,1,83627,0
+TR00065,Khlong Toei,Mixed,Mixed,6,1000,53,73,1,85,74,0,86147,0
+TR00066,Bang Kapi,Mixed,Industrial,2,2000,62,69,1,85,78,3,68835,0
+TR00067,Khlong Toei,Underground,Government,10,750,72,81,2,65,76,2,105259,0
+TR00068,Lat Phrao,Mixed,Mixed,11,250,73,86,0,74,75,4,143582,0
+TR00069,Phaya Thai,Overhead,Commercial,8,500,58,75,0,92,70,3,132446,0
+TR00070,Lat Phrao,Overhead,Residential,10,1500,55,79,1,78,83,4,80912,0
+TR00071,Bang Khen,Underground,Residential,11,2000,80,98,1,66,83,2,90620,0
+TR00072,Bang Kapi,Mixed,Government,12,250,67,80,0,77,78,4,123480,0
+TR00073,Bang Khen,Mixed,Commercial,5,1500,62,80,3,72,74,1,94345,0
+TR00074,Lat Phrao,Mixed,Residential,20,750,85,101,3,54,78,11,146798,0
+TR00075,Bang Khen,Mixed,Government,5,1500,73,114,3,66,77,0,90579,0
+TR00076,Bang Kho Laem,Overhead,Mixed,14,1000,81,91,1,68,79,3,137395,0
+TR00077,Phaya Thai,Underground,Commercial,2,250,78,105,2,63,68,0,127340,0
+TR00078,Lat Phrao,Overhead,Residential,17,500,72,82,0,73,74,1,151088,0
+TR00079,Phaya Thai,Mixed,Industrial,8,750,79,104,2,68,75,7,119798,0
+TR00080,Phaya Thai,Underground,Industrial,9,250,68,87,0,78,68,8,116323,0
+TR00081,Thon Buri,Underground,Government,19,1500,92,124,0,53,80,4,144150,0
+TR00082,Thon Buri,Mixed,Government,1,1000,62,65,1,76,76,0,105600,0
+TR00083,Phaya Thai,Mixed,Industrial,25,250,87,93,1,51,91,7,146305,1
+TR00084,Phaya Thai,Mixed,Government,7,500,58,70,1,82,74,6,134152,0
+TR00085,Din Daeng,Overhead,Mixed,26,1500,89,106,3,50,84,3,141649,1
+TR00086,Lat Phrao,Mixed,Mixed,6,1500,79,105,3,62,81,10,140078,0
+TR00087,Thon Buri,Mixed,Commercial,6,250,57,62,1,84,80,2,73779,0
+TR00088,Bang Khen,Overhead,Residential,10,2000,64,87,0,74,74,0,130796,0
+TR00089,Lat Phrao,Overhead,Government,5,250,45,62,2,58,85,7,116782,0
+TR00090,Bang Kapi,Underground,Commercial,12,2000,66,71,0,85,76,3,89489,0
+TR00091,Thon Buri,Overhead,Residential,3,1500,69,81,2,72,78,0,98776,0
+TR00092,Bang Kho Laem,Underground,Mixed,9,750,75,78,1,93,76,0,120525,0
+TR00093,Thon Buri,Mixed,Government,12,1000,90,109,3,83,80,2,118800,0
+TR00094,Khlong Toei,Underground,Government,14,1500,59,68,1,63,74,2,121531,0
+TR00095,Bang Kapi,Underground,Industrial,5,2000,81,98,1,87,70,6,112707,0
+TR00096,Lat Phrao,Mixed,Government,11,750,53,57,2,54,79,6,92625,0
+TR00097,Lat Phrao,Overhead,Mixed,20,250,71,87,2,68,64,5,100630,1
+TR00098,Lat Phrao,Overhead,Government,10,250,64,107,4,37,84,5,140014,1
+TR00099,Bang Khen,Overhead,Mixed,9,1000,50,80,1,86,71,6,105619,0
+TR00100,Lat Phrao,Mixed,Industrial,20,500,86,102,2,48,80,3,124100,1
+TR00101,Lat Phrao,Underground,Government,8,500,78,101,2,66,77,7,141050,0
+TR00102,Bang Khen,Mixed,Commercial,12,2000,89,87,2,63,89,1,127706,0
+TR00103,Thon Buri,Overhead,Commercial,16,1500,89,110,4,52,70,6,117230,0
+TR00104,Bang Khen,Mixed,Residential,20,500,98,121,2,53,86,2,167918,0
+TR00105,Bang Kapi,Overhead,Residential,22,250,45,62,3,54,83,5,129823,0
+TR00106,Phaya Thai,Mixed,Industrial,18,500,91,123,1,69,76,5,121825,0
+TR00107,Lat Phrao,Overhead,Mixed,4,250,73,103,0,72,81,3,75727,0
+TR00108,Din Daeng,Overhead,Commercial,17,250,66,66,1,54,89,0,117730,0
+TR00109,Bang Kho Laem,Mixed,Mixed,11,1000,73,95,2,53,75,0,128965,0
+TR00110,Phaya Thai,Underground,Government,7,1500,78,98,3,62,76,8,137740,0
+TR00111,Din Daeng,Underground,Mixed,5,1000,71,87,0,73,78,4,109295,0
+TR00112,Bang Khen,Mixed,Industrial,17,2000,67,87,3,61,81,3,127938,0
+TR00113,Thon Buri,Underground,Government,7,750,53,60,3,71,61,1,87189,0
+TR00114,Bang Khen,Overhead,Industrial,5,250,86,94,2,75,81,3,92876,0
+TR00115,Bang Khen,Mixed,Residential,13,2000,71,83,2,77,76,0,101446,0
+TR00116,Thon Buri,Overhead,Mixed,17,1500,78,69,0,57,78,7,135464,0
+TR00117,Bang Kapi,Overhead,Residential,7,1500,64,88,2,56,85,6,100910,0
+TR00118,Khlong Toei,Overhead,Commercial,23,1000,81,108,7,51,91,2,150438,1
+TR00119,Khlong Toei,Mixed,Residential,14,1500,74,101,0,67,76,8,157551,0
+TR00120,Bang Kho Laem,Overhead,Residential,25,1000,53,67,3,44,69,4,101610,0
+TR00121,Khlong Toei,Underground,Mixed,18,1500,69,79,2,71,86,5,144227,0
+TR00122,Lat Phrao,Overhead,Industrial,11,1500,68,84,3,50,71,13,72421,0
+TR00123,Bang Kapi,Mixed,Commercial,14,750,52,64,2,53,73,13,83463,0
+TR00124,Bang Kapi,Mixed,Government,6,250,83,90,3,60,73,5,122888,0
+TR00125,Din Daeng,Mixed,Mixed,19,500,49,72,3,39,85,1,104134,0
+TR00126,Bang Kapi,Mixed,Industrial,22,750,79,109,3,47,80,0,161116,0
+TR00127,Bang Kapi,Underground,Residential,15,1000,62,74,0,52,80,3,110566,0
+TR00128,Phaya Thai,Mixed,Industrial,18,250,72,110,1,50,80,4,123522,1
+TR00129,Bang Khen,Mixed,Residential,9,750,54,69,0,76,74,1,73530,0
+TR00130,Khlong Toei,Underground,Residential,8,1000,58,78,3,62,69,9,132375,1
+TR00131,Bang Kho Laem,Mixed,Residential,22,1500,77,105,1,50,75,2,134261,0
+TR00132,Bang Khen,Underground,Mixed,6,2000,58,67,2,74,84,2,85238,0
+TR00133,Khlong Toei,Mixed,Residential,20,750,49,55,3,51,74,2,126281,0
+TR00134,Din Daeng,Overhead,Government,5,750,68,71,1,67,76,4,56315,0
+TR00135,Bang Kho Laem,Underground,Industrial,1,2000,85,113,3,79,86,4,114887,0
+TR00136,Lat Phrao,Underground,Government,12,500,48,73,2,61,77,0,153475,0
+TR00137,Bang Khen,Overhead,Mixed,7,1000,49,61,2,88,69,2,118638,0
+TR00138,Thon Buri,Underground,Mixed,16,1000,77,103,0,82,79,0,120468,0
+TR00139,Bang Kapi,Overhead,Government,20,500,96,123,2,62,77,5,146233,0
+TR00140,Bang Kapi,Underground,Residential,22,2000,87,115,3,38,86,2,167745,1
+TR00141,Din Daeng,Mixed,Residential,4,1000,74,88,0,76,75,5,89806,0
+TR00142,Bang Kho Laem,Overhead,Commercial,9,1500,56,69,2,72,67,1,110492,0
+TR00143,Phaya Thai,Underground,Mixed,11,1000,90,95,1,74,71,5,125892,0
+TR00144,Lat Phrao,Underground,Government,12,2000,72,70,3,85,79,9,132992,0
+TR00145,Lat Phrao,Mixed,Government,10,1000,51,65,2,70,73,1,66266,0
+TR00146,Lat Phrao,Underground,Commercial,6,1000,57,81,0,59,73,1,101499,0
+TR00147,Bang Kapi,Underground,Residential,18,750,66,82,4,51,77,2,142512,0
+TR00148,Thon Buri,Overhead,Mixed,8,500,38,51,1,69,70,9,81196,0
+TR00149,Thon Buri,Mixed,Government,10,1000,79,102,3,54,76,2,109802,0
+TR00150,Khlong Toei,Mixed,Mixed,16,500,65,86,1,56,71,7,118693,0
+TR00151,Din Daeng,Underground,Residential,12,500,80,114,3,65,83,6,121945,0
+TR00152,Bang Kapi,Mixed,Commercial,7,500,58,73,2,69,76,2,79705,0
+TR00153,Phaya Thai,Mixed,Mixed,11,1500,96,116,4,55,86,6,148159,0
+TR00154,Din Daeng,Underground,Industrial,15,500,56,68,2,64,77,7,101616,0
+TR00155,Bang Kho Laem,Mixed,Industrial,14,1500,54,73,1,78,66,6,111987,0
+TR00156,Bang Kho Laem,Overhead,Mixed,20,250,71,69,5,36,80,6,115088,0
+TR00157,Din Daeng,Underground,Mixed,10,750,56,80,5,53,72,3,101183,0
+TR00158,Din Daeng,Overhead,Mixed,13,1000,54,69,1,79,77,0,110015,0
+TR00159,Khlong Toei,Mixed,Industrial,6,2000,58,84,4,68,78,0,105660,0
+TR00160,Phaya Thai,Mixed,Industrial,27,1500,80,99,2,70,93,7,140389,0
+TR00161,Khlong Toei,Mixed,Government,14,500,75,81,1,84,74,2,110486,0
+TR00162,Phaya Thai,Underground,Residential,14,750,87,98,4,62,80,6,121978,0
+TR00163,Thon Buri,Overhead,Commercial,18,1000,91,104,2,72,77,0,159939,0
+TR00164,Bang Kapi,Overhead,Government,29,1000,69,74,0,59,67,3,151443,0
+TR00165,Thon Buri,Underground,Government,16,2000,87,119,5,56,83,4,148626,1
+TR00166,Din Daeng,Mixed,Residential,33,250,88,98,3,49,75,3,145359,0
+TR00167,Khlong Toei,Underground,Government,17,1500,51,87,2,51,85,1,130613,0
+TR00168,Bang Kho Laem,Mixed,Industrial,8,2000,52,66,2,68,73,0,65925,0
+TR00169,Din Daeng,Overhead,Industrial,10,750,49,69,1,83,73,10,68111,0
+TR00170,Din Daeng,Overhead,Government,12,500,66,108,6,63,77,5,129508,0
+TR00171,Bang Kho Laem,Overhead,Commercial,7,500,31,39,0,91,58,5,112680,0
+TR00172,Bang Khen,Underground,Mixed,9,250,57,86,1,80,78,10,70249,0
+TR00173,Thon Buri,Mixed,Government,16,750,67,93,2,63,74,4,150624,0
+TR00174,Din Daeng,Mixed,Government,19,250,83,101,4,63,78,0,111881,0
+TR00175,Bang Kapi,Overhead,Residential,9,2000,51,76,3,53,70,0,132338,0
+TR00176,Bang Khen,Mixed,Government,8,1000,34,52,2,94,61,7,58482,0
+TR00177,Lat Phrao,Mixed,Commercial,21,2000,74,90,1,77,81,4,112215,0
+TR00178,Bang Khen,Overhead,Industrial,1,500,80,99,3,77,73,2,103663,0
+TR00179,Bang Kapi,Underground,Mixed,4,1000,28,50,0,93,74,0,39637,0
+TR00180,Thon Buri,Mixed,Government,1,750,46,62,2,67,71,7,86436,0
+TR00181,Khlong Toei,Mixed,Industrial,16,750,64,94,2,75,80,0,126734,0
+TR00182,Bang Kapi,Overhead,Commercial,13,1500,52,75,3,52,60,10,126314,0
+TR00183,Lat Phrao,Mixed,Government,10,250,76,93,0,76,70,7,91110,0
+TR00184,Phaya Thai,Mixed,Commercial,12,1500,49,55,2,71,79,5,98114,0
+TR00185,Khlong Toei,Underground,Commercial,16,1000,89,111,2,52,90,8,127758,1
+TR00186,Bang Khen,Mixed,Government,12,250,45,64,0,66,69,0,87587,0
+TR00187,Phaya Thai,Overhead,Mixed,11,2000,52,70,0,73,73,6,78101,0
+TR00188,Din Daeng,Overhead,Industrial,6,2000,78,105,1,81,76,0,94383,0
+TR00189,Bang Khen,Mixed,Industrial,21,1500,87,120,5,55,78,6,125011,0
+TR00190,Bang Kho Laem,Mixed,Residential,12,2000,71,69,3,50,64,6,122609,0
+TR00191,Bang Khen,Overhead,Residential,21,500,69,86,0,86,69,4,105528,0
+TR00192,Din Daeng,Underground,Residential,6,250,73,91,0,71,80,0,123015,0
+TR00193,Bang Khen,Mixed,Commercial,16,1000,53,64,1,70,67,6,116111,0
+TR00194,Thon Buri,Mixed,Industrial,24,1500,88,118,5,42,78,8,180000,0
+TR00195,Thon Buri,Underground,Industrial,16,750,66,66,4,48,80,3,116357,0
+TR00196,Bang Kapi,Overhead,Government,9,2000,84,108,2,72,83,9,115757,0
+TR00197,Phaya Thai,Overhead,Industrial,5,500,26,36,0,68,71,6,64793,0
+TR00198,Bang Khen,Mixed,Government,14,1000,57,62,4,49,70,9,110751,0
+TR00199,Bang Kho Laem,Mixed,Commercial,9,2000,56,68,2,76,71,7,82637,0
+TR00200,Bang Kapi,Overhead,Industrial,28,250,80,91,0,72,81,8,152140,0
+TR00201,Khlong Toei,Overhead,Industrial,9,750,70,86,0,62,77,5,119377,0
+TR00202,Bang Kapi,Overhead,Commercial,7,1500,96,118,1,60,64,8,74155,0
+TR00203,Bang Khen,Underground,Industrial,17,500,83,96,2,57,93,3,151863,0
+TR00204,Thon Buri,Overhead,Commercial,28,2000,52,76,2,60,65,4,150090,0
+TR00205,Din Daeng,Mixed,Mixed,8,1000,50,71,0,74,62,0,131229,0
+TR00206,Din Daeng,Mixed,Mixed,14,2000,43,61,2,74,67,3,103368,0
+TR00207,Khlong Toei,Mixed,Mixed,13,750,81,99,3,44,76,7,104208,0
+TR00208,Bang Khen,Mixed,Mixed,8,500,76,105,3,61,74,2,112309,1
+TR00209,Din Daeng,Mixed,Commercial,20,1500,85,98,2,52,85,0,148755,1
+TR00210,Khlong Toei,Mixed,Commercial,18,750,50,55,2,65,76,5,98322,0
+TR00211,Thon Buri,Mixed,Government,14,2000,77,79,3,62,86,4,115606,0
+TR00212,Din Daeng,Mixed,Residential,15,2000,93,123,3,70,77,8,126808,0
+TR00213,Bang Kho Laem,Mixed,Residential,21,250,72,77,1,56,72,3,112354,0
+TR00214,Lat Phrao,Underground,Residential,9,250,73,81,0,65,78,5,85479,0
+TR00215,Bang Kho Laem,Overhead,Commercial,11,750,80,93,0,58,63,8,106104,0
+TR00216,Bang Khen,Mixed,Mixed,3,750,83,87,1,67,81,8,101174,0
+TR00217,Bang Kho Laem,Overhead,Commercial,12,1500,87,118,3,59,79,0,115904,0
+TR00218,Din Daeng,Mixed,Mixed,21,250,78,74,4,52,70,8,123708,0
+TR00219,Bang Khen,Overhead,Industrial,26,500,83,95,1,65,78,2,140912,0
+TR00220,Bang Khen,Mixed,Government,17,2000,81,105,5,62,82,8,114587,0
+TR00221,Bang Khen,Overhead,Commercial,5,2000,76,103,3,46,77,2,116023,1
+TR00222,Phaya Thai,Underground,Government,1,250,59,62,1,91,72,3,88162,0
+TR00223,Thon Buri,Overhead,Residential,1,1500,65,75,2,74,76,2,53859,0
+TR00224,Lat Phrao,Underground,Mixed,8,1000,64,52,0,92,78,0,99488,0
+TR00225,Bang Khen,Underground,Government,24,1000,74,69,2,73,73,6,136217,0
+TR00226,Din Daeng,Underground,Residential,3,250,72,93,3,69,72,2,118067,0
+TR00227,Bang Kapi,Underground,Government,14,750,43,67,0,76,82,6,93979,0
+TR00228,Bang Khen,Overhead,Residential,11,250,82,107,2,50,75,0,110914,1
+TR00229,Din Daeng,Overhead,Commercial,13,750,68,78,3,84,70,14,121294,0
+TR00230,Phaya Thai,Underground,Mixed,14,1000,81,97,4,60,81,0,141037,0
+TR00231,Bang Kho Laem,Overhead,Mixed,17,500,61,73,1,70,77,6,102725,0
+TR00232,Bang Khen,Overhead,Residential,21,500,81,106,4,63,80,3,140630,1
+TR00233,Lat Phrao,Overhead,Industrial,12,500,35,41,3,75,73,0,110457,0
+TR00234,Phaya Thai,Mixed,Government,13,500,70,105,4,59,81,8,121872,0
+TR00235,Bang Kapi,Overhead,Residential,16,1000,81,110,4,44,78,6,128819,1
+TR00236,Lat Phrao,Underground,Residential,13,2000,74,83,0,68,83,3,65295,0
+TR00237,Thon Buri,Overhead,Government,12,500,85,98,4,43,75,3,103849,0
+TR00238,Phaya Thai,Underground,Mixed,11,500,85,94,2,64,82,2,129416,1
+TR00239,Phaya Thai,Overhead,Mixed,1,2000,74,93,3,70,69,2,108617,0
+TR00240,Bang Khen,Underground,Commercial,17,1500,66,74,1,62,75,2,113035,0
+TR00241,Bang Kapi,Underground,Commercial,23,2000,67,85,2,54,81,1,123668,0
+TR00242,Bang Khen,Underground,Industrial,10,1500,39,58,0,83,76,12,79005,0
+TR00243,Khlong Toei,Underground,Industrial,16,2000,60,88,2,58,85,4,106021,0
+TR00244,Thon Buri,Underground,Commercial,13,2000,60,66,0,59,77,7,67551,0
+TR00245,Bang Khen,Overhead,Mixed,14,1000,81,91,0,62,79,6,110024,0
+TR00246,Din Daeng,Overhead,Commercial,10,1000,73,81,1,64,70,4,91650,0
+TR00247,Phaya Thai,Mixed,Residential,5,250,95,114,5,56,84,0,144160,1
+TR00248,Thon Buri,Overhead,Residential,10,500,85,102,2,63,77,6,114771,0
+TR00249,Phaya Thai,Mixed,Mixed,1,500,62,57,0,83,66,7,83824,0
+TR00250,Khlong Toei,Underground,Government,5,750,73,114,3,72,77,4,116778,0
+TR00251,Bang Kho Laem,Mixed,Government,8,500,96,116,3,79,83,8,95213,0
+TR00252,Khlong Toei,Mixed,Mixed,7,1000,75,105,3,58,72,6,145458,1
+TR00253,Phaya Thai,Underground,Commercial,25,2000,91,115,5,34,88,7,175190,1
+TR00254,Bang Kapi,Overhead,Industrial,15,2000,57,77,1,69,80,1,153973,0
+TR00255,Bang Kapi,Overhead,Commercial,15,750,87,85,2,66,90,2,133915,0
+TR00256,Lat Phrao,Mixed,Government,25,750,77,94,4,52,77,3,131227,0
+TR00257,Bang Kapi,Overhead,Residential,26,2000,82,100,3,53,92,5,155442,1
+TR00258,Bang Khen,Overhead,Commercial,4,500,76,103,3,74,80,0,108803,0
+TR00259,Khlong Toei,Underground,Industrial,16,750,58,92,1,71,71,6,180000,0
+TR00260,Phaya Thai,Underground,Residential,11,500,72,90,1,74,73,3,101106,0
+TR00261,Bang Kho Laem,Underground,Industrial,1,750,85,84,1,100,82,5,46512,0
+TR00262,Thon Buri,Mixed,Commercial,14,500,52,73,2,67,64,0,99526,0
+TR00263,Din Daeng,Mixed,Mixed,21,500,93,110,3,44,79,12,121757,1
+TR00264,Bang Kapi,Underground,Commercial,8,2000,64,73,3,59,70,7,91392,0
+TR00265,Bang Khen,Underground,Commercial,23,250,67,95,3,54,75,3,152278,0
+TR00266,Lat Phrao,Overhead,Industrial,23,250,68,72,3,59,74,0,140690,0
+TR00267,Bang Khen,Mixed,Commercial,17,250,87,118,4,66,66,4,108677,0
+TR00268,Bang Kapi,Underground,Industrial,25,2000,62,75,2,58,71,3,135448,1
+TR00269,Phaya Thai,Overhead,Mixed,14,500,80,97,4,56,78,0,118507,0
+TR00270,Lat Phrao,Overhead,Commercial,10,250,52,83,1,72,68,1,122582,0
+TR00271,Phaya Thai,Mixed,Government,6,1500,78,87,2,69,70,0,126081,0
+TR00272,Thon Buri,Underground,Commercial,8,1000,62,75,4,62,71,1,91316,0
+TR00273,Khlong Toei,Mixed,Mixed,9,2000,78,97,2,67,82,7,96887,0
+TR00274,Khlong Toei,Mixed,Industrial,17,250,68,83,3,46,78,8,129798,0
+TR00275,Bang Kho Laem,Mixed,Government,18,500,64,76,1,81,80,2,142715,0
+TR00276,Lat Phrao,Overhead,Industrial,12,250,31,35,0,74,67,0,84936,0
+TR00277,Bang Khen,Mixed,Mixed,16,1500,48,57,2,72,69,7,125801,0
+TR00278,Khlong Toei,Underground,Commercial,9,500,73,98,2,78,85,6,104451,0
+TR00279,Phaya Thai,Overhead,Government,4,750,52,79,3,80,80,4,97603,0
+TR00280,Bang Khen,Mixed,Commercial,7,500,69,83,4,57,71,4,80878,0
+TR00281,Bang Khen,Underground,Mixed,16,500,65,80,0,76,78,0,121405,0
+TR00282,Khlong Toei,Mixed,Industrial,3,1000,47,80,1,74,75,4,98916,0
+TR00283,Bang Khen,Overhead,Government,24,2000,84,98,5,41,82,7,121971,1
+TR00284,Thon Buri,Underground,Mixed,14,500,82,82,2,73,70,12,107535,0
+TR00285,Bang Khen,Underground,Commercial,2,250,67,74,1,94,75,10,76816,0
+TR00286,Din Daeng,Mixed,Industrial,22,1000,70,79,1,50,80,5,150614,0
+TR00287,Thon Buri,Underground,Residential,14,750,35,49,3,61,66,4,111904,0
+TR00288,Phaya Thai,Overhead,Government,13,1000,65,87,1,58,76,0,102571,0
+TR00289,Phaya Thai,Mixed,Government,24,500,70,81,3,62,82,1,103321,0
+TR00290,Khlong Toei,Underground,Residential,17,500,61,68,1,54,80,3,105500,0
+TR00291,Lat Phrao,Overhead,Mixed,16,500,62,75,2,52,86,4,92679,0
+TR00292,Din Daeng,Overhead,Residential,14,2000,60,86,1,65,86,2,118731,0
+TR00293,Bang Kapi,Mixed,Commercial,16,500,86,99,2,50,77,10,113706,0
+TR00294,Din Daeng,Mixed,Mixed,2,1000,46,69,2,84,72,6,69588,0
+TR00295,Bang Khen,Underground,Mixed,18,250,100,124,2,60,90,2,130033,1
+TR00296,Khlong Toei,Underground,Government,5,1500,68,109,3,62,86,1,124504,0
+TR00297,Khlong Toei,Underground,Residential,13,250,57,77,0,63,75,5,88922,0
+TR00298,Bang Khen,Underground,Industrial,4,1500,59,82,0,77,73,1,97693,0
+TR00299,Din Daeng,Mixed,Residential,12,1500,63,88,3,71,77,3,127415,0
+TR00300,Bang Kapi,Overhead,Government,5,2000,68,98,5,61,74,11,96891,0
+TR00301,Din Daeng,Overhead,Residential,1,250,73,107,5,56,81,9,102297,0
+TR00302,Thon Buri,Mixed,Government,12,2000,76,95,1,62,71,5,133465,1
+TR00303,Din Daeng,Overhead,Commercial,14,750,52,65,2,58,65,3,99315,0
+TR00304,Khlong Toei,Overhead,Mixed,33,1000,114,121,5,34,74,2,170436,1
+TR00305,Din Daeng,Mixed,Commercial,14,1500,63,79,1,57,79,3,92616,0
+TR00306,Bang Kho Laem,Mixed,Mixed,16,750,50,63,0,79,84,9,115003,0
+TR00307,Lat Phrao,Overhead,Mixed,17,2000,59,83,1,64,79,5,100182,0
+TR00308,Phaya Thai,Overhead,Government,14,1000,45,78,1,56,77,0,122141,0
+TR00309,Lat Phrao,Underground,Mixed,15,500,75,105,2,75,79,8,148500,1
+TR00310,Bang Khen,Underground,Industrial,8,1000,99,122,3,84,83,8,117791,0
+TR00311,Bang Kho Laem,Overhead,Government,23,2000,47,45,2,59,63,4,125840,0
+TR00312,Din Daeng,Mixed,Residential,9,500,85,100,4,65,90,2,81936,0
+TR00313,Din Daeng,Mixed,Residential,8,750,77,103,2,71,72,3,118049,0
+TR00314,Bang Kho Laem,Mixed,Industrial,16,250,66,83,3,68,82,12,153135,0
+TR00315,Bang Khen,Mixed,Mixed,5,500,68,101,2,77,71,3,87607,0
+TR00316,Lat Phrao,Underground,Government,8,1500,75,95,4,70,80,5,106769,0
+TR00317,Din Daeng,Overhead,Industrial,15,1500,70,80,3,56,76,5,70420,0
+TR00318,Phaya Thai,Overhead,Commercial,11,1500,78,100,0,76,75,0,98722,0
+TR00319,Bang Kho Laem,Underground,Industrial,10,1500,83,101,4,49,85,5,130956,1
+TR00320,Lat Phrao,Overhead,Commercial,14,1500,83,104,3,51,77,7,153145,1
+TR00321,Bang Kho Laem,Overhead,Residential,6,1000,78,101,3,69,73,3,92096,0
+TR00322,Khlong Toei,Overhead,Mixed,23,250,92,109,4,43,75,4,113387,1
+TR00323,Bang Khen,Mixed,Residential,15,250,68,93,2,68,75,13,112272,0
+TR00324,Thon Buri,Mixed,Mixed,13,1500,79,101,3,41,84,3,88431,0
+TR00325,Lat Phrao,Overhead,Government,17,1500,77,102,2,62,80,6,121029,0
+TR00326,Bang Khen,Underground,Industrial,27,1000,87,109,4,38,87,4,147437,1
+TR00327,Bang Kapi,Mixed,Government,28,750,77,97,6,46,69,2,155063,1
+TR00328,Khlong Toei,Mixed,Mixed,9,2000,60,73,1,78,83,7,97467,1
+TR00329,Thon Buri,Underground,Commercial,24,1500,88,93,1,66,92,11,121637,1
+TR00330,Bang Kapi,Underground,Government,23,2000,66,90,1,51,73,6,149553,0
+TR00331,Lat Phrao,Mixed,Commercial,11,1000,78,99,2,58,78,0,120804,0
+TR00332,Khlong Toei,Mixed,Commercial,22,750,59,68,0,63,84,1,108652,0
+TR00333,Phaya Thai,Underground,Industrial,18,500,61,86,0,68,80,13,113516,0
+TR00334,Thon Buri,Overhead,Residential,6,250,68,85,1,76,69,7,81268,0
+TR00335,Bang Kho Laem,Underground,Commercial,7,750,41,59,1,73,73,4,85436,0
+TR00336,Bang Kho Laem,Mixed,Mixed,14,1500,76,93,1,89,87,6,109580,0
+TR00337,Din Daeng,Overhead,Commercial,21,500,75,93,0,68,74,0,96875,0
+TR00338,Khlong Toei,Underground,Industrial,10,250,68,72,3,66,79,1,66796,1
+TR00339,Bang Kho Laem,Underground,Commercial,2,250,40,69,0,72,73,2,104906,0
+TR00340,Khlong Toei,Mixed,Industrial,10,1500,66,89,3,80,81,3,91444,0
+TR00341,Bang Kho Laem,Overhead,Government,22,1500,48,77,4,52,75,6,128689,0
+TR00342,Bang Kapi,Underground,Government,10,1500,73,99,2,66,73,11,122994,0
+TR00343,Bang Kho Laem,Overhead,Industrial,6,750,52,58,0,73,68,9,59210,0
+TR00344,Bang Kapi,Mixed,Commercial,12,500,76,104,6,54,76,4,131964,0
+TR00345,Bang Kho Laem,Mixed,Residential,19,250,113,123,3,43,75,3,151643,1
+TR00346,Bang Khen,Underground,Industrial,18,250,78,95,1,54,79,0,111360,0
+TR00347,Thon Buri,Overhead,Mixed,1,1000,74,98,3,54,74,5,115198,0
+TR00348,Lat Phrao,Mixed,Commercial,6,1000,65,85,2,63,77,4,133541,0
+TR00349,Phaya Thai,Underground,Industrial,10,1000,101,110,2,64,86,0,126366,0
+TR00350,Bang Kapi,Underground,Residential,16,2000,50,64,4,58,70,7,132685,0
+TR00351,Bang Khen,Mixed,Mixed,16,2000,61,73,2,52,72,3,111451,0
+TR00352,Bang Kho Laem,Underground,Residential,16,1000,63,64,1,65,87,0,119495,0
+TR00353,Bang Kapi,Mixed,Residential,17,250,94,105,1,90,79,4,117574,0
+TR00354,Bang Kapi,Underground,Residential,9,750,93,107,4,47,81,3,109099,1
+TR00355,Phaya Thai,Underground,Government,14,500,65,76,2,62,84,5,132762,0
+TR00356,Khlong Toei,Mixed,Government,5,1500,68,85,1,68,72,0,115673,0
+TR00357,Din Daeng,Mixed,Industrial,4,1000,64,96,4,77,67,1,118665,0
+TR00358,Khlong Toei,Overhead,Industrial,8,500,52,90,1,65,71,5,132504,0
+TR00359,Phaya Thai,Overhead,Mixed,12,500,64,97,2,47,76,9,113207,0
+TR00360,Din Daeng,Underground,Mixed,6,1000,48,64,1,81,65,0,99091,0
+TR00361,Bang Khen,Overhead,Government,7,500,79,97,5,64,84,2,148082,0
+TR00362,Bang Khen,Underground,Industrial,12,2000,69,77,1,71,81,4,95878,0
+TR00363,Bang Kapi,Overhead,Mixed,14,500,76,90,0,64,84,2,123365,0
+TR00364,Bang Khen,Underground,Commercial,2,2000,73,93,0,75,70,12,95637,0
+TR00365,Phaya Thai,Underground,Commercial,10,1000,42,40,0,86,61,2,89409,0
+TR00366,Bang Khen,Mixed,Industrial,17,1000,72,86,0,76,78,5,136166,0
+TR00367,Phaya Thai,Overhead,Government,5,250,67,84,1,81,72,0,98386,0
+TR00368,Lat Phrao,Underground,Government,8,1000,66,103,3,68,76,2,117529,0
+TR00369,Din Daeng,Underground,Mixed,8,500,67,94,2,71,70,3,134513,0
+TR00370,Khlong Toei,Overhead,Commercial,15,2000,63,86,4,65,77,4,135125,0
+TR00371,Din Daeng,Underground,Government,17,1000,59,91,0,60,76,4,107255,0
+TR00372,Thon Buri,Mixed,Industrial,21,500,96,112,4,49,86,0,130947,1
+TR00373,Phaya Thai,Underground,Industrial,17,2000,63,92,2,59,71,2,124294,0
+TR00374,Bang Khen,Overhead,Government,12,750,62,50,3,81,80,0,133707,0
+TR00375,Bang Kho Laem,Overhead,Residential,16,2000,87,97,2,38,76,3,170103,0
+TR00376,Bang Khen,Overhead,Mixed,26,2000,84,91,1,45,84,5,157636,1
+TR00377,Bang Kho Laem,Underground,Government,19,750,93,124,3,65,87,3,133150,1
+TR00378,Thon Buri,Underground,Commercial,11,1000,83,96,4,71,94,0,130863,0
+TR00379,Bang Kapi,Mixed,Mixed,12,1000,71,96,0,75,72,6,86245,0
+TR00380,Thon Buri,Overhead,Industrial,14,1000,91,111,2,54,79,0,121139,0
+TR00381,Bang Khen,Underground,Commercial,6,1000,103,103,2,76,85,13,109932,1
+TR00382,Din Daeng,Mixed,Government,16,500,79,99,4,44,73,8,116767,1
+TR00383,Phaya Thai,Overhead,Mixed,22,750,72,81,2,51,84,11,115431,0
+TR00384,Phaya Thai,Mixed,Mixed,1,2000,63,80,1,88,71,3,73070,0
+TR00385,Din Daeng,Underground,Mixed,26,1000,77,104,4,66,71,3,170678,0
+TR00386,Phaya Thai,Mixed,Commercial,2,2000,80,94,1,78,76,4,112858,0
+TR00387,Thon Buri,Mixed,Industrial,9,750,93,105,2,81,77,0,78574,0
+TR00388,Bang Kho Laem,Mixed,Mixed,27,500,78,101,3,46,75,3,133755,0
+TR00389,Lat Phrao,Mixed,Commercial,14,1500,92,126,2,77,80,13,150298,1
+TR00390,Bang Kapi,Overhead,Government,15,750,69,89,0,70,73,3,128379,0
+TR00391,Khlong Toei,Overhead,Commercial,13,1500,83,90,1,59,88,13,113134,0
+TR00392,Khlong Toei,Underground,Government,15,500,57,65,1,68,82,2,118028,0
+TR00393,Lat Phrao,Underground,Mixed,14,500,71,74,1,90,74,7,109273,0
+TR00394,Phaya Thai,Mixed,Residential,11,1500,85,127,2,66,81,2,134420,0
+TR00395,Bang Kapi,Overhead,Government,18,750,86,102,4,54,75,9,120875,1
+TR00396,Khlong Toei,Overhead,Government,2,250,100,118,1,70,87,6,72597,0
+TR00397,Lat Phrao,Underground,Residential,9,500,71,91,2,68,82,3,76616,1
+TR00398,Phaya Thai,Mixed,Industrial,12,500,46,81,0,81,76,3,109613,0
+TR00399,Thon Buri,Underground,Industrial,14,1000,67,84,1,96,68,2,113089,0
+TR00400,Din Daeng,Overhead,Government,12,750,72,99,3,50,78,8,115917,0
+TR00401,Lat Phrao,Underground,Residential,12,1500,67,88,0,93,76,0,82051,0
+TR00402,Lat Phrao,Underground,Mixed,8,1000,70,84,0,71,81,2,128200,1
+TR00403,Bang Kapi,Underground,Industrial,17,2000,83,103,2,69,89,2,150844,1
+TR00404,Lat Phrao,Mixed,Industrial,13,2000,85,133,2,57,87,5,118191,0
+TR00405,Bang Khen,Mixed,Government,19,250,78,83,0,63,82,6,124698,0
+TR00406,Lat Phrao,Underground,Mixed,14,250,66,88,3,67,71,6,94001,1
+TR00407,Thon Buri,Overhead,Commercial,2,2000,76,99,4,64,73,2,92112,0
+TR00408,Lat Phrao,Mixed,Commercial,7,1000,68,94,0,62,73,5,84665,0
+TR00409,Khlong Toei,Mixed,Mixed,10,1000,45,58,2,48,68,3,116332,0
+TR00410,Bang Kapi,Overhead,Residential,1,250,75,96,2,74,73,5,81426,0
+TR00411,Phaya Thai,Underground,Government,13,2000,55,57,0,67,77,0,81703,0
+TR00412,Khlong Toei,Overhead,Residential,11,750,40,66,0,84,67,0,98846,0
+TR00413,Bang Kho Laem,Underground,Commercial,13,500,66,75,1,63,72,6,106669,0
+TR00414,Din Daeng,Underground,Industrial,19,1500,112,142,5,60,90,2,136003,1
+TR00415,Lat Phrao,Underground,Commercial,12,250,59,61,1,81,85,5,118568,0
+TR00416,Lat Phrao,Underground,Residential,18,250,78,106,4,48,67,2,140059,0
+TR00417,Bang Khen,Underground,Government,34,750,87,102,2,42,67,2,180000,1
+TR00418,Bang Kapi,Mixed,Industrial,17,750,82,100,1,57,86,8,149323,0
+TR00419,Khlong Toei,Mixed,Industrial,5,750,54,64,2,64,75,2,57936,0
+TR00420,Bang Kapi,Underground,Government,21,1500,98,109,2,66,78,4,144400,0
+TR00421,Bang Khen,Overhead,Mixed,12,1000,96,110,4,66,83,8,125421,0
+TR00422,Din Daeng,Underground,Residential,20,1500,67,92,3,30,82,5,116776,0
+TR00423,Din Daeng,Mixed,Commercial,14,750,80,112,1,67,63,0,129630,0
+TR00424,Lat Phrao,Mixed,Residential,6,1500,76,95,1,62,78,0,92671,0
+TR00425,Bang Kho Laem,Overhead,Commercial,16,750,82,110,4,52,76,5,130758,0
+TR00426,Bang Kho Laem,Mixed,Industrial,9,500,92,106,0,80,87,10,124913,0
+TR00427,Bang Kho Laem,Mixed,Residential,17,2000,81,104,5,52,78,1,121158,0
+TR00428,Khlong Toei,Underground,Government,12,250,60,82,0,93,72,11,102810,0
+TR00429,Thon Buri,Mixed,Government,7,750,61,82,0,77,73,4,81092,0
+TR00430,Khlong Toei,Overhead,Government,13,1500,74,105,3,58,80,10,103342,1
+TR00431,Lat Phrao,Overhead,Government,19,250,62,85,1,58,77,2,122201,0
+TR00432,Phaya Thai,Mixed,Mixed,11,1000,66,78,3,73,71,5,120756,1
+TR00433,Din Daeng,Mixed,Industrial,19,500,43,47,0,84,65,0,127991,0
+TR00434,Phaya Thai,Underground,Government,11,500,76,103,5,57,66,5,146673,0
+TR00435,Phaya Thai,Overhead,Government,11,500,47,59,1,71,75,3,95769,0
+TR00436,Thon Buri,Underground,Government,12,2000,76,92,3,62,73,8,120172,0
+TR00437,Bang Kapi,Underground,Government,8,1500,95,118,2,76,81,5,117624,0
+TR00438,Thon Buri,Underground,Government,15,750,78,100,0,79,79,8,151555,0
+TR00439,Bang Khen,Overhead,Government,6,1000,71,85,1,67,70,1,123458,0
+TR00440,Bang Khen,Underground,Mixed,8,750,34,55,0,55,75,3,87261,0
+TR00441,Bang Kho Laem,Underground,Mixed,1,2000,56,62,0,95,74,1,95510,0
+TR00442,Thon Buri,Mixed,Residential,8,250,52,64,1,66,62,3,87729,0
+TR00443,Din Daeng,Overhead,Industrial,17,1000,94,112,0,55,73,0,104045,0
+TR00444,Bang Kho Laem,Underground,Industrial,2,1000,80,102,3,78,81,8,138145,0
+TR00445,Bang Kho Laem,Underground,Commercial,7,1000,76,105,1,61,78,1,91547,0
+TR00446,Lat Phrao,Mixed,Industrial,13,1500,91,133,3,72,86,4,129949,0
+TR00447,Din Daeng,Underground,Commercial,21,250,64,74,1,59,80,0,127053,0
+TR00448,Khlong Toei,Mixed,Mixed,8,750,52,75,2,66,80,1,95092,0
+TR00449,Khlong Toei,Overhead,Residential,18,2000,66,70,1,55,70,2,126306,0
+TR00450,Bang Kapi,Overhead,Residential,12,1000,72,85,1,88,75,3,108393,0
+TR00451,Lat Phrao,Overhead,Residential,20,1000,51,77,2,69,67,3,120411,0
+TR00452,Din Daeng,Underground,Mixed,20,2000,88,106,4,46,76,4,166369,1
+TR00453,Thon Buri,Overhead,Government,12,1500,69,109,4,57,73,2,123978,0
+TR00454,Lat Phrao,Mixed,Commercial,10,250,69,99,2,69,78,10,88808,1
+TR00455,Bang Kapi,Underground,Commercial,16,2000,93,122,4,50,83,0,130604,1
+TR00456,Phaya Thai,Overhead,Commercial,21,250,68,73,3,67,77,0,116637,0
+TR00457,Khlong Toei,Overhead,Residential,1,2000,45,53,2,63,71,2,74962,0
+TR00458,Din Daeng,Overhead,Mixed,12,2000,47,57,0,84,79,4,73335,0
+TR00459,Thon Buri,Underground,Mixed,22,250,52,67,0,54,75,4,107114,0
+TR00460,Bang Khen,Overhead,Commercial,1,500,37,61,0,60,72,1,87185,0
+TR00461,Din Daeng,Mixed,Residential,4,2000,78,104,2,78,79,4,127708,0
+TR00462,Bang Kapi,Overhead,Residential,16,1000,67,83,2,53,76,5,123175,0
+TR00463,Khlong Toei,Mixed,Industrial,20,1500,78,84,2,49,78,3,144589,0
+TR00464,Thon Buri,Underground,Mixed,6,1000,80,110,3,58,75,10,133102,0
+TR00465,Din Daeng,Underground,Government,1,750,57,82,2,72,75,5,84156,0
+TR00466,Thon Buri,Underground,Industrial,4,500,79,118,5,62,80,0,99198,1
+TR00467,Khlong Toei,Overhead,Residential,16,1500,73,105,1,38,73,3,144963,0
+TR00468,Din Daeng,Overhead,Government,5,750,69,85,2,60,74,6,101501,0
+TR00469,Lat Phrao,Underground,Industrial,10,750,68,84,1,76,73,0,94858,0
+TR00470,Lat Phrao,Underground,Mixed,8,2000,47,55,1,79,71,8,82386,0
+TR00471,Bang Khen,Mixed,Government,9,250,60,65,2,66,76,2,93110,0
+TR00472,Thon Buri,Mixed,Mixed,14,750,46,61,3,64,80,6,98401,0
+TR00473,Bang Kapi,Mixed,Industrial,6,500,67,93,1,78,76,1,103238,0
+TR00474,Khlong Toei,Mixed,Commercial,8,1500,69,96,3,60,72,0,117999,1
+TR00475,Khlong Toei,Overhead,Commercial,22,500,77,99,2,50,67,6,132623,0
+TR00476,Lat Phrao,Underground,Industrial,12,500,78,92,2,52,74,0,135541,1
+TR00477,Khlong Toei,Mixed,Government,12,1500,79,86,4,35,82,10,114642,0
+TR00478,Bang Kho Laem,Mixed,Commercial,22,750,67,89,2,57,67,7,139342,0
+TR00479,Bang Kapi,Underground,Commercial,1,2000,56,86,2,61,69,3,85381,0
+TR00480,Din Daeng,Overhead,Government,7,2000,49,81,1,65,67,3,85744,0
+TR00481,Phaya Thai,Mixed,Residential,8,2000,66,94,1,99,89,5,107164,0
+TR00482,Khlong Toei,Overhead,Commercial,10,750,89,126,4,45,72,5,130655,1
+TR00483,Phaya Thai,Underground,Industrial,10,250,63,68,1,63,73,0,91299,0
+TR00484,Khlong Toei,Mixed,Mixed,13,2000,70,97,2,64,78,6,103883,0
+TR00485,Bang Kapi,Underground,Commercial,1,1500,86,92,0,100,69,0,94044,0
+TR00486,Bang Khen,Overhead,Commercial,16,2000,63,85,2,68,71,1,118910,0
+TR00487,Bang Khen,Underground,Government,16,2000,66,85,2,48,75,11,123700,0
+TR00488,Bang Kapi,Mixed,Government,12,1000,79,95,0,57,88,0,90383,0
+TR00489,Thon Buri,Overhead,Mixed,9,250,53,85,1,70,68,5,108392,0
+TR00490,Bang Kapi,Underground,Commercial,12,2000,76,88,4,63,80,1,99961,0
+TR00491,Thon Buri,Underground,Government,12,500,73,90,0,69,72,5,91508,0
+TR00492,Thon Buri,Overhead,Residential,14,2000,72,108,2,62,70,1,140717,0
+TR00493,Bang Khen,Overhead,Industrial,1,1000,76,84,1,69,76,12,66313,0
+TR00494,Phaya Thai,Overhead,Mixed,8,500,26,44,2,75,54,12,108211,0
+TR00495,Thon Buri,Mixed,Commercial,26,750,96,117,3,54,83,8,159209,1
+TR00496,Din Daeng,Overhead,Commercial,10,250,59,83,1,80,72,0,118207,0
+TR00497,Lat Phrao,Overhead,Mixed,15,250,70,87,0,71,86,2,122785,1
+TR00498,Bang Khen,Mixed,Industrial,7,500,32,36,3,56,75,11,93771,0
+TR00499,Bang Kapi,Overhead,Industrial,22,2000,79,85,3,41,78,4,122726,0
+TR00500,Lat Phrao,Mixed,Mixed,21,1000,103,108,3,48,82,10,90422,1
+TR00501,Bang Khen,Mixed,Commercial,14,250,84,120,3,65,79,0,115605,0
+TR00502,Lat Phrao,Mixed,Industrial,8,1000,55,84,2,80,81,0,109413,0
+TR00503,Bang Kho Laem,Underground,Residential,1,750,78,91,2,72,76,7,89894,0
+TR00504,Bang Khen,Overhead,Mixed,1,250,85,99,4,58,88,8,126502,0
+TR00505,Din Daeng,Underground,Mixed,25,1000,74,81,2,69,85,6,145956,0
+TR00506,Lat Phrao,Mixed,Industrial,21,250,67,85,2,52,76,4,161579,0
+TR00507,Thon Buri,Underground,Industrial,15,500,70,90,3,76,87,6,128797,0
+TR00508,Thon Buri,Underground,Commercial,19,500,68,94,2,80,79,2,133240,0
+TR00509,Phaya Thai,Underground,Mixed,22,750,88,101,3,57,84,4,155327,1
+TR00510,Bang Kho Laem,Mixed,Government,13,250,61,57,1,56,78,4,93751,0
+TR00511,Thon Buri,Mixed,Government,8,1500,62,103,3,57,76,7,117087,0
+TR00512,Bang Kho Laem,Underground,Mixed,18,500,64,92,2,38,68,8,78477,0
+TR00513,Din Daeng,Overhead,Industrial,1,750,54,75,3,73,72,8,101157,0
+TR00514,Bang Kho Laem,Overhead,Mixed,11,2000,66,84,3,60,83,5,80754,0
+TR00515,Lat Phrao,Mixed,Mixed,3,1500,48,82,1,89,77,6,125282,0
+TR00516,Phaya Thai,Overhead,Government,13,1000,61,79,1,86,68,2,124024,0
+TR00517,Bang Kapi,Overhead,Commercial,14,1500,96,123,3,48,86,7,143557,1
+TR00518,Khlong Toei,Underground,Residential,17,1000,76,114,5,46,72,5,135326,1
+TR00519,Thon Buri,Mixed,Mixed,13,2000,70,84,1,67,75,7,84620,0
+TR00520,Bang Kapi,Overhead,Commercial,20,2000,94,115,6,39,84,0,158657,1
+TR00521,Din Daeng,Mixed,Mixed,11,750,64,80,4,53,74,2,124670,0
+TR00522,Din Daeng,Mixed,Residential,11,1000,69,82,0,69,80,4,103718,0
+TR00523,Thon Buri,Overhead,Mixed,8,500,82,117,3,50,68,9,122303,0
+TR00524,Din Daeng,Mixed,Residential,20,500,76,97,1,58,83,6,144388,0
+TR00525,Khlong Toei,Overhead,Government,17,750,55,56,2,57,79,0,111524,0
+TR00526,Khlong Toei,Mixed,Commercial,15,500,55,80,2,67,82,8,102630,1
+TR00527,Phaya Thai,Overhead,Residential,1,250,44,62,1,72,62,2,87383,0
+TR00528,Bang Kapi,Overhead,Commercial,16,1000,76,91,0,64,78,6,85900,0
+TR00529,Din Daeng,Mixed,Residential,33,750,111,129,1,63,77,3,180000,1
+TR00530,Bang Khen,Underground,Mixed,8,2000,63,78,0,74,66,5,102517,0
+TR00531,Phaya Thai,Mixed,Government,1,1500,77,111,2,76,72,7,100599,0
+TR00532,Lat Phrao,Mixed,Commercial,9,750,70,78,1,60,74,5,105133,0
+TR00533,Din Daeng,Mixed,Residential,20,2000,79,90,3,68,76,0,125201,0
+TR00534,Bang Khen,Underground,Government,8,750,55,62,1,76,74,9,98071,0
+TR00535,Bang Khen,Underground,Residential,9,1500,64,98,1,79,76,0,120429,0
+TR00536,Lat Phrao,Overhead,Industrial,24,250,69,88,2,44,85,2,155957,0
+TR00537,Khlong Toei,Mixed,Government,4,1500,68,97,2,61,72,10,100060,0
+TR00538,Bang Khen,Underground,Government,23,750,51,64,1,76,72,11,109619,0
+TR00539,Khlong Toei,Mixed,Mixed,14,1000,65,90,1,59,82,4,152245,0
+TR00540,Bang Kho Laem,Underground,Government,12,1000,71,85,4,58,75,6,101832,0
+TR00541,Thon Buri,Overhead,Commercial,24,2000,66,94,1,52,77,6,124382,0
+TR00542,Bang Kho Laem,Overhead,Mixed,24,1000,75,93,2,62,77,0,130523,1
+TR00543,Bang Kho Laem,Underground,Mixed,20,250,96,145,1,63,72,3,150235,0
+TR00544,Lat Phrao,Underground,Commercial,11,1500,57,70,1,62,76,2,100731,0
+TR00545,Bang Kho Laem,Underground,Mixed,1,2000,51,68,1,96,78,2,64218,0
+TR00546,Din Daeng,Mixed,Government,1,2000,71,88,1,71,67,8,86458,0
+TR00547,Thon Buri,Underground,Residential,6,750,87,107,5,37,86,8,92977,1
+TR00548,Phaya Thai,Mixed,Mixed,9,2000,40,61,1,63,68,5,86823,0
+TR00549,Lat Phrao,Overhead,Industrial,2,250,44,67,0,88,71,4,78409,0
+TR00550,Bang Kho Laem,Overhead,Residential,10,2000,89,94,2,66,75,3,116281,1
+TR00551,Khlong Toei,Underground,Industrial,12,500,54,77,0,65,74,10,116460,0
+TR00552,Khlong Toei,Overhead,Government,24,750,96,113,2,48,90,0,131501,0
+TR00553,Thon Buri,Underground,Mixed,4,1500,46,49,1,84,73,1,88582,0
+TR00554,Thon Buri,Mixed,Industrial,31,750,74,76,1,51,90,5,133193,1
+TR00555,Din Daeng,Overhead,Industrial,10,250,65,67,2,61,73,1,78743,0
+TR00556,Lat Phrao,Overhead,Mixed,19,250,83,104,3,64,80,4,156095,1
+TR00557,Phaya Thai,Overhead,Commercial,13,1500,53,70,0,94,81,2,119175,1
+TR00558,Khlong Toei,Mixed,Commercial,14,1000,60,64,1,56,68,1,113989,0
+TR00559,Bang Khen,Mixed,Government,12,1000,63,71,2,80,72,6,106856,0
+TR00560,Thon Buri,Underground,Residential,1,250,64,89,2,71,71,9,110907,0
+TR00561,Thon Buri,Mixed,Government,14,1500,73,81,2,69,73,4,139173,0
+TR00562,Khlong Toei,Underground,Industrial,13,1000,82,107,3,62,85,8,124868,1
+TR00563,Bang Khen,Mixed,Commercial,15,2000,46,80,0,62,68,0,116623,0
+TR00564,Khlong Toei,Mixed,Commercial,1,2000,55,75,2,85,78,2,55115,0
+TR00565,Thon Buri,Mixed,Mixed,8,500,33,55,0,65,65,7,93708,0
+TR00566,Khlong Toei,Mixed,Residential,12,250,65,86,3,62,79,3,130854,0
+TR00567,Phaya Thai,Overhead,Government,19,1000,102,123,3,65,81,6,146969,1
+TR00568,Bang Kapi,Mixed,Commercial,8,250,42,55,0,72,62,6,76612,0
+TR00569,Lat Phrao,Overhead,Mixed,3,1000,45,55,0,83,71,2,35612,0
+TR00570,Thon Buri,Mixed,Industrial,12,1000,48,63,1,69,72,8,94214,0
+TR00571,Thon Buri,Overhead,Government,24,250,75,84,2,54,82,3,109374,0
+TR00572,Bang Khen,Underground,Government,6,500,60,83,2,81,61,2,109039,0
+TR00573,Bang Khen,Mixed,Residential,7,1500,72,79,1,85,80,3,106979,0
+TR00574,Bang Kapi,Underground,Residential,3,1500,71,95,1,87,81,6,66176,0
+TR00575,Bang Khen,Overhead,Commercial,14,750,85,117,4,58,89,6,122589,0
+TR00576,Bang Kho Laem,Overhead,Residential,20,2000,68,80,4,55,77,3,122960,1
+TR00577,Bang Kho Laem,Underground,Industrial,13,750,90,99,2,80,86,3,117864,1
+TR00578,Din Daeng,Mixed,Commercial,22,1500,90,108,4,35,94,0,120760,1
+TR00579,Phaya Thai,Overhead,Industrial,16,250,73,81,1,65,86,6,100764,0
+TR00580,Bang Kho Laem,Underground,Residential,5,750,70,90,3,86,76,0,122077,1
+TR00581,Thon Buri,Overhead,Industrial,17,500,66,71,2,74,77,9,112329,1
+TR00582,Lat Phrao,Mixed,Residential,23,2000,102,131,3,57,80,3,138502,0
+TR00583,Khlong Toei,Underground,Government,20,750,56,69,4,59,78,8,132372,1
+TR00584,Din Daeng,Underground,Residential,18,1000,78,81,1,42,78,0,121974,0
+TR00585,Bang Khen,Underground,Industrial,19,500,63,94,2,66,81,13,139249,0
+TR00586,Bang Kho Laem,Mixed,Residential,20,500,88,114,2,51,74,5,135701,0
+TR00587,Khlong Toei,Underground,Residential,17,1500,109,140,4,62,77,3,153109,0
+TR00588,Lat Phrao,Mixed,Mixed,11,1500,90,118,3,62,78,6,119157,0
+TR00589,Thon Buri,Underground,Industrial,26,500,96,101,4,26,82,10,144146,1
+TR00590,Bang Kapi,Underground,Industrial,20,250,88,112,3,49,89,6,136638,1
+TR00591,Khlong Toei,Mixed,Industrial,21,750,66,66,2,61,75,1,90340,0
+TR00592,Bang Khen,Underground,Commercial,1,500,56,53,3,64,78,2,96566,0
+TR00593,Thon Buri,Underground,Government,15,1500,57,78,2,61,83,3,109142,0
+TR00594,Din Daeng,Mixed,Mixed,7,1000,69,98,4,40,79,0,85997,1
+TR00595,Thon Buri,Overhead,Residential,18,250,82,84,3,51,83,4,126560,1
+TR00596,Phaya Thai,Overhead,Mixed,9,1500,46,53,1,61,76,2,104614,0
+TR00597,Bang Khen,Overhead,Industrial,15,1500,50,57,1,66,70,7,107844,0
+TR00598,Din Daeng,Mixed,Commercial,26,2000,60,75,0,76,70,11,121554,0
+TR00599,Din Daeng,Underground,Government,8,2000,77,71,0,80,84,3,73864,0
+TR00600,Lat Phrao,Overhead,Mixed,16,1000,86,93,1,61,84,5,83767,0
+TR00601,Bang Kapi,Underground,Residential,19,1000,98,137,1,72,83,1,161078,0
+TR00602,Bang Kho Laem,Mixed,Residential,20,1000,99,111,1,67,79,0,153727,0
+TR00603,Khlong Toei,Underground,Government,18,500,94,107,4,73,81,4,128502,1
+TR00604,Bang Kho Laem,Overhead,Industrial,8,1500,94,129,3,82,75,0,139267,0
+TR00605,Lat Phrao,Overhead,Industrial,6,1000,38,75,3,72,69,0,88000,0
+TR00606,Din Daeng,Overhead,Mixed,2,1500,77,104,3,83,76,0,95946,0
+TR00607,Bang Khen,Mixed,Mixed,6,1000,70,70,1,69,84,0,105365,0
+TR00608,Thon Buri,Mixed,Industrial,2,500,78,112,1,72,73,4,117386,0
+TR00609,Thon Buri,Mixed,Industrial,1,250,59,78,1,84,62,11,63440,0
+TR00610,Phaya Thai,Mixed,Mixed,8,2000,83,99,3,68,80,1,110279,1
+TR00611,Lat Phrao,Underground,Industrial,12,500,90,112,4,55,74,5,87300,0
+TR00612,Bang Kho Laem,Underground,Government,6,2000,63,79,3,79,72,0,123235,0
+TR00613,Phaya Thai,Mixed,Government,16,250,69,91,4,51,71,6,108978,0
+TR00614,Phaya Thai,Overhead,Industrial,1,2000,65,90,0,81,76,4,115688,0
+TR00615,Lat Phrao,Underground,Commercial,10,1000,61,77,3,49,75,7,75633,0
+TR00616,Thon Buri,Mixed,Commercial,18,750,93,115,3,60,84,10,133396,0
+TR00617,Bang Kho Laem,Mixed,Residential,21,2000,85,105,4,48,82,9,144555,1
+TR00618,Din Daeng,Mixed,Industrial,13,250,73,85,3,70,79,10,109810,0
+TR00619,Bang Kho Laem,Underground,Mixed,1,1500,40,54,1,94,63,9,78069,0
+TR00620,Phaya Thai,Mixed,Residential,26,1500,69,81,2,55,92,5,151008,1
+TR00621,Phaya Thai,Mixed,Commercial,21,1500,36,45,4,25,79,7,84483,1
+TR00622,Khlong Toei,Mixed,Commercial,14,500,76,98,2,56,82,6,117478,0
+TR00623,Din Daeng,Mixed,Mixed,18,1500,63,78,1,64,74,1,123036,0
+TR00624,Khlong Toei,Mixed,Commercial,13,2000,67,69,0,75,77,7,76336,0
+TR00625,Bang Kho Laem,Underground,Government,19,250,84,103,3,76,78,0,150794,0
+TR00626,Bang Kapi,Underground,Commercial,7,500,76,76,4,64,69,0,101037,0
+TR00627,Bang Khen,Underground,Commercial,18,750,64,87,1,67,80,7,137976,0
+TR00628,Bang Kho Laem,Mixed,Mixed,11,500,60,81,0,79,64,1,112855,0
+TR00629,Thon Buri,Overhead,Mixed,6,500,44,69,1,61,79,8,75966,0
+TR00630,Phaya Thai,Overhead,Industrial,6,2000,62,70,2,69,76,4,102902,0
+TR00631,Bang Kho Laem,Overhead,Residential,18,1000,65,87,0,69,69,4,103046,0
+TR00632,Lat Phrao,Underground,Industrial,1,1500,43,48,4,75,72,5,73490,0
+TR00633,Phaya Thai,Underground,Government,23,1500,49,62,0,60,76,8,114752,0
+TR00634,Thon Buri,Underground,Residential,14,750,67,85,1,80,72,2,130640,0
+TR00635,Bang Khen,Overhead,Industrial,19,1000,91,98,3,38,90,4,117514,1
+TR00636,Phaya Thai,Underground,Industrial,18,1500,62,66,4,65,86,7,113573,0
+TR00637,Bang Kho Laem,Overhead,Government,4,750,58,83,2,78,66,4,95459,0
+TR00638,Lat Phrao,Underground,Mixed,7,750,63,88,0,85,72,1,117380,0
+TR00639,Phaya Thai,Mixed,Mixed,15,1500,32,42,3,65,62,4,103550,0
+TR00640,Thon Buri,Overhead,Mixed,10,250,77,81,2,73,86,3,103237,0
+TR00641,Lat Phrao,Underground,Government,11,2000,74,94,0,86,87,6,101845,0
+TR00642,Din Daeng,Mixed,Commercial,6,250,83,89,0,74,73,0,92897,0
+TR00643,Bang Khen,Underground,Mixed,27,1500,79,87,0,39,78,3,156570,0
+TR00644,Bang Kho Laem,Underground,Mixed,5,2000,77,86,1,65,80,4,115130,0
+TR00645,Thon Buri,Mixed,Industrial,3,1000,86,101,1,94,88,8,91177,0
+TR00646,Din Daeng,Mixed,Residential,12,750,62,76,2,71,78,3,114599,0
+TR00647,Bang Khen,Overhead,Residential,21,1500,71,96,6,40,82,3,114060,1
+TR00648,Khlong Toei,Mixed,Industrial,24,750,94,98,3,38,94,7,152225,0
+TR00649,Lat Phrao,Overhead,Mixed,13,1500,95,105,3,46,76,8,141598,0
+TR00650,Din Daeng,Underground,Residential,11,500,61,70,0,72,70,0,123253,0
+TR00651,Bang Kho Laem,Underground,Government,12,250,58,70,0,77,74,4,89899,0
+TR00652,Lat Phrao,Overhead,Industrial,11,2000,55,69,0,94,69,8,107195,0
+TR00653,Phaya Thai,Mixed,Government,1,500,58,75,4,60,67,3,86589,0
+TR00654,Bang Kapi,Overhead,Commercial,18,750,40,53,0,72,68,0,114973,0
+TR00655,Lat Phrao,Overhead,Industrial,11,1500,96,131,2,67,75,1,146066,1
+TR00656,Lat Phrao,Mixed,Industrial,4,500,67,103,2,77,82,6,114420,0
+TR00657,Bang Kho Laem,Mixed,Mixed,24,250,66,65,2,66,75,6,105002,0
+TR00658,Phaya Thai,Mixed,Residential,7,2000,76,100,0,66,66,1,120984,0
+TR00659,Thon Buri,Overhead,Residential,15,1500,62,81,2,66,83,3,128138,0
+TR00660,Lat Phrao,Underground,Industrial,4,1000,66,83,0,80,71,2,97013,0
+TR00661,Din Daeng,Underground,Commercial,14,250,87,109,4,44,73,6,132395,1
+TR00662,Phaya Thai,Underground,Government,14,250,83,102,2,62,76,8,102038,0
+TR00663,Bang Kapi,Mixed,Industrial,6,250,32,51,2,73,62,5,88093,0
+TR00664,Bang Kapi,Underground,Industrial,18,500,30,35,4,37,57,2,112704,0
+TR00665,Khlong Toei,Underground,Commercial,9,250,62,77,0,76,75,2,70411,0
+TR00666,Khlong Toei,Mixed,Mixed,11,750,56,74,2,67,76,8,129740,0
+TR00667,Thon Buri,Underground,Residential,18,250,74,94,1,46,81,1,144254,0
+TR00668,Thon Buri,Mixed,Industrial,19,500,78,101,2,57,77,1,106188,0
+TR00669,Phaya Thai,Mixed,Government,13,750,84,103,2,69,74,5,127172,0
+TR00670,Bang Khen,Overhead,Commercial,16,1500,97,114,3,81,80,7,113759,1
+TR00671,Din Daeng,Mixed,Government,9,750,50,78,1,67,82,6,101325,0
+TR00672,Khlong Toei,Overhead,Industrial,11,750,64,79,1,66,83,3,111646,0
+TR00673,Din Daeng,Overhead,Mixed,14,2000,76,82,2,57,80,7,101161,0
+TR00674,Khlong Toei,Underground,Commercial,12,500,58,72,2,47,80,2,99961,0
+TR00675,Bang Kho Laem,Underground,Mixed,7,500,97,121,3,63,72,0,96484,0
+TR00676,Phaya Thai,Mixed,Residential,17,2000,82,104,4,51,74,8,151523,0
+TR00677,Bang Kapi,Underground,Commercial,6,2000,49,77,0,78,68,5,82369,0
+TR00678,Bang Kapi,Mixed,Industrial,20,2000,87,105,2,57,85,4,140251,1
+TR00679,Bang Kapi,Mixed,Government,20,750,83,108,4,57,75,0,139049,1
+TR00680,Bang Khen,Overhead,Residential,16,1000,76,104,3,52,72,3,105874,0
+TR00681,Thon Buri,Overhead,Mixed,7,250,73,72,2,85,85,10,63720,0
+TR00682,Thon Buri,Underground,Industrial,24,250,86,105,4,49,74,2,130567,1
+TR00683,Bang Khen,Overhead,Mixed,15,500,60,83,3,63,72,12,155800,0
+TR00684,Din Daeng,Mixed,Commercial,7,750,62,74,1,75,83,0,111953,0
+TR00685,Din Daeng,Mixed,Mixed,11,250,81,115,2,70,74,7,144433,0
+TR00686,Khlong Toei,Overhead,Government,19,2000,80,102,5,30,76,3,115434,0
+TR00687,Bang Kho Laem,Mixed,Government,17,1500,56,66,2,57,68,6,86353,0
+TR00688,Phaya Thai,Mixed,Mixed,21,1000,80,98,4,50,79,2,110979,0
+TR00689,Din Daeng,Overhead,Residential,20,500,70,67,2,58,77,0,113308,0
+TR00690,Khlong Toei,Mixed,Government,26,500,92,92,1,49,78,2,123769,0
+TR00691,Bang Kapi,Underground,Industrial,10,750,91,85,0,73,82,0,121052,0
+TR00692,Din Daeng,Mixed,Industrial,14,500,81,104,2,74,72,1,101875,0
+TR00693,Phaya Thai,Overhead,Government,13,1500,74,95,1,66,79,0,125837,1
+TR00694,Lat Phrao,Mixed,Commercial,11,500,80,84,1,80,72,1,91592,0
+TR00695,Lat Phrao,Underground,Government,4,2000,85,93,2,76,88,2,94387,0
+TR00696,Bang Kapi,Mixed,Industrial,8,2000,93,104,4,65,81,2,93435,0
+TR00697,Phaya Thai,Overhead,Government,13,750,64,51,2,56,64,1,97436,0
+TR00698,Bang Khen,Underground,Industrial,14,750,62,80,3,64,65,8,126490,0
+TR00699,Bang Khen,Overhead,Residential,11,1500,66,65,1,57,75,0,120627,1
+TR00700,Bang Khen,Mixed,Industrial,5,750,64,80,1,58,70,4,99393,0
+TR00701,Khlong Toei,Overhead,Residential,3,250,75,93,1,71,75,6,91777,0
+TR00702,Phaya Thai,Overhead,Industrial,7,750,63,85,1,87,62,3,95715,0
+TR00703,Phaya Thai,Underground,Government,16,2000,65,77,1,68,72,3,121949,0
+TR00704,Khlong Toei,Overhead,Mixed,8,1000,73,99,5,61,80,0,125124,0
+TR00705,Bang Kapi,Mixed,Mixed,1,1500,74,107,1,87,84,5,108307,0
+TR00706,Din Daeng,Mixed,Commercial,16,1000,87,107,2,82,82,0,119719,0
+TR00707,Bang Kapi,Mixed,Industrial,6,1500,32,53,2,77,73,7,81074,0
+TR00708,Khlong Toei,Mixed,Residential,20,1000,67,86,3,52,82,6,110905,1
+TR00709,Bang Kapi,Mixed,Residential,18,1500,87,99,4,51,82,0,131455,1
+TR00710,Thon Buri,Underground,Residential,15,2000,64,84,4,42,66,0,109025,0
+TR00711,Bang Kapi,Underground,Mixed,21,500,58,87,1,78,81,1,151416,0
+TR00712,Khlong Toei,Mixed,Mixed,10,1500,84,95,2,84,73,3,141309,0
+TR00713,Bang Kapi,Mixed,Industrial,13,1000,76,112,4,71,75,1,142894,0
+TR00714,Din Daeng,Underground,Residential,8,1500,63,90,2,64,79,2,86422,0
+TR00715,Thon Buri,Mixed,Residential,26,1500,72,100,4,37,87,0,118280,1
+TR00716,Thon Buri,Underground,Industrial,7,1000,61,60,0,77,65,9,81307,0
+TR00717,Din Daeng,Underground,Government,7,250,38,46,2,61,62,6,70533,0
+TR00718,Khlong Toei,Overhead,Government,16,500,73,106,1,67,75,5,103418,0
+TR00719,Phaya Thai,Underground,Commercial,2,1500,55,65,1,65,73,0,76846,0
+TR00720,Thon Buri,Mixed,Commercial,14,750,68,77,1,60,84,0,91509,1
+TR00721,Bang Khen,Mixed,Government,11,2000,75,81,2,60,70,7,118321,0
+TR00722,Bang Kho Laem,Overhead,Residential,6,1500,78,84,0,69,82,1,95259,0
+TR00723,Bang Kapi,Mixed,Commercial,6,500,65,74,1,76,71,10,82251,0
+TR00724,Phaya Thai,Overhead,Industrial,1,750,68,75,0,90,80,6,66329,0
+TR00725,Thon Buri,Overhead,Industrial,3,1000,41,54,1,92,68,4,58250,0
+TR00726,Bang Kho Laem,Underground,Industrial,13,750,57,61,2,75,73,5,116532,0
+TR00727,Din Daeng,Mixed,Government,8,1500,66,79,0,70,77,5,124220,0
+TR00728,Bang Kho Laem,Underground,Residential,21,250,53,80,2,49,76,2,123115,0
+TR00729,Thon Buri,Overhead,Mixed,9,250,49,45,0,82,64,12,101231,0
+TR00730,Bang Kho Laem,Overhead,Commercial,9,500,52,59,2,52,76,0,72926,0
+TR00731,Bang Kho Laem,Underground,Mixed,14,1500,82,110,4,70,73,0,127536,0
+TR00732,Bang Kho Laem,Overhead,Government,10,1000,63,63,1,78,76,9,110037,0
+TR00733,Lat Phrao,Underground,Residential,2,500,42,55,0,84,77,4,75193,0
+TR00734,Din Daeng,Mixed,Residential,18,250,66,81,2,45,75,8,114122,1
+TR00735,Thon Buri,Mixed,Mixed,13,500,62,89,1,62,62,1,119935,0
+TR00736,Phaya Thai,Overhead,Industrial,1,1000,84,86,0,80,69,8,94809,0
+TR00737,Thon Buri,Mixed,Commercial,12,250,98,122,2,67,75,6,133141,0
+TR00738,Phaya Thai,Mixed,Government,12,1500,67,87,2,53,85,6,99995,0
+TR00739,Lat Phrao,Mixed,Commercial,10,250,44,57,2,67,71,6,60305,0
+TR00740,Lat Phrao,Mixed,Mixed,10,1500,58,71,2,53,70,7,88089,0
+TR00741,Bang Khen,Underground,Industrial,18,2000,78,94,2,40,77,3,167147,0
+TR00742,Bang Kho Laem,Underground,Mixed,5,500,102,125,1,75,68,10,136532,0
+TR00743,Thon Buri,Underground,Mixed,13,500,82,89,0,76,75,1,128989,0
+TR00744,Thon Buri,Overhead,Government,9,750,75,98,0,75,81,8,101227,1
+TR00745,Phaya Thai,Underground,Residential,29,250,63,85,1,53,74,3,146710,0
+TR00746,Bang Kapi,Overhead,Government,14,2000,47,82,1,73,73,5,129004,0
+TR00747,Khlong Toei,Underground,Residential,11,250,47,57,3,54,79,1,83231,0
+TR00748,Lat Phrao,Mixed,Industrial,20,1500,82,109,4,57,75,3,160908,0
+TR00749,Thon Buri,Underground,Government,2,2000,79,98,2,76,77,3,140611,0
+TR00750,Din Daeng,Underground,Industrial,6,250,67,93,2,72,79,9,70040,0
+TR00751,Phaya Thai,Mixed,Residential,1,1000,83,93,1,77,65,3,98034,0
+TR00752,Thon Buri,Underground,Residential,11,1500,63,80,1,61,77,3,117690,0
+TR00753,Khlong Toei,Mixed,Mixed,8,500,55,73,2,62,75,0,132255,0
+TR00754,Bang Khen,Mixed,Commercial,15,250,68,86,0,60,71,1,113879,0
+TR00755,Thon Buri,Overhead,Industrial,7,2000,92,122,2,46,75,1,162273,0
+TR00756,Khlong Toei,Underground,Residential,2,250,63,73,2,74,77,5,98324,0
+TR00757,Din Daeng,Overhead,Commercial,4,1000,71,89,3,65,76,4,103995,0
+TR00758,Khlong Toei,Mixed,Mixed,1,250,91,110,2,73,71,1,144412,0
+TR00759,Lat Phrao,Underground,Mixed,5,2000,61,72,3,74,66,1,62609,0
+TR00760,Phaya Thai,Overhead,Commercial,4,500,65,102,4,80,77,7,119808,0
+TR00761,Khlong Toei,Mixed,Mixed,22,250,69,93,1,84,75,0,121682,0
+TR00762,Din Daeng,Underground,Residential,10,500,84,103,1,69,80,1,95860,0
+TR00763,Din Daeng,Overhead,Residential,5,2000,57,74,2,44,77,7,88736,0
+TR00764,Bang Kho Laem,Mixed,Industrial,20,1000,89,125,3,45,74,7,141437,1
+TR00765,Thon Buri,Underground,Residential,2,1500,39,65,0,93,74,0,91008,0
+TR00766,Bang Kho Laem,Mixed,Government,1,1000,87,95,1,75,75,2,113369,0
+TR00767,Thon Buri,Underground,Commercial,1,1000,50,67,3,73,58,1,74403,1
+TR00768,Khlong Toei,Mixed,Commercial,1,250,69,98,4,66,80,4,74345,0
+TR00769,Lat Phrao,Mixed,Government,11,2000,74,110,2,67,80,8,135131,0
+TR00770,Din Daeng,Mixed,Residential,17,500,59,69,2,67,71,2,101739,0
+TR00771,Bang Khen,Overhead,Commercial,11,1000,89,95,2,77,77,0,104430,0
+TR00772,Lat Phrao,Overhead,Residential,13,2000,46,58,0,71,73,6,95783,0
+TR00773,Phaya Thai,Overhead,Residential,20,500,92,104,2,77,89,6,115191,0
+TR00774,Lat Phrao,Mixed,Mixed,17,1000,83,86,1,65,82,7,120800,0
+TR00775,Khlong Toei,Mixed,Commercial,5,750,59,86,0,90,58,3,108152,0
+TR00776,Bang Kapi,Underground,Residential,13,1500,49,90,2,69,66,0,127576,0
+TR00777,Thon Buri,Overhead,Residential,6,750,70,95,1,65,86,4,124489,0
+TR00778,Phaya Thai,Overhead,Commercial,9,250,75,86,3,61,80,7,115446,0
+TR00779,Lat Phrao,Underground,Residential,4,1500,70,88,0,67,85,8,89053,0
+TR00780,Bang Kho Laem,Underground,Mixed,29,2000,74,82,0,50,85,4,142640,1
+TR00781,Bang Kapi,Underground,Mixed,1,1500,64,84,1,87,87,0,134789,0
+TR00782,Bang Khen,Underground,Government,13,1500,67,105,4,60,78,7,149559,1
+TR00783,Bang Kapi,Overhead,Government,4,1000,73,87,2,72,66,0,95466,0
+TR00784,Bang Kho Laem,Underground,Government,12,750,62,67,1,76,78,0,118899,0
+TR00785,Phaya Thai,Underground,Government,21,250,92,114,3,58,81,3,149947,0
+TR00786,Phaya Thai,Mixed,Government,7,2000,48,46,1,74,80,8,104816,0
+TR00787,Bang Kapi,Mixed,Government,6,750,57,75,0,76,85,10,57271,0
+TR00788,Lat Phrao,Overhead,Commercial,14,1500,71,103,4,51,83,9,108120,0
+TR00789,Din Daeng,Underground,Residential,8,250,76,95,0,99,85,4,132663,0
+TR00790,Din Daeng,Mixed,Mixed,16,1500,65,89,2,63,80,9,136196,1
+TR00791,Thon Buri,Overhead,Mixed,1,500,89,117,2,85,73,6,111360,0
+TR00792,Khlong Toei,Underground,Government,15,1500,90,116,4,62,94,0,157542,1
+TR00793,Thon Buri,Overhead,Government,14,2000,77,102,3,72,67,2,110014,0
+TR00794,Bang Khen,Mixed,Commercial,5,1000,47,82,0,84,75,4,73951,0
+TR00795,Bang Kho Laem,Underground,Residential,19,2000,68,90,2,66,80,2,144169,0
+TR00796,Khlong Toei,Underground,Mixed,11,500,62,77,1,71,72,5,99926,0
+TR00797,Bang Kho Laem,Underground,Residential,20,2000,68,99,0,43,74,1,125238,0
+TR00798,Thon Buri,Mixed,Commercial,17,250,70,100,4,64,64,8,123124,1
+TR00799,Bang Kho Laem,Underground,Government,8,500,47,68,2,53,74,6,101737,0
+TR00800,Bang Khen,Mixed,Commercial,1,1000,63,86,2,92,73,4,119628,0
+TR00801,Bang Kapi,Underground,Government,21,1000,69,89,1,47,76,4,180000,0
+TR00802,Din Daeng,Mixed,Industrial,25,250,97,97,3,70,86,0,119281,1
+TR00803,Bang Kapi,Mixed,Commercial,15,250,75,77,2,60,74,0,121749,0
+TR00804,Phaya Thai,Mixed,Mixed,14,1000,67,85,0,70,72,3,122109,0
+TR00805,Lat Phrao,Mixed,Mixed,26,500,51,63,3,56,79,8,170173,0
+TR00806,Phaya Thai,Underground,Government,8,1000,66,84,3,70,79,9,93857,0
+TR00807,Din Daeng,Underground,Government,27,500,86,92,2,49,75,8,169181,0
+TR00808,Bang Kho Laem,Overhead,Government,22,2000,68,97,4,42,65,2,129410,0
+TR00809,Thon Buri,Overhead,Residential,30,250,84,112,5,38,89,9,163098,1
+TR00810,Bang Khen,Underground,Commercial,16,2000,53,79,1,79,71,2,123054,0
+TR00811,Bang Kapi,Underground,Industrial,2,1500,71,95,3,69,76,4,98437,0
+TR00812,Lat Phrao,Mixed,Industrial,14,250,65,86,0,70,68,5,132983,0
+TR00813,Bang Kho Laem,Mixed,Government,23,1500,67,95,2,53,72,7,147280,0
+TR00814,Phaya Thai,Underground,Industrial,26,750,118,138,5,40,87,1,180000,1
+TR00815,Khlong Toei,Underground,Commercial,19,250,79,106,2,57,82,0,143353,1
+TR00816,Bang Kho Laem,Mixed,Mixed,9,250,78,92,2,66,72,7,128080,0
+TR00817,Bang Kho Laem,Underground,Industrial,5,2000,69,80,0,100,70,7,98294,0
+TR00818,Phaya Thai,Overhead,Government,12,1000,77,83,2,73,84,4,134607,0
+TR00819,Phaya Thai,Mixed,Industrial,2,750,50,61,0,63,69,2,90221,0
+TR00820,Din Daeng,Mixed,Residential,12,1500,91,96,2,55,84,2,142203,1
+TR00821,Bang Khen,Overhead,Industrial,17,750,71,92,2,67,68,7,137450,0
+TR00822,Din Daeng,Mixed,Mixed,10,750,86,99,2,56,78,0,130292,0
+TR00823,Bang Kho Laem,Underground,Commercial,22,1500,61,75,4,31,68,7,122224,1
+TR00824,Thon Buri,Underground,Mixed,23,1000,96,114,4,41,79,3,144288,0
+TR00825,Bang Khen,Overhead,Industrial,7,1000,82,112,4,70,80,0,130963,0
+TR00826,Thon Buri,Mixed,Mixed,19,250,53,58,2,48,79,0,123700,0
+TR00827,Din Daeng,Underground,Residential,22,2000,83,105,4,49,82,5,154687,1
+TR00828,Din Daeng,Overhead,Industrial,3,1500,74,86,2,65,84,14,115163,0
+TR00829,Phaya Thai,Overhead,Government,19,250,62,98,1,51,78,5,112429,0
+TR00830,Thon Buri,Overhead,Commercial,5,500,63,83,1,78,67,7,99245,0
+TR00831,Thon Buri,Overhead,Residential,17,1500,74,100,1,60,82,5,151389,1
+TR00832,Din Daeng,Underground,Residential,11,750,72,89,3,71,75,1,124080,0
+TR00833,Bang Kapi,Overhead,Industrial,15,1000,73,114,4,63,84,6,109233,0
+TR00834,Bang Khen,Overhead,Commercial,9,1500,75,92,2,78,82,5,128080,1
+TR00835,Lat Phrao,Mixed,Government,29,2000,92,116,4,38,93,9,138164,1
+TR00836,Bang Khen,Overhead,Residential,16,500,59,98,1,77,81,0,127761,0
+TR00837,Thon Buri,Mixed,Commercial,4,750,47,72,0,88,77,3,97435,0
+TR00838,Lat Phrao,Mixed,Industrial,19,750,102,107,3,42,80,10,144842,0
+TR00839,Bang Kapi,Underground,Residential,5,1000,58,105,6,64,69,4,102743,1
+TR00840,Thon Buri,Overhead,Residential,1,1000,45,44,1,83,78,4,81183,0
+TR00841,Khlong Toei,Overhead,Mixed,8,750,64,70,1,80,69,6,105158,0
+TR00842,Thon Buri,Mixed,Mixed,20,2000,64,82,2,56,81,3,105163,0
+TR00843,Din Daeng,Mixed,Government,10,750,91,124,2,81,73,2,143435,0
+TR00844,Thon Buri,Overhead,Commercial,11,1000,44,60,3,46,69,4,122081,1
+TR00845,Lat Phrao,Overhead,Government,15,1500,87,114,4,68,80,0,148104,0
+TR00846,Khlong Toei,Mixed,Residential,7,1500,82,104,4,53,84,16,115100,0
+TR00847,Thon Buri,Underground,Mixed,5,2000,73,92,2,63,77,5,109667,0
+TR00848,Bang Khen,Underground,Government,18,2000,82,106,0,77,77,0,163992,1
+TR00849,Phaya Thai,Mixed,Residential,22,1000,69,84,0,47,82,3,122770,0
+TR00850,Bang Kho Laem,Underground,Industrial,21,750,88,97,5,46,72,9,118035,0
+TR00851,Bang Khen,Underground,Government,5,750,50,76,1,71,78,11,91527,0
+TR00852,Bang Kapi,Underground,Residential,7,250,54,84,1,86,58,1,89345,0
+TR00853,Din Daeng,Underground,Government,17,500,77,102,4,47,79,0,114928,1
+TR00854,Bang Kho Laem,Mixed,Industrial,9,500,81,115,2,59,70,8,108853,0
+TR00855,Phaya Thai,Mixed,Industrial,2,250,52,59,2,83,66,15,72005,0
+TR00856,Lat Phrao,Overhead,Industrial,13,250,92,104,1,79,87,11,101588,0
+TR00857,Phaya Thai,Underground,Mixed,10,250,61,72,0,72,74,0,84561,0
+TR00858,Lat Phrao,Mixed,Residential,17,1500,61,86,1,58,72,4,96944,0
+TR00859,Din Daeng,Underground,Residential,6,250,80,110,2,60,83,4,90262,0
+TR00860,Lat Phrao,Overhead,Government,6,1000,52,65,1,77,84,7,75577,0
+TR00861,Thon Buri,Overhead,Residential,15,250,90,110,2,61,80,1,129685,0
+TR00862,Bang Kho Laem,Overhead,Industrial,6,1500,68,99,3,66,81,3,98439,0
+TR00863,Khlong Toei,Overhead,Mixed,10,250,70,75,0,74,78,2,104252,0
+TR00864,Bang Kapi,Underground,Commercial,15,500,72,87,2,67,77,7,120583,0
+TR00865,Bang Khen,Underground,Industrial,14,1500,54,74,1,82,63,1,107277,0
+TR00866,Din Daeng,Underground,Government,20,750,61,104,6,42,79,3,159281,1
+TR00867,Din Daeng,Mixed,Mixed,23,750,96,126,3,47,71,3,137556,1
+TR00868,Lat Phrao,Overhead,Mixed,12,250,66,86,1,67,68,9,107782,0
+TR00869,Din Daeng,Mixed,Government,19,500,59,63,2,62,61,0,118113,0
+TR00870,Khlong Toei,Mixed,Government,1,750,66,71,0,83,71,1,84401,0
+TR00871,Bang Kapi,Mixed,Industrial,6,250,53,68,1,59,60,0,73452,0
+TR00872,Bang Khen,Underground,Government,2,500,77,102,2,69,79,2,98192,0
+TR00873,Bang Kapi,Mixed,Mixed,23,1000,79,90,3,40,70,3,144888,0
+TR00874,Thon Buri,Overhead,Industrial,5,500,61,65,5,64,79,0,88274,0
+TR00875,Bang Kapi,Underground,Industrial,7,500,77,99,1,83,69,5,115485,0
+TR00876,Khlong Toei,Underground,Residential,19,2000,98,101,3,51,76,6,148307,0
+TR00877,Thon Buri,Overhead,Industrial,2,1000,58,75,3,79,70,0,96772,0
+TR00878,Bang Kho Laem,Mixed,Mixed,19,1000,51,61,2,50,71,3,117038,0
+TR00879,Khlong Toei,Mixed,Mixed,7,250,74,95,1,59,82,1,64099,0
+TR00880,Din Daeng,Underground,Industrial,11,500,42,55,1,65,64,4,107513,0
+TR00881,Bang Kapi,Mixed,Industrial,11,1000,76,98,4,47,87,10,115939,0
+TR00882,Din Daeng,Underground,Mixed,10,2000,76,91,1,75,77,0,120196,0
+TR00883,Thon Buri,Underground,Industrial,9,2000,62,81,2,54,77,5,75731,0
+TR00884,Khlong Toei,Mixed,Mixed,21,2000,55,57,1,53,84,1,133195,0
+TR00885,Bang Kapi,Underground,Industrial,7,750,75,94,0,68,72,2,122698,0
+TR00886,Phaya Thai,Mixed,Residential,5,1000,63,72,0,77,66,5,86843,0
+TR00887,Thon Buri,Underground,Industrial,15,500,49,61,1,72,74,2,79022,0
+TR00888,Din Daeng,Overhead,Government,14,750,56,60,3,57,80,2,104294,0
+TR00889,Din Daeng,Underground,Government,15,250,104,122,2,82,92,3,120585,0
+TR00890,Bang Khen,Overhead,Commercial,26,750,101,121,3,58,87,9,107060,1
+TR00891,Thon Buri,Mixed,Mixed,13,500,64,99,4,73,79,3,106675,0
+TR00892,Din Daeng,Overhead,Mixed,3,500,43,53,0,75,65,1,101419,0
+TR00893,Bang Khen,Overhead,Mixed,14,2000,89,108,1,92,76,3,119816,0
+TR00894,Bang Kho Laem,Mixed,Commercial,13,500,62,76,3,61,95,2,141542,0
+TR00895,Lat Phrao,Underground,Residential,6,750,49,63,1,51,74,3,119882,0
+TR00896,Bang Kho Laem,Mixed,Government,7,250,79,108,1,64,78,4,105445,0
+TR00897,Lat Phrao,Mixed,Commercial,10,2000,91,98,1,78,70,0,146539,0
+TR00898,Thon Buri,Overhead,Industrial,15,2000,56,81,1,69,57,0,109741,0
+TR00899,Phaya Thai,Mixed,Mixed,7,500,35,39,1,76,68,4,97215,0
+TR00900,Lat Phrao,Underground,Industrial,7,750,59,73,1,67,79,0,65712,0
+TR00901,Thon Buri,Overhead,Government,5,500,88,106,1,85,81,3,66239,0
+TR00902,Bang Khen,Underground,Residential,11,1500,75,95,1,68,73,7,121833,0
+TR00903,Lat Phrao,Mixed,Commercial,18,500,63,65,1,78,78,0,84991,0
+TR00904,Bang Kho Laem,Mixed,Residential,8,1000,89,111,2,72,77,0,94034,0
+TR00905,Lat Phrao,Overhead,Commercial,14,750,48,71,0,67,69,0,119896,0
+TR00906,Bang Kho Laem,Mixed,Commercial,8,500,70,88,0,68,78,3,80613,0
+TR00907,Din Daeng,Overhead,Commercial,7,1000,61,83,0,81,69,3,103966,0
+TR00908,Bang Kapi,Underground,Mixed,4,2000,59,77,1,91,71,3,92281,0
+TR00909,Khlong Toei,Underground,Commercial,31,250,94,109,5,45,80,6,119452,1
+TR00910,Lat Phrao,Overhead,Mixed,26,1500,95,101,2,44,88,6,136671,1
+TR00911,Bang Kho Laem,Overhead,Industrial,10,1500,70,116,4,55,86,0,148407,1
+TR00912,Phaya Thai,Mixed,Industrial,24,1500,55,75,1,56,82,1,145648,0
+TR00913,Din Daeng,Underground,Mixed,23,750,85,128,4,55,80,3,153138,1
+TR00914,Phaya Thai,Underground,Commercial,13,250,89,116,5,51,76,6,136881,1
+TR00915,Bang Kho Laem,Mixed,Commercial,17,1000,64,90,0,60,74,0,122065,0
+TR00916,Lat Phrao,Mixed,Commercial,18,1500,91,111,6,50,82,6,127883,1
+TR00917,Thon Buri,Overhead,Commercial,9,250,84,96,2,69,88,2,116964,1
+TR00918,Bang Khen,Mixed,Government,15,250,76,86,0,75,88,0,96135,0
+TR00919,Bang Kho Laem,Overhead,Residential,10,750,49,58,0,75,74,4,83400,0
+TR00920,Din Daeng,Overhead,Government,2,750,71,87,2,72,60,12,92787,0
+TR00921,Bang Khen,Overhead,Industrial,15,250,63,52,0,72,76,0,108557,0
+TR00922,Bang Khen,Mixed,Mixed,1,1500,51,64,2,63,72,8,86424,0
+TR00923,Bang Khen,Overhead,Mixed,21,250,77,88,1,56,82,1,174868,0
+TR00924,Thon Buri,Mixed,Residential,12,250,64,60,1,81,75,1,105454,0
+TR00925,Lat Phrao,Mixed,Government,10,1000,57,64,0,68,73,7,86845,0
+TR00926,Bang Kho Laem,Mixed,Residential,3,500,85,111,4,73,73,10,121723,0
+TR00927,Din Daeng,Mixed,Government,17,2000,83,109,4,45,73,4,122905,0
+TR00928,Lat Phrao,Underground,Commercial,10,500,67,80,0,60,68,14,75284,0
+TR00929,Lat Phrao,Overhead,Industrial,13,500,58,65,2,86,75,8,94863,0
+TR00930,Phaya Thai,Underground,Mixed,22,500,67,98,3,60,72,5,141986,0
+TR00931,Phaya Thai,Overhead,Government,16,500,69,87,1,59,72,5,88112,0
+TR00932,Thon Buri,Mixed,Industrial,14,750,43,72,2,77,77,12,98569,0
+TR00933,Bang Kapi,Underground,Industrial,9,500,47,63,3,57,74,9,61529,0
+TR00934,Bang Khen,Mixed,Residential,8,750,67,81,1,85,76,4,97710,0
+TR00935,Bang Kapi,Underground,Industrial,10,250,63,88,0,75,78,5,115522,0
+TR00936,Bang Khen,Underground,Residential,10,2000,96,117,4,51,86,3,127087,1
+TR00937,Bang Kapi,Overhead,Government,17,750,90,104,5,28,80,4,101914,0
+TR00938,Lat Phrao,Mixed,Commercial,20,750,61,60,1,69,74,11,136150,0
+TR00939,Bang Kho Laem,Overhead,Residential,9,1500,59,86,1,66,82,0,89045,0
+TR00940,Bang Kho Laem,Underground,Residential,4,1500,90,115,2,75,73,2,87709,0
+TR00941,Thon Buri,Underground,Industrial,18,2000,39,55,0,73,70,1,115627,0
+TR00942,Thon Buri,Overhead,Residential,1,2000,63,98,0,74,84,2,93359,0
+TR00943,Din Daeng,Mixed,Industrial,28,750,72,79,3,44,69,8,105006,0
+TR00944,Khlong Toei,Overhead,Industrial,27,2000,49,64,5,43,73,3,122899,0
+TR00945,Bang Khen,Overhead,Government,16,250,74,69,2,56,95,3,97895,0
+TR00946,Bang Kapi,Underground,Commercial,10,1500,82,99,4,54,67,0,117550,0
+TR00947,Bang Kapi,Mixed,Mixed,18,750,49,83,2,60,69,3,147629,0
+TR00948,Khlong Toei,Underground,Industrial,6,2000,48,63,3,52,71,5,62750,0
+TR00949,Din Daeng,Overhead,Mixed,22,1500,71,76,1,67,77,3,109963,0
+TR00950,Phaya Thai,Mixed,Mixed,16,1000,58,78,1,48,76,2,125030,0
